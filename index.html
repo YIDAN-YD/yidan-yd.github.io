@@ -119,41 +119,7 @@ header{border-top:0}
 #honours .honours{padding-left:1.25rem;margin:0;color:var(--ink)}
 #honours li+li{margin-top:.6em}
 
-/* Keep the opening content grouped on wide screens and readable on small ones. */
-.hero-grid {
-  width: min(850px, calc(100% - 48px));
-  grid-template-columns: minmax(0, 1fr) clamp(205px, 26vw, 250px);
-  gap: clamp(24px, 4vw, 44px);
-}
-.hero .intro { max-width: 100%; }
-.hero .profile { width: 100%; max-width: none; }
-.hero h1 { font-size: clamp(2.85rem, 6vw, 4.5rem); }
-@media (max-width: 980px) {
-  .bar { flex-wrap: wrap; }
-  .bar .languages { margin-left: auto; }
-  .bar nav { order: 3; width: 100%; margin: 0; }
-}
-@media (max-width: 640px) {
-  .hero { padding: 28px 0; }
-  .hero-grid {
-    width: calc(100% - 40px);
-    grid-template-columns: minmax(0, 1fr);
-    gap: 24px;
-  }
-  .hero .profile {
-    display: grid;
-    grid-template-columns: minmax(95px, 32%) minmax(0, 1fr);
-  }
-  .hero .profile img { height: 100%; object-fit: cover; object-position: 50% 40%; }
-  .hero .contact { border-top: 0; padding: 12px; }
-  .profile-links { gap: 4px 10px; }
-}
-@media (max-width: 360px) {
-  .hero .profile { grid-template-columns: minmax(0, 1fr); }
-  .hero .profile img { width: 100%; max-height: 235px; object-position: 50% 34%; }
-}
-
-/* Align the hero and section content to a shared page grid. */
+/* Align the portrait with the left column of the page. */
 main {
   --content-width: 1000px;
   --column-gap: clamp(22px, 3vw, 36px);
@@ -162,27 +128,42 @@ main {
 main .hero-grid, main .body {
   width: min(var(--content-width), calc(100% - 48px));
 }
-@media (min-width: 761px) {
-  main .hero-grid, main .row {
-    grid-template-columns: var(--page-columns);
-    gap: var(--column-gap);
-  }
-  .hero .profile { width: min(100%, 280px); justify-self: start; }
+main .hero-grid {
+  gap: clamp(32px, 5vw, 72px);
+  align-items: center;
 }
-@media (min-width: 1000px) {
-  .hero .profile {
-    width: 100%;
-    display: grid;
-    grid-template-columns: minmax(0, 46fr) minmax(0, 54fr);
-    align-items: center;
-  }
-  .hero .profile img { align-self: stretch; height: 100%; object-fit: cover; }
-  .hero .contact { border-top: 0; }
+.hero-portrait {
+  width: min(100%, 295px);
+}
+.hero-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px #1c53451a;
+}
+.hero h1 { font-size: clamp(2.85rem, 6vw, 4.5rem); }
+.hero .intro { max-width: 60ch; }
+.hero .contact {
+  margin-top: 22px;
+  padding: 14px 0 0;
+  border-top: 1px solid var(--line);
+}
+.hero .contact h2 { font-size: 1rem; letter-spacing: 0; }
+.hero .profile-links { border: 0; padding: 0; margin-top: 8px; }
+@media (min-width: 761px) {
+  main .hero-grid { grid-template-columns: minmax(0, 31fr) minmax(0, 69fr); }
+  main .row { grid-template-columns: var(--page-columns); gap: var(--column-gap); }
+}
+@media (max-width: 980px) {
+  .bar { flex-wrap: wrap; }
+  .bar .languages { margin-left: auto; }
+  .bar nav { order: 3; width: 100%; margin: 0; }
 }
 @media (max-width: 760px) {
   main .hero-grid, main .body { width: calc(100% - 40px); }
-  main .hero-grid { grid-template-columns: minmax(0, 1fr); }
-  .hero .profile { max-width: 480px; }
+  main .hero-grid { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+  .hero-portrait { width: min(100%, 216px); }
 }
 
 /* Publication summaries and research images */
@@ -221,16 +202,14 @@ main .hero-grid, main .body {
 </div></header>
 <main id="top">
 <section class="hero" aria-labelledby="name"><div class="wrap hero-grid">
-<div>
+<div class="hero-portrait"><img src="portrait.png" width="1122" height="1402" alt="王义丹肖像" data-alt-en="Portrait of Yidan Wang" data-alt-zh="王义丹肖像"></div>
+<div class="hero-copy">
 <h1 id="name" data-zh="王义丹" data-en="Yidan Wang, PhD">王义丹</h1>
 <p class="role" data-zh="新加坡国立大学 · 博士后研究员" data-en="Postdoctoral Research Fellow · National University of Singapore">新加坡国立大学 · 博士后研究员</p>
 <div class="hero-rule"></div>
 <h2 data-zh="动态疫苗的设计与开发" data-en="Design and Development of Dynamic Vaccines">动态疫苗的设计与开发</h2>
 <!-- 首页研究问题 / Homepage research question -->
 <p class="intro" data-zh="如何拓宽疫苗对不同病毒株的保护范围、在关键部位建立有效免疫屏障并延长保护持续时间，是我未来希望聚焦的研究方向。" data-en="My future research will focus on how vaccines can broaden protection across viral strains, establish effective immune barriers at key sites, and sustain protection over time.">如何拓宽疫苗对不同病毒株的保护范围、在关键部位建立有效免疫屏障并延长保护持续时间，是我未来希望聚焦的研究方向。</p>
-</div>
-<aside class="profile">
-<img src="portrait.png" width="1122" height="1402" alt="王义丹肖像" data-alt-en="Portrait of Yidan Wang" data-alt-zh="王义丹肖像">
 <div class="contact"><h2 data-zh="学术联系" data-en="Academic contact">学术联系</h2><p data-zh="新加坡国立大学杨潞龄医学院" data-en="Yong Loo Lin School of Medicine, NUS">新加坡国立大学杨潞龄医学院</p><a href="mailto:wangyidan.yd@gmail.com">wangyidan.yd@gmail.com</a>
 <ul class="profile-links">
 <li><a href="https://scholar.google.com/citations?user=mCFi1TwAAAAJ&amp;hl=zh-CN&amp;oi=ao">Google Scholar</a></li>
@@ -239,7 +218,7 @@ main .hero-grid, main .body {
 <li><a href="https://www.linkedin.com/in/yidan-wang-8b2312161/?locale=en-US">LinkedIn</a></li>
 <li><a href="https://www.xiaohongshu.com/user/profile/5af908796b58b74816990122" data-zh="小红书" data-en="RedNote">小红书</a></li>
 </ul></div>
-</aside></div></section>
+</div></div></section>
 <div class="wrap body">
 <section id="research" class="row"><h2 data-zh="研究方向" data-en="Research">研究方向</h2><div class="details">
 <!-- 研究方向正文 / Research description -->
