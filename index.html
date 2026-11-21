@@ -152,6 +152,38 @@ header{border-top:0}
   .hero .profile { grid-template-columns: minmax(0, 1fr); }
   .hero .profile img { width: 100%; max-height: 235px; object-position: 50% 34%; }
 }
+
+/* Align the hero and section content to a shared page grid. */
+main {
+  --content-width: 1000px;
+  --column-gap: clamp(22px, 3vw, 36px);
+  --page-columns: minmax(0, 37fr) minmax(0, 63fr);
+}
+main .hero-grid, main .body {
+  width: min(var(--content-width), calc(100% - 48px));
+}
+@media (min-width: 761px) {
+  main .hero-grid, main .row {
+    grid-template-columns: var(--page-columns);
+    gap: var(--column-gap);
+  }
+  .hero .profile { width: min(100%, 280px); justify-self: start; }
+}
+@media (min-width: 1000px) {
+  .hero .profile {
+    width: 100%;
+    display: grid;
+    grid-template-columns: minmax(0, 46fr) minmax(0, 54fr);
+    align-items: center;
+  }
+  .hero .profile img { align-self: stretch; height: 100%; object-fit: cover; }
+  .hero .contact { border-top: 0; }
+}
+@media (max-width: 760px) {
+  main .hero-grid, main .body { width: calc(100% - 40px); }
+  main .hero-grid { grid-template-columns: minmax(0, 1fr); }
+  .hero .profile { max-width: 480px; }
+}
 </style></head>
 <body>
 <header><div class="wrap bar">
