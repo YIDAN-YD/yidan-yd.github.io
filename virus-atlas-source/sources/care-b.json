@@ -1,0 +1,783 @@
+{
+  "checked": "2026-11-20",
+  "profiles": {
+    "hev": {
+      "vaccine": {
+        "status": [
+          "存在地区性获批疫苗。",
+          "A vaccine is licensed in selected jurisdictions."
+        ],
+        "options": [
+          "重组戊肝疫苗（HEV 239／Hecolin）在中国等国家获批，也曾用于暴发应对。",
+          "Recombinant HEV 239 (Hecolin) is licensed in China and some other countries and has been used in outbreak response."
+        ],
+        "limits": [
+          "不是全球普遍供应的常规疫苗；年龄、孕期及暴发使用应依当地批准和公共卫生建议。",
+          "It is not universally available for routine use; age, pregnancy and outbreak use depend on local authorization and public-health guidance."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "急性戊肝通常采用支持治疗。",
+          "Acute hepatitis E generally receives supportive care."
+        ],
+        "options": [
+          "WHO未列出可改变急性病程的特异性抗病毒治疗；重症、孕期或免疫抑制相关持续感染需专科管理。",
+          "WHO lists no specific antiviral proven to alter the acute course; severe, pregnancy-associated or persistent infection in immunosuppressed people requires specialist care."
+        ],
+        "limits": [
+          "急性感染与慢性感染不能套用同一治疗结论；本条不把超说明书治疗列为普遍获批方案。",
+          "Acute and chronic infection need separate assessment; off-label care is not presented as a universally approved regimen."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Hepatitis E virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-e",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hiv": {
+      "vaccine": {
+        "status": [
+          "尚无获批用于预防或治疗HIV的疫苗。",
+          "No vaccine is approved to prevent or treat HIV."
+        ],
+        "options": [
+          "预防性和治疗性HIV疫苗仍在研究；其他疫苗用于预防HIV感染者的合并感染。",
+          "Preventive and therapeutic HIV vaccines remain investigational; other vaccines prevent coinfections in people with HIV."
+        ],
+        "limits": [
+          "PrEP药物不是疫苗；治疗性疫苗也不能替代有效的ART。",
+          "PrEP medicines are not vaccines; investigational therapeutic vaccines do not replace effective ART."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "联合抗逆转录病毒治疗（ART）是标准治疗。",
+          "Combination antiretroviral therapy (ART) is standard care."
+        ],
+        "options": [
+          "常见初始治疗包含比克替拉韦或多替拉韦等整合酶抑制剂与适合的核苷类药物；具体组合由临床评估决定。",
+          "Common initial options combine an integrase inhibitor such as bictegravir or dolutegravir with suitable nucleoside agents; the regimen is selected clinically."
+        ],
+        "limits": [
+          "ART抑制病毒而非清除感染；HIV-2、耐药、乙肝合并感染、妊娠和药物相互作用影响选药。",
+          "ART suppresses rather than eradicates infection; HIV-2, resistance, hepatitis B, pregnancy and interactions affect selection."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Human immunodeficiency viruses 1 and 2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "NIH · HIV and Vaccination",
+          "url": "https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-vaccination",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "NIH · Initial ART regimens",
+          "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/what-start-initial-combination-regimens",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "htlv1": {
+      "vaccine": {
+        "status": [
+          "WHO资料未列出现有HTLV-1疫苗。",
+          "WHO lists no available HTLV-1 vaccine."
+        ],
+        "options": [
+          "预防重点是识别感染、血液安全及减少已知传播风险；疫苗尚属研发目标。",
+          "Prevention emphasizes identifying infection, blood safety and reducing known transmission risks; vaccination remains a research goal."
+        ],
+        "limits": [
+          "可行性或免疫原性研究不代表已经证实临床保护。",
+          "Feasibility or immunogenicity research does not establish clinical protection."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "无可清除HTLV-1感染的标准抗病毒治疗。",
+          "There is no standard antiviral treatment that clears HTLV-1 infection."
+        ],
+        "options": [
+          "治疗针对相关疾病，如成人T细胞白血病／淋巴瘤及HTLV-1相关脊髓病，可涉及肿瘤或免疫调节治疗。",
+          "Care targets associated disease, including adult T-cell leukemia/lymphoma and HTLV-1-associated myelopathy, using oncology or immunomodulatory approaches."
+        ],
+        "limits": [
+          "某一并发症的治疗不能解释为治愈所有无症状感染者。",
+          "Treatment of a complication does not imply a cure for all asymptomatic carriers."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Human T-lymphotropic virus 1",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1/",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "norovirus": {
+      "vaccine": {
+        "status": [
+          "尚无已获批诺如病毒疫苗。",
+          "No norovirus vaccine is approved."
+        ],
+        "options": [
+          "候选疫苗正在临床研究；预防仍依赖手卫生和食品、环境管理。",
+          "Candidates are in clinical research; prevention still relies on hand hygiene and food/environmental measures."
+        ],
+        "limits": [
+          "候选疫苗的抗体反应不能直接等同于跨型别或持久保护。",
+          "Antibody responses to candidates do not establish durable or cross-type clinical protection."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "尚无获批的特异性抗诺如病毒药物。",
+          "No specific antiviral is approved for norovirus."
+        ],
+        "options": [
+          "以补液和纠正脱水为主，严重病例需医院支持；抗生素不能治疗病毒本身。",
+          "Rehydration is central, with hospital support for severe dehydration; antibiotics do not treat the virus itself."
+        ],
+        "limits": [
+          "免疫低下者的持续感染需专科评估；个案用药不是已证明有效的标准方案。",
+          "Persistent infection in immunocompromised people needs specialist assessment; case reports do not establish standard efficacy."
+        ]
+      },
+      "sources": [
+        {
+          "title": "CDC · Noroviruses",
+          "url": "https://www.cdc.gov/norovirus/about/index.html",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "NIH · Navigating Norovirus (2026)",
+          "url": "https://newsinhealth.nih.gov/2026/01/navigating-norovirus",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "rotavirus": {
+      "vaccine": {
+        "status": [
+          "已有用于婴儿的轮状病毒疫苗。",
+          "Rotavirus vaccines are available for infants."
+        ],
+        "options": [
+          "美国使用口服RotaTeq（RV5）和Rotarix（RV1）；其他地区可使用当地获批产品。",
+          "The United States uses oral RotaTeq (RV5) and Rotarix (RV1); other jurisdictions may use other licensed products."
+        ],
+        "limits": [
+          "适用年龄和禁忌须按产品与当地免疫程序；疫苗主要降低严重胃肠炎风险。",
+          "Age eligibility and contraindications follow product/local schedules; vaccination mainly reduces severe gastroenteritis."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "治疗以支持性补液为主。",
+          "Treatment is primarily supportive rehydration."
+        ],
+        "options": [
+          "没有用于常规轮状病毒胃肠炎的特异性抗病毒治疗；严重脱水可需住院。",
+          "There is no specific antiviral for routine rotavirus gastroenteritis; severe dehydration may require hospitalization."
+        ],
+        "limits": [
+          "接种后仍可能感染；脱水监测不能因既往接种而省略。",
+          "Breakthrough infection remains possible; prior vaccination does not remove the need to assess dehydration."
+        ]
+      },
+      "sources": [
+        {
+          "title": "CDC · Rotaviruses",
+          "url": "https://www.cdc.gov/rotavirus/about/index.html",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "CDC · Rotavirus vaccination",
+          "url": "https://www.cdc.gov/rotavirus/vaccines/",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "polio": {
+      "vaccine": {
+        "status": [
+          "已有灭活和口服减毒脊灰疫苗。",
+          "Inactivated and oral live-attenuated polio vaccines are available."
+        ],
+        "options": [
+          "IPV与OPV用于不同国家的常规免疫或暴发应对；具体产品由公共卫生计划决定。",
+          "IPV and OPV serve routine programs or outbreak response in different settings; public-health programs select products."
+        ],
+        "limits": [
+          "不同疫苗在肠道免疫及罕见相关风险方面有差异，不能自行互换接种政策。",
+          "Products differ in intestinal immunity and rare associated risks; vaccination policies are not interchangeable."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "尚无治愈脊灰的特异性治疗。",
+          "There is no specific cure for polio."
+        ],
+        "options": [
+          "呼吸支持、并发症处理及康复是临床照护重点。",
+          "Respiratory support, complication management and rehabilitation are central to care."
+        ],
+        "limits": [
+          "疫苗预防疾病，但不能逆转已发生的神经损伤。",
+          "Vaccination prevents disease but does not reverse established neurological injury."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Polioviruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "eva71": {
+      "vaccine": {
+        "status": [
+          "部分地区已批准EV-A71灭活疫苗。",
+          "Inactivated EV-A71 vaccines are licensed in selected jurisdictions."
+        ],
+        "options": [
+          "WHO记录中国自2015年批准EV-A71灭活疫苗；是否接种按当地产品与儿童免疫建议。",
+          "WHO records Chinese licensure of inactivated EV-A71 vaccines from 2015; use follows local products and pediatric guidance."
+        ],
+        "limits": [
+          "EV-A71疫苗不能预防所有手足口病，其他肠道病毒仍可致病。",
+          "EV-A71 vaccines do not prevent all hand, foot and mouth disease; other enteroviruses also cause it."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "CDC未列出特异性EV-A71抗病毒治疗。",
+          "CDC lists no specific antiviral treatment for EV-A71."
+        ],
+        "options": [
+          "照护针对症状、补液及神经或心肺并发症；重症需住院管理。",
+          "Care addresses symptoms, hydration and neurological or cardiopulmonary complications; severe disease needs hospital care."
+        ],
+        "limits": [
+          "候选药物和个案经验不能视作已获批且有效的常规治疗。",
+          "Candidates and individual clinical experiences are not established approved routine treatments."
+        ]
+      },
+      "sources": [
+        {
+          "title": "CDC · Enterovirus A71",
+          "url": "https://www.cdc.gov/non-polio-enterovirus/about/about-enterovirus-a-71.html",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "WHO · Enterovirus 71 vaccine standards",
+          "url": "https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccine-standardization/enterovirus-71",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "dengue": {
+      "vaccine": {
+        "status": [
+          "有获批疫苗，但适用人群和地区限制重要。",
+          "Licensed vaccines exist, with important population and geographic restrictions."
+        ],
+        "options": [
+          "WHO建议在高传播强度地区，对6–16岁儿童使用TAK-003（Qdenga）；各国批准范围可能不同。",
+          "WHO recommends TAK-003 (Qdenga) for children aged 6–16 in high-transmission settings; national authorization can differ."
+        ],
+        "limits": [
+          "血清状态、年龄和当地流行强度影响获益风险；不能把一种产品的结论外推至全部疫苗或四型病毒。",
+          "Serostatus, age and transmission intensity affect benefit–risk; findings for one product cannot be generalized to every vaccine or all four serotypes."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "尚无特异性抗登革病毒治疗。",
+          "There is no specific antiviral treatment for dengue."
+        ],
+        "options": [
+          "及时识别警示征象、适当液体管理和重症支持是核心。",
+          "Early recognition of warning signs, appropriate fluid management and severe-disease support are central."
+        ],
+        "limits": [
+          "需避免增加出血风险的自行用药；疫苗不能替代感染后的临床监测。",
+          "Avoid unsupervised medicines that increase bleeding risk; vaccination does not replace clinical monitoring after infection."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Dengue viruses (types 1–4)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "WHO · Dengue vaccine Q&A",
+          "url": "https://www.who.int/news-room/questions-and-answers/item/dengue-vaccines",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "zika": {
+      "vaccine": {
+        "status": [
+          "WHO资料未列出现有寨卡疫苗。",
+          "WHO lists no available Zika vaccine."
+        ],
+        "options": [
+          "候选疫苗仍在研究；防蚊和减少性传播风险仍是预防重点。",
+          "Vaccine candidates remain investigational; mosquito and sexual-transmission prevention remain central."
+        ],
+        "limits": [
+          "妊娠保护需要直接证据，不能从一般成人免疫反应推定。",
+          "Protection in pregnancy requires direct evidence and cannot be inferred from immune responses in other adults."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "尚无特异性抗寨卡病毒治疗。",
+          "There is no specific antiviral treatment for Zika."
+        ],
+        "options": [
+          "以支持治疗和症状管理为主；妊娠感染及神经系统并发症需专科评估。",
+          "Care is supportive and symptom-focused; pregnancy-associated infection and neurological complications need specialist assessment."
+        ],
+        "limits": [
+          "临床管理须区分其他虫媒感染，特别是可能有出血风险的登革热。",
+          "Clinical assessment must distinguish other arboviral infections, particularly dengue with bleeding risk."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Zika virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/zika-virus/",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "chikungunya": {
+      "vaccine": {
+        "status": [
+          "已有地区性批准的疫苗；产品安全建议持续更新。",
+          "Vaccines have jurisdiction-specific approvals; product safety advice continues to evolve."
+        ],
+        "options": [
+          "CDC目前列出美国可用的VIMKUNYA，适用于12岁及以上的特定风险人群。",
+          "CDC currently lists VIMKUNYA in the United States for selected at-risk people aged 12 and older."
+        ],
+        "limits": [
+          "不是所有旅行者都需接种；不同产品（包括IXCHIQ）的监管及安全状态须查当地最新信息。",
+          "Not every traveler needs vaccination; local regulatory and safety status must be checked for each product, including IXCHIQ."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "无已建立的特异性抗基孔肯雅病毒治疗。",
+          "There is no established specific antiviral treatment for chikungunya."
+        ],
+        "options": [
+          "急性期支持治疗，持续关节症状可能需长期随访和专科管理。",
+          "Supportive care treats acute illness; persistent joint symptoms may need long-term follow-up and specialist care."
+        ],
+        "limits": [
+          "症状缓解不等于清除病毒；使用抗炎药前须考虑登革热等鉴别诊断。",
+          "Symptom relief does not establish viral clearance; dengue and other differential diagnoses matter before anti-inflammatory treatment."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Chikungunya virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "CDC · Chikungunya vaccine guidance",
+          "url": "https://www.cdc.gov/chikungunya/hcp/vaccines/index.html",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "FDA · VIMKUNYA",
+          "url": "https://www.fda.gov/vaccines-blood-biologics/vimkunya",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "jev": {
+      "vaccine": {
+        "status": [
+          "已有有效乙脑疫苗。",
+          "Effective Japanese encephalitis vaccines are available."
+        ],
+        "options": [
+          "不同国家使用灭活、减毒或其他获批疫苗；美国可用产品为IXIARO。",
+          "Countries use inactivated, live-attenuated or other licensed products; IXIARO is available in the United States."
+        ],
+        "limits": [
+          "常规免疫与旅行者建议不同；年龄、免疫状态和暴露风险决定适用性。",
+          "Routine and traveler recommendations differ; age, immune status and exposure risk determine eligibility."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "尚无特异性抗乙脑病毒治疗。",
+          "There is no specific antiviral treatment for Japanese encephalitis."
+        ],
+        "options": [
+          "住院支持、神经系统并发症管理及长期康复是重点。",
+          "Hospital support, neurological complication management and long-term rehabilitation are priorities."
+        ],
+        "limits": [
+          "预防感染的疫苗不能作为已经发病后的治疗。",
+          "Preventive vaccination is not a treatment for established illness."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Japanese encephalitis virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "CDC · Japanese encephalitis vaccine",
+          "url": "https://www.cdc.gov/japanese-encephalitis/prevention/japanese-encephalitis-vaccine.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "rabies": {
+      "vaccine": {
+        "status": [
+          "已有有效人用狂犬病疫苗。",
+          "Effective human rabies vaccines are available."
+        ],
+        "options": [
+          "用于风险人群暴露前预防，以及暴露后的紧急预防；部分暴露还需狂犬病免疫球蛋白或获批单抗。",
+          "Vaccination supports pre-exposure prevention and urgent post-exposure prophylaxis; some exposures also require rabies immunoglobulin or licensed monoclonal antibodies."
+        ],
+        "limits": [
+          "被动抗体不是疫苗；既往接种者发生可疑暴露仍须及时就医评估。",
+          "Passive antibodies are not vaccines; previously vaccinated people still need prompt assessment after suspected exposure."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "症状出现后没有可靠有效的抗病毒治愈方案。",
+          "No reliably effective antiviral cure exists once symptoms develop."
+        ],
+        "options": [
+          "暴露后预防旨在阻止发病；已经发病者需专业支持和缓和照护。",
+          "Post-exposure prophylaxis aims to prevent disease; established illness requires expert supportive and palliative care."
+        ],
+        "limits": [
+          "不能把暴露后预防的高效性解释为临床狂犬病可被同样治愈。",
+          "The effectiveness of post-exposure prevention must not be interpreted as equivalent curative efficacy in clinical rabies."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Rabies virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "ebola": {
+      "vaccine": {
+        "status": [
+          "疫苗适应证具有病毒物种特异性。",
+          "Vaccine indications are virus-species specific."
+        ],
+        "options": [
+          "ERVEBO用于预防由Ebola virus／Orthoebolavirus zairense引起的疾病。",
+          "ERVEBO prevents disease caused by Ebola virus, classified within Orthoebolavirus zairense."
+        ],
+        "limits": [
+          "不能自动外推至Sudan或Bundibugyo病毒；针对其他物种的试验或应急使用不等于既有批准适应证。",
+          "Its indication cannot automatically extend to Sudan or Bundibugyo viruses; trials or emergency use against other species are not the same as an established licensed indication."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "特定单抗已获美国FDA批准用于Zaire Ebola病毒感染。",
+          "Specific monoclonal antibodies are FDA-approved for Zaire Ebola virus infection."
+        ],
+        "options": [
+          "Inmazeb和Ebanga属于抗病毒单克隆抗体治疗，同时仍需高质量支持照护。",
+          "Inmazeb and Ebanga are antiviral monoclonal-antibody treatments, used alongside high-quality supportive care."
+        ],
+        "limits": [
+          "不能推广为所有埃博拉病相关病毒的有效治疗；对其他物种须区分试验、应急可及与已证实疗效。",
+          "They are not established treatments for every Ebola-disease virus; trials, emergency access and proven benefit for other species must be distinguished."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Ebola disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/ebola-disease",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "FDA · Ebola medical countermeasures",
+          "url": "https://www.fda.gov/emergency-preparedness-and-response/medical-countermeasure-mcm-issues/ebola",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "CDC · Ebola clinical guidance",
+          "url": "https://www.cdc.gov/ebola/hcp/clinical-guidance/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "marburg": {
+      "vaccine": {
+        "status": [
+          "WHO资料未列出获批马尔堡病疫苗。",
+          "WHO lists no approved Marburg disease vaccine."
+        ],
+        "options": [
+          "候选疫苗仍需在临床研究中评价保护效果。",
+          "Candidate vaccines require clinical evaluation of protection."
+        ],
+        "limits": [
+          "进入临床试验不等于已证实有效或可常规接种。",
+          "Entering a clinical trial does not establish efficacy or routine availability."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "WHO资料未列出获批特异性抗病毒治疗。",
+          "WHO lists no approved specific antiviral treatment."
+        ],
+        "options": [
+          "及时补液、器官支持和并发症处理是临床核心；候选疗法属研究范围。",
+          "Timely hydration, organ support and complication management are central; candidate therapeutics remain investigational."
+        ],
+        "limits": [
+          "小规模病例或实验结果不足以确定患者生存获益。",
+          "Small case series or experimental findings alone do not establish a survival benefit."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Marburg disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "nipah": {
+      "vaccine": {
+        "status": [
+          "尚无获批人用尼帕病毒疫苗。",
+          "No human Nipah vaccine is approved."
+        ],
+        "options": [
+          "多个候选产品处于研发阶段，预防仍依赖公共卫生和感染防控措施。",
+          "Multiple candidates are in development; prevention still relies on public-health and infection-control measures."
+        ],
+        "limits": [
+          "动物研究或早期人体安全数据不能视为临床保护证据。",
+          "Animal studies or early human safety data are not evidence of clinical protection."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "尚无获批的特异性尼帕病毒治疗。",
+          "No specific Nipah treatment is approved."
+        ],
+        "options": [
+          "早期识别、呼吸和神经系统并发症的支持照护是重点。",
+          "Early recognition and supportive management of respiratory and neurological complications are central."
+        ],
+        "limits": [
+          "候选抗体或药物应与常规治疗明确区分，不能承诺有效治愈。",
+          "Candidate antibodies or drugs must be distinguished from standard care and cannot be presented as proven cures."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Nipah virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "mpox": {
+      "vaccine": {
+        "status": [
+          "已有针对风险人群的猴痘预防疫苗。",
+          "Vaccines are available for people at risk of mpox."
+        ],
+        "options": [
+          "MVA-BN（如JYNNEOS／Imvanex）用于符合当地条件的人群；不同国家可用产品和年龄适应证不同。",
+          "MVA-BN products such as JYNNEOS/Imvanex are used in locally eligible groups; products and age indications vary by country."
+        ],
+        "limits": [
+          "疫苗用于预防而非治疗既有病变；疫苗有效性不意味着完全阻断感染。",
+          "Vaccines prevent disease rather than treat existing lesions; effectiveness does not mean complete prevention of infection."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "支持治疗是基础；特异性药物的适应证和证据有限。",
+          "Supportive care is central; specific drug indications and evidence are limited."
+        ],
+        "options": [
+          "美国用于猴痘的tecovirimat属研究性扩大使用，主要限符合条件的患者；不是普遍获批的猴痘治愈药。",
+          "In the United States, tecovirimat use for mpox is investigational under expanded access for eligible patients, not a universally approved cure."
+        ],
+        "limits": [
+          "PALM007与STOMP未显示缩短病变消退时间；结果不应简单外推至所有重症或严重免疫抑制人群。",
+          "PALM007 and STOMP did not show faster lesion resolution; findings should not be simply generalized to every severe or profoundly immunocompromised population."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Monkeypox virus (mpox)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mpox",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "CDC · Tecovirimat for monkeypox",
+          "url": "https://www.cdc.gov/monkeypox/hcp/clinical-care/tecovirimat.html",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "CDC · Mpox vaccination",
+          "url": "https://www.cdc.gov/monkeypox/vaccines/",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "yellow-fever": {
+      "vaccine": {
+        "status": [
+          "已有有效黄热病疫苗。",
+          "An effective yellow fever vaccine is available."
+        ],
+        "options": [
+          "减毒活疫苗用于流行区免疫和符合条件的旅行者。",
+          "Live-attenuated vaccination is used in endemic programs and eligible travelers."
+        ],
+        "limits": [
+          "妊娠、免疫抑制、特定年龄或既往严重反应需个体化获益风险评估；入境要求不等同于医学适用性。",
+          "Pregnancy, immune suppression, age and severe prior reactions require individual benefit–risk assessment; entry requirements do not determine medical eligibility."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "尚无特异性抗黄热病毒治疗。",
+          "There is no specific antiviral treatment for yellow fever."
+        ],
+        "options": [
+          "治疗关注脱水、肝肾损伤、出血及其他并发症的支持照护。",
+          "Care supports hydration and manages hepatic, renal, bleeding and other complications."
+        ],
+        "limits": [
+          "疫苗是预防工具，不能逆转已经发生的重症疾病。",
+          "Vaccination is preventive and does not reverse established severe illness."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · Yellow fever virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/yellow-fever",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "west-nile": {
+      "vaccine": {
+        "status": [
+          "尚无人用西尼罗病毒获批疫苗。",
+          "No West Nile vaccine is licensed for humans."
+        ],
+        "options": [
+          "人用候选疫苗仍在研究；动物疫苗不能替代人用疫苗。",
+          "Human candidates remain investigational; veterinary vaccines are not substitutes for human products."
+        ],
+        "limits": [
+          "免疫反应或动物保护结果不能直接证明在人群中的有效性。",
+          "Immune responses or animal protection do not directly establish human effectiveness."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "没有获批的特异性人用抗病毒治疗。",
+          "No specific human antiviral treatment is approved."
+        ],
+        "options": [
+          "以支持治疗为主，神经侵袭性疾病可需住院和康复。",
+          "Care is supportive; neuroinvasive disease may require hospitalization and rehabilitation."
+        ],
+        "limits": [
+          "个案使用的免疫疗法或抗病毒药物不能作为已证实疗效的常规推荐。",
+          "Case-based immunotherapies or antivirals are not routine recommendations with established efficacy."
+        ]
+      },
+      "sources": [
+        {
+          "title": "WHO · West Nile virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/west-nile-virus",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "CDC · West Nile key messages",
+          "url": "https://www.cdc.gov/west-nile-virus/php/outbreak-communication/key-messages.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hantavirus": {
+      "vaccine": {
+        "status": [
+          "不同病毒与地区的疫苗可及性不同。",
+          "Vaccine availability differs by virus and jurisdiction."
+        ],
+        "options": [
+          "中国部分地区使用双价肾综合征出血热疫苗；不能据此推定对所有汉坦病毒或心肺综合征均有保护。",
+          "Bivalent hemorrhagic fever with renal syndrome vaccines are used in some Chinese programs; this does not imply protection against all hantaviruses or cardiopulmonary syndrome."
+        ],
+        "limits": [
+          "美国无常规获批人用汉坦病毒疫苗；须核对具体产品、适应证及当地政策。",
+          "No routine human hantavirus vaccine is licensed in the United States; product, indication and local policy must be checked."
+        ]
+      },
+      "antiviral": {
+        "status": [
+          "支持治疗是主要治疗方式。",
+          "Supportive care is the main treatment."
+        ],
+        "options": [
+          "依临床综合征提供呼吸、循环或肾脏支持；不能把针对某一综合征的研究外推到全部汉坦病毒感染。",
+          "Care provides respiratory, circulatory or renal support according to syndrome; studies in one syndrome cannot be generalized to all hantavirus infections."
+        ],
+        "limits": [
+          "肾综合征出血热与汉坦病毒心肺综合征须分开评价，不能宣称存在普遍有效的特异性抗病毒药。",
+          "Hemorrhagic fever with renal syndrome and hantavirus cardiopulmonary syndrome require separate evaluation; a universally effective specific antiviral should not be claimed."
+        ]
+      },
+      "sources": [
+        {
+          "title": "CDC · Human-pathogenic hantaviruses",
+          "url": "https://www.cdc.gov/hantavirus/about/index.html",
+          "checked": "2026-11-20"
+        },
+        {
+          "title": "中国疾控中心 · 预防接种与出血热疫苗",
+          "url": "https://www.chinacdc.cn/jkyj/tfggws/zt/dzjz/jswj/202408/t20240828_296076.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    }
+  }
+}

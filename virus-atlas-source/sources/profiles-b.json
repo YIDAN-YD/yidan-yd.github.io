@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "hav",
+    "zh": "甲型肝炎病毒",
+    "en": "Hepatitis A virus",
+    "group": "hepatitis",
+    "genome": "+ssRNA",
+    "family": "Picornaviridae",
+    "fields": {
+      "pathogen": [
+        "HAV，引起甲型肝炎。",
+        "HAV causes hepatitis A."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "二十面体蛋白衣壳；粪便排出的颗粒无包膜。",
+        "Icosahedral protein capsid; particles shed in stool are non-enveloped."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "乏力、食欲减退、恶心、黄疸；儿童可无症状。",
+        "Fatigue, nausea, poor appetite and jaundice; children may be asymptomatic."
+      ],
+      "transmission": [
+        "粪口途径，包括污染食物、水和密切接触。",
+        "Faecal–oral spread through contaminated food, water and close contact."
+      ],
+      "risk": [
+        "少数出现急性肝衰竭；不形成慢性感染。",
+        "Rare acute liver failure; chronic infection does not occur."
+      ],
+      "prevention": [
+        "疫苗、安全饮水、食品卫生和洗手。",
+        "Vaccination, safe water, food hygiene and handwashing."
+      ],
+      "treatment": [
+        "支持治疗；重症需住院，无特异性抗病毒治疗。",
+        "Supportive care; severe illness needs hospital care. No specific antiviral treatment."
+      ],
+      "mechanism": [
+        "肝脏感染及免疫反应导致急性炎症。",
+        "Liver infection and immune responses cause acute inflammation."
+      ],
+      "progress": [
+        "疫苗已用于常规免疫和暴发控制。",
+        "Vaccines are established tools for routine immunization and outbreak control."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：改进成人易感人群识别与暴发应对。",
+        "Suggested priorities (editorial synthesis): Improve identification of susceptible adults and outbreak responses."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Hepatitis A virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2026-07-28"
+      },
+      {
+        "title": "ICTV · Picornaviridae",
+        "url": "https://ictv.global/report/chapter/picornaviridae/picornaviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "hbv",
+    "zh": "乙型肝炎病毒",
+    "en": "Hepatitis B virus",
+    "group": "hepatitis",
+    "genome": "dsDNA-RT",
+    "family": "Hepadnaviridae",
+    "fields": {
+      "pathogen": [
+        "HBV，引起急性或慢性乙型肝炎。",
+        "HBV causes acute or chronic hepatitis B."
+      ],
+      "genome": [
+        "部分双链环状 DNA；复制涉及逆转录。",
+        "Partially double-stranded circular DNA; replication involves reverse transcription."
+      ],
+      "structure": [
+        "有包膜、二十面体核衣壳。",
+        "Enveloped virion with an icosahedral nucleocapsid."
+      ],
+      "receptor": [
+        "NTCP 是已确认的肝细胞进入受体。",
+        "NTCP is an established hepatocyte entry receptor."
+      ],
+      "symptoms": [
+        "常无症状；可有乏力、恶心和黄疸。",
+        "Often silent; fatigue, nausea and jaundice may occur."
+      ],
+      "transmission": [
+        "血液、性接触及母婴传播。",
+        "Blood exposure, sexual contact and perinatal transmission."
+      ],
+      "risk": [
+        "肝硬化、肝癌及肝衰竭。",
+        "Cirrhosis, liver cancer and liver failure."
+      ],
+      "prevention": [
+        "疫苗、出生剂次、孕期筛查和安全注射。",
+        "Vaccination, birth dose, antenatal screening and safe injections."
+      ],
+      "treatment": [
+        "慢性患者可用核苷（酸）类似物抑制病毒；通常需长期管理。",
+        "Antivirals suppress chronic infection; long-term management is commonly needed."
+      ],
+      "mechanism": [
+        "肝细胞内持续性病毒储存与免疫损伤维持慢性病程。",
+        "Persistent viral templates and immune injury sustain chronic liver disease."
+      ],
+      "progress": [
+        "WHO 已更新筛查和扩大治疗适用人群的指导。",
+        "WHO has updated guidance on testing and expanded treatment eligibility."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：持续缓解、肝癌预防及诊疗可及性。",
+        "Suggested priorities (editorial synthesis): Durable remission, cancer prevention and equitable access to care."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Hepatitis B virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2026-07-28"
+      },
+      {
+        "title": "ICTV · Hepadnaviridae",
+        "url": "https://ictv.global/report/chapter/hepadnaviridae/hepadnaviridae",
+        "scope": "病毒科、基因组、基本结构与受体",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "hcv",
+    "zh": "丙型肝炎病毒",
+    "en": "Hepatitis C virus",
+    "group": "hepatitis",
+    "genome": "+ssRNA",
+    "family": "Flaviviridae",
+    "fields": {
+      "pathogen": [
+        "HCV，引起急性或慢性丙型肝炎。",
+        "HCV causes acute or chronic hepatitis C."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "有包膜的病毒颗粒。",
+        "Enveloped virions."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "常长期无症状；可有乏力、恶心、黄疸。",
+        "Often silent for years; fatigue, nausea and jaundice can occur."
+      ],
+      "transmission": [
+        "主要经血液；也可围产期或经有血液暴露的性接触传播。",
+        "Mainly bloodborne; perinatal and blood-associated sexual transmission can occur."
+      ],
+      "risk": [
+        "肝硬化和肝细胞癌。",
+        "Cirrhosis and hepatocellular carcinoma."
+      ],
+      "prevention": [
+        "血液筛查、安全注射和减害服务；尚无有效疫苗。",
+        "Blood screening, safe injections and harm reduction; no effective vaccine."
+      ],
+      "treatment": [
+        "直接作用抗病毒药可治愈绝大多数感染者。",
+        "Direct-acting antivirals cure most infections."
+      ],
+      "mechanism": [
+        "持续肝脏感染引发慢性炎症与纤维化。",
+        "Persistent liver infection causes inflammation and fibrosis."
+      ],
+      "progress": [
+        "可治愈治疗已建立，但诊断与治疗覆盖仍不足。",
+        "Curative therapy is established, but testing and treatment gaps persist."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：扩大检测、预防再感染及建立有效疫苗。",
+        "Suggested priorities (editorial synthesis): Expand diagnosis, prevent reinfection and develop effective vaccines."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Hepatitis C virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2026-07-28"
+      },
+      {
+        "title": "ICTV · Flaviviridae",
+        "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "hdv",
+    "zh": "丁型肝炎病毒",
+    "en": "Hepatitis D virus",
+    "group": "hepatitis",
+    "genome": "-ssRNA",
+    "family": "Kolmioviridae",
+    "fields": {
+      "pathogen": [
+        "HDV；人体感染依赖伴随 HBV 感染。",
+        "HDV; human infection depends on accompanying HBV infection."
+      ],
+      "genome": [
+        "环状负链单链 RNA。",
+        "Circular negative-sense single-stranded RNA."
+      ],
+      "structure": [
+        "核糖核蛋白外包裹 HBV 来源的包膜。",
+        "Ribonucleoprotein enclosed in an HBV-derived envelope."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "乏力、恶心、黄疸，可有严重肝炎。",
+        "Fatigue, nausea and jaundice; severe hepatitis is possible."
+      ],
+      "transmission": [
+        "血液和体液；性传播，母婴传播较少。",
+        "Blood and body fluids, sexual contact; perinatal transmission is less common."
+      ],
+      "risk": [
+        "重症肝炎、快速进展的肝硬化及肝癌。",
+        "Severe hepatitis, rapidly progressive cirrhosis and liver cancer."
+      ],
+      "prevention": [
+        "乙肝疫苗可预防未感染 HBV 者的丁肝；已感染 HBV 者不因此获保护。",
+        "HBV vaccination prevents HDV in HBV-uninfected people, not existing HBV carriers."
+      ],
+      "treatment": [
+        "专科治疗；干扰素及部分地区获批的布来维肽。",
+        "Specialist care: interferon and bulevirtide where approved."
+      ],
+      "mechanism": [
+        "在 HBV 背景下加重肝脏炎症；严重化机制仍不完全清楚。",
+        "HDV aggravates HBV-associated liver injury; severity mechanisms remain incompletely understood."
+      ],
+      "progress": [
+        "欧洲已有新疗法获批；疗程及联合方案仍在评估。",
+        "New therapy is approved in Europe; duration and combinations remain under evaluation."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：改善诊断可及性和长期治疗结局。",
+        "Suggested priorities (editorial synthesis): Improve diagnosis and long-term treatment outcomes."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Hepatitis D virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-d",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2026-07-28"
+      },
+      {
+        "title": "ICTV · Kolmioviridae",
+        "url": "https://ictv.global/report/chapter/kolmioviridae/kolmioviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "hev",
+    "zh": "戊型肝炎病毒",
+    "en": "Hepatitis E virus",
+    "group": "hepatitis",
+    "genome": "+ssRNA",
+    "family": "Hepeviridae",
+    "fields": {
+      "pathogen": [
+        "HEV，引起戊型肝炎。",
+        "HEV causes hepatitis E."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "无包膜及准包膜形式，取决于体内位置。",
+        "Non-enveloped and quasi-enveloped forms occur in different compartments."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "发热、食欲下降、恶心和黄疸。",
+        "Fever, appetite loss, nausea and jaundice."
+      ],
+      "transmission": [
+        "污染饮水；部分感染与未熟动物食品有关。",
+        "Contaminated water; some infections follow undercooked animal products."
+      ],
+      "risk": [
+        "孕妇可发生重症；免疫抑制者可慢性化。",
+        "Severe disease in pregnancy; chronic infection in immunosuppressed people."
+      ],
+      "prevention": [
+        "安全饮水、食品充分煮熟；疫苗可及性因地区而异。",
+        "Safe water and thoroughly cooked food; vaccine access varies geographically."
+      ],
+      "treatment": [
+        "通常支持治疗；重症、妊娠及慢性感染需专科评估。",
+        "Usually supportive care; severe, pregnancy-associated or chronic infection needs specialist assessment."
+      ],
+      "mechanism": [
+        "肝脏感染导致炎症；宿主状态影响清除和严重程度。",
+        "Liver infection causes inflammation; host status affects clearance and severity."
+      ],
+      "progress": [
+        "已有疫苗用于部分地区及暴发应对。",
+        "A vaccine is used in some settings and outbreak responses."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：妊娠保护、慢性病例管理及扩大疫苗证据。",
+        "Suggested priorities (editorial synthesis): Protection in pregnancy, chronic-disease care and broader vaccine evidence."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Hepatitis E virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-e",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2026-07-28"
+      },
+      {
+        "title": "ICTV · Hepeviridae",
+        "url": "https://ictv.global/report/chapter/hepeviridae/hepeviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "hiv",
+    "zh": "人类免疫缺陷病毒（1/2 型）",
+    "en": "Human immunodeficiency viruses 1 and 2",
+    "group": "other",
+    "genome": "ssRNA-RT",
+    "family": "Retroviridae",
+    "fields": {
+      "pathogen": [
+        "HIV-1 与 HIV-2；未经治疗可导致艾滋病。",
+        "HIV-1 and HIV-2; untreated infection can lead to AIDS."
+      ],
+      "genome": [
+        "两份正链 RNA，经过 DNA 中间体复制。",
+        "Two positive-sense RNA copies; replication uses a DNA intermediate."
+      ],
+      "structure": [
+        "有包膜的逆转录病毒。",
+        "Enveloped retroviruses."
+      ],
+      "receptor": [
+        "CD4 与共受体 CCR5 或 CXCR4 参与进入。",
+        "CD4 and the coreceptors CCR5 or CXCR4 support entry."
+      ],
+      "symptoms": [
+        "急性期类似流感，随后可长期无症状。",
+        "Acute flu-like illness, followed by a potentially long silent period."
+      ],
+      "transmission": [
+        "性接触、血液、妊娠、分娩和哺乳；不经普通接触传播。",
+        "Sex, blood, pregnancy, childbirth and breastfeeding; not casual contact."
+      ],
+      "risk": [
+        "免疫缺陷、机会性感染及相关肿瘤。",
+        "Immunodeficiency, opportunistic infections and associated cancers."
+      ],
+      "prevention": [
+        "安全性行为、PrEP/PEP、无菌针具及有效治疗。",
+        "Safer sex, PrEP/PEP, sterile needles and effective treatment."
+      ],
+      "treatment": [
+        "联合抗逆转录病毒治疗；持续病毒抑制可防止性传播。",
+        "Combination ART; sustained viral suppression prevents sexual transmission."
+      ],
+      "mechanism": [
+        "感染免疫细胞并形成持续感染，逐渐损害免疫防御。",
+        "Persistent infection of immune cells progressively weakens immune defence."
+      ],
+      "progress": [
+        "治疗已使 HIV 成为可管理的慢性疾病。",
+        "Treatment has made HIV a manageable chronic condition."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：持久缓解、预防工具可及性及减少污名。",
+        "Suggested priorities (editorial synthesis): Durable remission, prevention access and reduction of stigma."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Human immunodeficiency viruses 1 and 2",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2026-07-27"
+      },
+      {
+        "title": "ICTV · Retroviridae",
+        "url": "https://ictv.global/report/chapter/retroviridae/retroviridae",
+        "scope": "病毒科、基因组、基本结构与受体",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "htlv1",
+    "zh": "人类嗜 T 淋巴细胞病毒 1 型",
+    "en": "Human T-lymphotropic virus 1",
+    "group": "other",
+    "genome": "ssRNA-RT",
+    "family": "Retroviridae",
+    "fields": {
+      "pathogen": [
+        "HTLV-1，造成终身感染的逆转录病毒。",
+        "HTLV-1 is a retrovirus causing lifelong infection."
+      ],
+      "genome": [
+        "RNA 逆转录为整合的 DNA。",
+        "RNA is reverse-transcribed into integrated DNA."
+      ],
+      "structure": [
+        "有包膜的病毒颗粒。",
+        "Enveloped virions."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "多数无症状；可出现皮肤、眼及神经系统疾病。",
+        "Usually asymptomatic; skin, eye and neurological disease can occur."
+      ],
+      "transmission": [
+        "性接触、哺乳、共用针具和不安全输血。",
+        "Sex, breastfeeding, shared needles and unsafe transfusion."
+      ],
+      "risk": [
+        "成人 T 细胞白血病/淋巴瘤及进行性脊髓病。",
+        "Adult T-cell leukaemia/lymphoma and progressive myelopathy."
+      ],
+      "prevention": [
+        "血液筛查、安全性行为、无菌针具及个体化喂养咨询。",
+        "Blood screening, safer sex, sterile needles and individualized feeding counselling."
+      ],
+      "treatment": [
+        "没有清除感染的常规治疗；按相关疾病进行专科治疗。",
+        "No routine eradication treatment; specialists treat associated diseases."
+      ],
+      "mechanism": [
+        "持续感染与免疫失调可造成炎症和异常细胞增生。",
+        "Persistent infection and immune dysregulation can cause inflammation and abnormal cell growth."
+      ],
+      "progress": [
+        "WHO 正推进检测与预防指导；尚无疫苗。",
+        "WHO is developing testing and prevention guidance; no vaccine is available."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：疾病负担估计、早期风险识别及预防措施评估。",
+        "Suggested priorities (editorial synthesis): Burden estimates, early risk detection and evaluation of prevention strategies."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Human T-lymphotropic virus 1",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1/",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2025-12-24"
+      },
+      {
+        "title": "ICTV · Retroviridae",
+        "url": "https://ictv.global/report/chapter/retroviridae/retroviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "norovirus",
+    "zh": "诺如病毒",
+    "en": "Noroviruses",
+    "group": "enteric",
+    "genome": "+ssRNA",
+    "family": "Caliciviridae",
+    "fields": {
+      "pathogen": [
+        "人类诺如病毒群，引起急性胃肠炎。",
+        "Human noroviruses cause acute gastroenteritis."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "无包膜、二十面体衣壳。",
+        "Non-enveloped, icosahedral capsid."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "呕吐、腹泻、恶心和腹痛。",
+        "Vomiting, diarrhoea, nausea and abdominal pain."
+      ],
+      "transmission": [
+        "粪口传播、污染食品或表面，以及呕吐物污染。",
+        "Faecal–oral transmission, contaminated food or surfaces and contamination from vomit."
+      ],
+      "risk": [
+        "脱水；幼儿、老人和免疫低下者尤需关注。",
+        "Dehydration, especially in young children, older adults and immunocompromised people."
+      ],
+      "prevention": [
+        "肥皂洗手、食品卫生及规范清洁污染环境。",
+        "Soap-and-water handwashing, food hygiene and appropriate cleaning."
+      ],
+      "treatment": [
+        "补液与支持治疗；严重脱水需医疗处理。",
+        "Rehydration and supportive care; severe dehydration needs medical attention."
+      ],
+      "mechanism": [
+        "肠道感染扰乱消化吸收和液体平衡。",
+        "Intestinal infection disrupts digestive function and fluid balance."
+      ],
+      "progress": [
+        "不同型别可重复感染；免疫保护持续时间仍不清楚。",
+        "Repeated infections occur across types; duration of protective immunity remains uncertain."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：更持久广谱的预防和高风险机构暴发控制。",
+        "Suggested priorities (editorial synthesis): Durable broad protection and outbreak control in vulnerable institutions."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "CDC · Noroviruses",
+        "url": "https://www.cdc.gov/norovirus/about/index.html",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2024-04-24"
+      },
+      {
+        "title": "ICTV · Caliciviridae",
+        "url": "https://ictv.global/report/chapter/caliciviridae/caliciviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "rotavirus",
+    "zh": "轮状病毒",
+    "en": "Rotaviruses",
+    "group": "enteric",
+    "genome": "dsRNA",
+    "family": "Sedoreoviridae",
+    "fields": {
+      "pathogen": [
+        "人类疾病以 A 组轮状病毒为主。",
+        "Group A rotaviruses cause most human rotavirus disease."
+      ],
+      "genome": [
+        "分节段双链 RNA。",
+        "Segmented double-stranded RNA."
+      ],
+      "structure": [
+        "无包膜、多层二十面体衣壳。",
+        "Non-enveloped virions with multilayered icosahedral capsids."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "水样腹泻、呕吐、发热和腹痛。",
+        "Watery diarrhoea, vomiting, fever and abdominal pain."
+      ],
+      "transmission": [
+        "粪口途径，常见于家庭和托幼场所。",
+        "Faecal–oral transmission, often in households and childcare settings."
+      ],
+      "risk": [
+        "婴幼儿严重脱水，可能危及生命。",
+        "Severe, potentially fatal dehydration in infants and young children."
+      ],
+      "prevention": [
+        "按当地程序接种疫苗，保持手和环境卫生。",
+        "Routine vaccination according to local schedules, hand and environmental hygiene."
+      ],
+      "treatment": [
+        "补液为核心；无常规特异性抗病毒药。",
+        "Rehydration is central; no routine specific antiviral treatment."
+      ],
+      "mechanism": [
+        "肠道感染破坏液体平衡，引起分泌和吸收异常。",
+        "Intestinal infection disrupts fluid balance and absorption."
+      ],
+      "progress": [
+        "疫苗已成为预防儿童重症的成熟工具。",
+        "Vaccination is an established tool against severe childhood disease."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：提高覆盖率并改善低资源地区的保护效果。",
+        "Suggested priorities (editorial synthesis): Increase coverage and improve protection in resource-limited settings."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "CDC · Rotaviruses",
+        "url": "https://www.cdc.gov/rotavirus/about/index.html",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2024-04-22"
+      },
+      {
+        "title": "ICTV · Sedoreoviridae",
+        "url": "https://ictv.global/report/chapter/sedoreoviridae/sedoreoviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "polio",
+    "zh": "脊髓灰质炎病毒",
+    "en": "Polioviruses",
+    "group": "enteric",
+    "genome": "+ssRNA",
+    "family": "Picornaviridae",
+    "fields": {
+      "pathogen": [
+        "脊髓灰质炎的病原；属于肠道病毒。",
+        "Enteroviruses responsible for poliomyelitis."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "无包膜、二十面体衣壳。",
+        "Non-enveloped, icosahedral capsid."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "可无症状；发热、乏力，少数出现瘫痪。",
+        "May be silent; fever and fatigue, with paralysis in a minority."
+      ],
+      "transmission": [
+        "主要粪口传播，包括污染水或食物。",
+        "Predominantly faecal–oral, including contaminated water or food."
+      ],
+      "risk": [
+        "不可逆瘫痪和呼吸肌麻痹。",
+        "Irreversible paralysis and respiratory muscle failure."
+      ],
+      "prevention": [
+        "按当地程序接种脊灰疫苗及改善卫生。",
+        "Polio vaccination according to local schedules and improved sanitation."
+      ],
+      "treatment": [
+        "没有治愈方法；支持治疗、呼吸支持与康复。",
+        "No cure; supportive care, respiratory support and rehabilitation."
+      ],
+      "mechanism": [
+        "肠道感染后，少数病例发生神经系统损伤。",
+        "Intestinal infection can occasionally lead to nervous-system injury."
+      ],
+      "progress": [
+        "全球根除行动已大幅减少病例，但传播尚未完全消除。",
+        "Eradication efforts have greatly reduced cases, but transmission has not ended."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：弥补免疫缺口，持续监测并保障根除后的防护。",
+        "Suggested priorities (editorial synthesis): Close immunity gaps, sustain surveillance and maintain post-eradication protection."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Polioviruses",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2025-04-02"
+      },
+      {
+        "title": "ICTV · Picornaviridae",
+        "url": "https://ictv.global/report/chapter/picornaviridae/picornaviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "eva71",
+    "zh": "肠道病毒 A71",
+    "en": "Enterovirus A71",
+    "group": "enteric",
+    "genome": "+ssRNA",
+    "family": "Picornaviridae",
+    "fields": {
+      "pathogen": [
+        "EV-A71，是手足口病的重要病原之一。",
+        "EV-A71 is an important cause of hand, foot and mouth disease."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "无包膜、二十面体衣壳。",
+        "Non-enveloped, icosahedral capsid."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "发热、口腔疱疹及手足皮疹，也可无症状。",
+        "Fever, mouth sores and hand/foot rash; some infections are silent."
+      ],
+      "transmission": [
+        "粪便、呼吸道分泌物、疱液和污染物接触。",
+        "Contact with stool, respiratory secretions, blister fluid and contaminated objects."
+      ],
+      "risk": [
+        "少数出现脑炎、脑膜炎或急性弛缓性脊髓炎。",
+        "Rare encephalitis, meningitis or acute flaccid myelitis."
+      ],
+      "prevention": [
+        "洗手、清洁和减少密切接触；疫苗供应因国家而异。",
+        "Handwashing, cleaning and reduced close contact; vaccine availability varies by country."
+      ],
+      "treatment": [
+        "无特异性治疗；神经系统重症需住院支持治疗。",
+        "No specific treatment; severe neurological illness needs hospital supportive care."
+      ],
+      "mechanism": [
+        "常见黏膜感染，少数可累及中枢神经系统。",
+        "Usually mucosal infection; the central nervous system is occasionally affected."
+      ],
+      "progress": [
+        "已制定疫苗国际标准；并非所有国家均提供疫苗。",
+        "International vaccine standards exist; vaccines are not available in every country."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：提升重症预警和对多病原手足口病的防护。",
+        "Suggested priorities (editorial synthesis): Improve warning signs and protection against multiple HFMD pathogens."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "CDC · Enterovirus A71",
+        "url": "https://www.cdc.gov/non-polio-enterovirus/about/about-enterovirus-a-71.html",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2024-04-23"
+      },
+      {
+        "title": "ICTV · Picornaviridae",
+        "url": "https://ictv.global/report/chapter/picornaviridae/picornaviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      },
+      {
+        "title": "WHO · Enterovirus 71 vaccine standards",
+        "url": "https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccine-standardization/enterovirus-71",
+        "scope": "疫苗标准与研究进展"
+      }
+    ]
+  },
+  {
+    "id": "dengue",
+    "zh": "登革病毒（1–4 型）",
+    "en": "Dengue viruses (types 1–4)",
+    "group": "vector",
+    "genome": "+ssRNA",
+    "family": "Flaviviridae",
+    "fields": {
+      "pathogen": [
+        "DENV，有四种主要血清型。",
+        "DENV comprises four major serotypes."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "有包膜，近球形颗粒。",
+        "Enveloped, approximately spherical virions."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "发热、头痛、肌肉关节痛、恶心和皮疹。",
+        "Fever, headache, muscle/joint pain, nausea and rash."
+      ],
+      "transmission": [
+        "主要通过感染的伊蚊叮咬。",
+        "Primarily bites from infected Aedes mosquitoes."
+      ],
+      "risk": [
+        "重症血浆渗漏、休克、出血和器官损伤。",
+        "Severe plasma leakage, shock, bleeding and organ injury."
+      ],
+      "prevention": [
+        "防蚊和蚊媒控制；疫苗按当地适应证使用。",
+        "Bite prevention, vector control and vaccination under local indications."
+      ],
+      "treatment": [
+        "监测和补液；无特异性药物，避免阿司匹林及布洛芬。",
+        "Monitoring and fluids; no specific medicine. Avoid aspirin and ibuprofen."
+      ],
+      "mechanism": [
+        "病毒感染及宿主免疫反应可引起血管通透性异常。",
+        "Infection and host immune responses can disrupt vascular permeability."
+      ],
+      "progress": [
+        "已有疫苗，但适用人群、年龄及既往感染要求依产品而异。",
+        "Vaccines exist; eligibility and previous-infection requirements vary by product."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：改进重症预测、疫苗公平性及可持续蚊媒控制。",
+        "Suggested priorities (editorial synthesis): Improve severity prediction, vaccine equity and sustainable vector control."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Dengue viruses (types 1–4)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2025-08-21"
+      },
+      {
+        "title": "ICTV · Flaviviridae",
+        "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "zika",
+    "zh": "寨卡病毒",
+    "en": "Zika virus",
+    "group": "vector",
+    "genome": "+ssRNA",
+    "family": "Flaviviridae",
+    "fields": {
+      "pathogen": [
+        "ZIKV，引起寨卡病毒病。",
+        "ZIKV causes Zika virus disease."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "有包膜，近球形颗粒。",
+        "Enveloped, approximately spherical virions."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "多无症状；可有低热、皮疹、结膜炎及关节痛。",
+        "Often silent; fever, rash, conjunctivitis and joint pain may occur."
+      ],
+      "transmission": [
+        "伊蚊叮咬，也可性传播和母胎传播。",
+        "Aedes mosquito bites, sexual and maternal–fetal transmission."
+      ],
+      "risk": [
+        "先天性畸形、妊娠丢失及吉兰–巴雷综合征。",
+        "Congenital abnormalities, pregnancy loss and Guillain–Barré syndrome."
+      ],
+      "prevention": [
+        "防蚊、安全性行为及孕期旅行风险咨询。",
+        "Bite prevention, safer sex and pregnancy travel-risk counselling."
+      ],
+      "treatment": [
+        "支持治疗；妊娠暴露和神经症状需专科评估。",
+        "Supportive care; pregnancy exposure and neurological symptoms need specialist assessment."
+      ],
+      "mechanism": [
+        "感染可损害发育中胎儿组织；少数发生免疫相关神经损伤。",
+        "Infection can harm developing fetal tissues; immune-associated neurological injury occasionally occurs."
+      ],
+      "progress": [
+        "WHO 概览尚未报告可用的预防疫苗。",
+        "The WHO overview reports no available preventive vaccine."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：母婴长期随访、可靠诊断及安全有效的预防工具。",
+        "Suggested priorities (editorial synthesis): Long-term mother–child follow-up, reliable diagnosis and safe prevention tools."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Zika virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/zika-virus/",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2025-11-06"
+      },
+      {
+        "title": "ICTV · Flaviviridae",
+        "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  },
+  {
+    "id": "chikungunya",
+    "zh": "基孔肯雅病毒",
+    "en": "Chikungunya virus",
+    "group": "vector",
+    "genome": "+ssRNA",
+    "family": "Togaviridae",
+    "fields": {
+      "pathogen": [
+        "CHIKV，引起基孔肯雅热。",
+        "CHIKV causes chikungunya disease."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "有包膜，二十面体核衣壳。",
+        "Enveloped virions with an icosahedral nucleocapsid."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "发热、明显关节痛、皮疹及乏力。",
+        "Fever, prominent joint pain, rash and fatigue."
+      ],
+      "transmission": [
+        "主要经伊蚊传播。",
+        "Primarily transmitted by Aedes mosquitoes."
+      ],
+      "risk": [
+        "持续性关节疼痛；婴儿和老年人偶有严重器官并发症。",
+        "Persistent joint pain; occasional severe organ complications in infants and older adults."
+      ],
+      "prevention": [
+        "防蚊；疫苗接种须结合当地最新产品与适应证。",
+        "Prevent mosquito bites; vaccination depends on current local products and eligibility."
+      ],
+      "treatment": [
+        "支持与镇痛治疗；排除登革热前避免非甾体抗炎药。",
+        "Supportive care and pain relief; avoid NSAIDs until dengue is excluded."
+      ],
+      "mechanism": [
+        "感染与炎症反应可导致急性及持续关节症状。",
+        "Infection and inflammatory responses cause acute and persistent joint symptoms."
+      ],
+      "progress": [
+        "VIMKUNYA 已在美国可用；疫苗安全性与适应证持续更新。",
+        "VIMKUNYA is available in the US; safety guidance and indications continue to evolve."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：评估长期保护、安全性及慢性关节病管理。",
+        "Suggested priorities (editorial synthesis): Assess lasting protection, safety and management of chronic joint disease."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Chikungunya virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2025-04-14"
+      },
+      {
+        "title": "ICTV · Togaviridae",
+        "url": "https://ictv.global/report/chapter/togaviridae/togaviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      },
+      {
+        "title": "CDC · Chikungunya vaccine",
+        "url": "https://www.cdc.gov/chikungunya/vaccines/index.html",
+        "scope": "疫苗供应与更新",
+        "source_date": "2026-01-23"
+      }
+    ]
+  },
+  {
+    "id": "jev",
+    "zh": "日本脑炎病毒（乙脑病毒）",
+    "en": "Japanese encephalitis virus",
+    "group": "vector",
+    "genome": "+ssRNA",
+    "family": "Flaviviridae",
+    "fields": {
+      "pathogen": [
+        "JEV，引起流行性乙型脑炎。",
+        "JEV causes Japanese encephalitis."
+      ],
+      "genome": [
+        "正链单链 RNA。",
+        "Positive-sense single-stranded RNA."
+      ],
+      "structure": [
+        "有包膜，近球形颗粒。",
+        "Enveloped, approximately spherical virions."
+      ],
+      "receptor": [
+        "本概览未核实具体受体；不能据此推断不存在受体。",
+        "Specific receptors were not verified for this overview; this does not imply their absence."
+      ],
+      "symptoms": [
+        "多数无症状；重症高热、意识障碍和抽搐。",
+        "Usually silent; severe illness causes fever, confusion and seizures."
+      ],
+      "transmission": [
+        "库蚊传播；动物–蚊循环，人一般为终末宿主。",
+        "Culex mosquitoes; animal–mosquito cycles, with humans usually dead-end hosts."
+      ],
+      "risk": [
+        "脑炎死亡及持久认知、运动或行为障碍。",
+        "Fatal encephalitis and lasting cognitive, motor or behavioural disability."
+      ],
+      "prevention": [
+        "风险地区接种疫苗，采取防蚊措施。",
+        "Vaccination in risk settings and mosquito-bite prevention."
+      ],
+      "treatment": [
+        "无特异性抗病毒治疗；紧急支持治疗与康复。",
+        "No specific antiviral; urgent supportive care and rehabilitation."
+      ],
+      "mechanism": [
+        "少数感染累及中枢神经系统并引起炎症损伤。",
+        "A minority of infections reach the central nervous system and cause inflammatory injury."
+      ],
+      "progress": [
+        "安全有效疫苗及免疫项目已减少部分地区疾病负担。",
+        "Effective vaccines and immunization programmes have reduced disease burden in some settings."
+      ],
+      "future": [
+        "研究重点建议（编辑综合）：补足免疫覆盖、改善脑炎诊断和长期康复。",
+        "Suggested priorities (editorial synthesis): Close vaccine gaps, improve encephalitis diagnosis and long-term rehabilitation."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Japanese encephalitis virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis",
+        "scope": "症状、传播、风险、预防、治疗与公共卫生进展",
+        "source_date": "2024-08-06"
+      },
+      {
+        "title": "ICTV · Flaviviridae",
+        "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+        "scope": "病毒科、基因组与基本结构",
+        "source_date": null
+      }
+    ]
+  }
+]

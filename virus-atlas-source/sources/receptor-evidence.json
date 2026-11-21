@@ -1,0 +1,326 @@
+{
+  "checked": "2026-11-20",
+  "scope": [
+    "六个常见临床条目的非穷尽基础说明；其他条目标为本页未完成核验。不包含跨物种比较、反向索引或实验操作。",
+    "Non-exhaustive foundational notes for six common clinical profiles; other entries are marked unreviewed for this page. No cross-species comparison, reverse index or experimental instructions."
+  ],
+  "profiles": {
+    "sars-cov-2": {
+      "checked": "2026-11-20",
+      "summary": [
+        "基础证据区分ACE2受体与TMPRSS2辅助蛋白酶；候选受体说法需单独核查。",
+        "Foundational evidence distinguishes the ACE2 receptor from the auxiliary protease TMPRSS2; candidate receptor claims require separate assessment."
+      ],
+      "entries": [
+        {
+          "name": "ACE2",
+          "role": "receptor",
+          "explanation": [
+            "原始细胞研究支持ACE2作为SARS-CoV-2的进入受体。",
+            "Primary cellular research supports ACE2 as an entry receptor for SARS-CoV-2."
+          ],
+          "limit": [
+            "受体作用不等于单凭其表达就能预测感染、重症或药物疗效。",
+            "Receptor function does not make expression alone a predictor of infection, severity or treatment benefit."
+          ],
+          "refs": [
+            "hoffmann2020"
+          ]
+        },
+        {
+          "name": "TMPRSS2",
+          "role": "cofactor",
+          "explanation": [
+            "参与进入过程的宿主蛋白酶，应与受体分开标注。",
+            "A host protease involved in entry; it should be labelled separately from a receptor."
+          ],
+          "limit": [
+            "该基础研究不证明抑制该因子能改善患者结局，也不表明所有情形都同样依赖它。",
+            "This foundational study does not establish patient benefit from inhibition or identical dependence in every setting."
+          ],
+          "refs": [
+            "hoffmann2020"
+          ]
+        },
+        {
+          "name": "CD147 / Basigin",
+          "role": "disputed",
+          "explanation": [
+            "Shilts等的研究未支持CD147是直接结合刺突蛋白的受体；本页不将它列为已确立受体。",
+            "Shilts and colleagues did not support CD147 as a direct spike-binding receptor; this page does not list it as established."
+          ],
+          "limit": [
+            "这是对具体直接受体主张的反对证据，不等于排除该分子的所有其他生物学作用。",
+            "This counters the specific direct-receptor claim; it does not rule out every other biological role."
+          ],
+          "refs": [
+            "shilts2021"
+          ]
+        }
+      ],
+      "sources": [
+        "hoffmann2020",
+        "shilts2021"
+      ]
+    },
+    "hbv": {
+      "checked": "2026-11-20",
+      "summary": [
+        "NTCP是具有原始研究支持的HBV功能性受体；本卡只概述该基础角色。",
+        "Primary research supports NTCP as a functional HBV receptor; this card covers that foundational role only."
+      ],
+      "entries": [
+        {
+          "name": "NTCP / SLC10A1",
+          "role": "receptor",
+          "explanation": [
+            "Yan等的研究支持NTCP的功能性受体作用。",
+            "Yan and colleagues support the functional receptor role of NTCP."
+          ],
+          "limit": [
+            "受体识别不代表已解释完整病程，也不能单独作为诊断或治疗依据。",
+            "Receptor identification does not explain the entire disease course or independently establish diagnosis or treatment."
+          ],
+          "refs": [
+            "yan2012"
+          ]
+        }
+      ],
+      "sources": [
+        "yan2012"
+      ]
+    },
+    "ebv": {
+      "checked": "2026-11-20",
+      "summary": [
+        "CD21／CR2在B淋巴细胞中的EBV附着受体作用有基础研究支持。",
+        "Foundational evidence supports CD21/CR2 as an EBV attachment receptor on B lymphocytes."
+      ],
+      "entries": [
+        {
+          "name": "CD21 / CR2",
+          "role": "attachment",
+          "explanation": [
+            "Fingeroth等的研究将B淋巴细胞上的EBV受体与补体受体CR2联系起来，支持病毒附着中的作用。",
+            "Fingeroth and colleagues identified the B-lymphocyte EBV receptor with complement receptor CR2, supporting its attachment role."
+          ],
+          "limit": [
+            "该证据限定于所研究的细胞背景；不能把附着作用写成独自完成所有细胞的感染。",
+            "Evidence is bounded by the studied cellular context; attachment does not mean that this factor alone accounts for infection of every cell type."
+          ],
+          "refs": [
+            "fingeroth1984"
+          ]
+        }
+      ],
+      "sources": [
+        "fingeroth1984"
+      ]
+    },
+    "rhinovirus": {
+      "checked": "2026-11-20",
+      "summary": [
+        "ICAM-1是部分鼻病毒受体研究中的已验证例子，不能概括全部鼻病毒。",
+        "ICAM-1 is a verified receptor example for a subset of rhinoviruses, not a description of every rhinovirus."
+      ],
+      "entries": [
+        {
+          "name": "ICAM-1 / CD54",
+          "role": "receptor",
+          "explanation": [
+            "Greve等研究支持ICAM-1作为主要受体组鼻病毒的受体。",
+            "Greve and colleagues support ICAM-1 as the receptor for major-receptor-group rhinoviruses."
+          ],
+          "limit": [
+            "本站“鼻病毒”是分组条目；不能由该结论推定所有鼻病毒均使用同一受体。",
+            "The atlas groups rhinoviruses together; this finding should not be generalized to all members."
+          ],
+          "refs": [
+            "greve1989"
+          ]
+        }
+      ],
+      "sources": [
+        "greve1989"
+      ]
+    },
+    "hiv": {
+      "checked": "2026-11-20",
+      "summary": [
+        "以HIV-1基础证据为例，CD4与共受体应分开说明；不将HIV分组中的所有成员视为相同。",
+        "Using foundational HIV-1 evidence, CD4 should be distinguished from co-receptors; the grouped HIV profile does not imply identical biology for all members."
+      ],
+      "entries": [
+        {
+          "name": "CD4",
+          "role": "receptor",
+          "explanation": [
+            "早期原始研究支持CD4在HIV受体系统中的关键作用。",
+            "Early primary research supports a central receptor role for CD4 in HIV infection."
+          ],
+          "limit": [
+            "CD4不是完整的进入解释；也不能根据单个分子的表达判断个体病程。",
+            "CD4 is not a complete explanation of entry, and its expression alone does not determine an individual disease course."
+          ],
+          "refs": [
+            "dalgleish1984"
+          ]
+        },
+        {
+          "name": "CCR5",
+          "role": "coreceptor",
+          "explanation": [
+            "原始HIV-1研究支持CCR5的共受体作用，应与CD4主受体概念区分。",
+            "Primary HIV-1 research supports CCR5 as a co-receptor, distinct from the primary-receptor role of CD4."
+          ],
+          "limit": [
+            "不是所有HIV-1情形均可用一个共受体概括；本卡不提供病毒型别的利用能力比较。",
+            "No single co-receptor describes every HIV-1 setting; this card does not compare utilization across viral variants."
+          ],
+          "refs": [
+            "deng1996"
+          ]
+        },
+        {
+          "name": "CXCR4（早期称 fusin）",
+          "role": "coreceptor",
+          "explanation": [
+            "Feng等发现的fusin是后来称为CXCR4的共受体，属于与CD4配合的不同角色。",
+            "The fusin identified by Feng and colleagues is the co-receptor subsequently known as CXCR4, with a role distinct from CD4."
+          ],
+          "limit": [
+            "本处呈现基础概念，不由受体名称推导临床用药方案或感染能力。",
+            "This is a foundational description, not a basis for inferring a treatment regimen or infection capability."
+          ],
+          "refs": [
+            "feng1996"
+          ]
+        }
+      ],
+      "sources": [
+        "dalgleish1984",
+        "deng1996",
+        "feng1996"
+      ]
+    },
+    "hsv": {
+      "checked": "2026-11-20",
+      "summary": [
+        "Nectin-1是HSV基础受体研究中的一个已核验例子；本卡不是完整受体清单。",
+        "Nectin-1 is a reviewed example from foundational HSV receptor research; this is not an exhaustive receptor list."
+      ],
+      "entries": [
+        {
+          "name": "Nectin-1 / HveC / PRR1",
+          "role": "receptor",
+          "explanation": [
+            "原始研究支持HveC／PRR1（现称nectin-1）介导HSV-1和HSV-2进入的受体作用。",
+            "Primary research supports a receptor role for HveC/PRR1, now called nectin-1, in HSV-1 and HSV-2 entry."
+          ],
+          "limit": [
+            "不能据此宣称它是所有HSV感染情形的唯一受体；其作用与临床疾病结局是不同问题。",
+            "This does not establish it as the sole receptor in every HSV setting; receptor function and clinical outcomes are different questions."
+          ],
+          "refs": [
+            "geraghty1998"
+          ]
+        }
+      ],
+      "sources": [
+        "geraghty1998"
+      ]
+    }
+  },
+  "references": {
+    "hoffmann2020": {
+      "doi": "10.1016/j.cell.2020.02.052",
+      "title": "SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor",
+      "authors": "Hoffmann M et al.",
+      "year": 2020,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32142651/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Crossref metadata; PubMed/Europe PMC metadata and abstract reviewed"
+    },
+    "shilts2021": {
+      "doi": "10.1038/s41598-020-80464-1",
+      "title": "No evidence for basigin/CD147 as a direct SARS-CoV-2 spike binding receptor",
+      "authors": "Shilts J et al.",
+      "year": 2021,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33432067/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Crossref metadata; PubMed/Europe PMC metadata and abstract reviewed"
+    },
+    "yan2012": {
+      "doi": "10.7554/elife.00049",
+      "title": "Sodium taurocholate cotransporting polypeptide is a functional receptor for human hepatitis B and D virus.",
+      "year": 2012,
+      "authors": "Yan H et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23150796/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Europe PMC/PubMed metadata and abstract"
+    },
+    "fingeroth1984": {
+      "doi": "10.1073/pnas.81.14.4510",
+      "title": "Epstein-Barr virus receptor of human B lymphocytes is the C3d receptor CR2.",
+      "year": 1984,
+      "authors": "Fingeroth JD et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6087328/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Europe PMC/PubMed metadata and abstract"
+    },
+    "greve1989": {
+      "doi": "10.1016/0092-8674(89)90688-0",
+      "title": "The major human rhinovirus receptor is ICAM-1.",
+      "year": 1989,
+      "authors": "Greve JM et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2538243/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Europe PMC/PubMed metadata and abstract"
+    },
+    "dalgleish1984": {
+      "doi": "10.1038/312763a0",
+      "title": "The CD4 (T4) antigen is an essential component of the receptor for the AIDS retrovirus.",
+      "year": 1984,
+      "authors": "Dalgleish AG et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6096719/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Europe PMC/PubMed metadata and abstract"
+    },
+    "deng1996": {
+      "doi": "10.1038/381661a0",
+      "title": "Identification of a major co-receptor for primary isolates of HIV-1.",
+      "year": 1996,
+      "authors": "Deng H et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8649511/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Europe PMC/PubMed metadata and abstract"
+    },
+    "feng1996": {
+      "doi": "10.1126/science.272.5263.872",
+      "title": "HIV-1 entry cofactor: functional cDNA cloning of a seven-transmembrane, G protein-coupled receptor.",
+      "year": 1996,
+      "authors": "Feng Y et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8629022/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Europe PMC/PubMed metadata and abstract"
+    },
+    "geraghty1998": {
+      "doi": "10.1126/science.280.5369.1618",
+      "title": "Entry of alphaherpesviruses mediated by poliovirus receptor-related protein 1 and poliovirus receptor.",
+      "year": 1998,
+      "authors": "Geraghty RJ et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9616127/",
+      "checked": "2026-11-20",
+      "type": "primary-study",
+      "verification": "Europe PMC/PubMed metadata and abstract"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+sources/*.xlsx
+sources/*-sheet*.json
+.DS_Store
+worker/local-bundle.mjs
+
+__pycache__/
+*.pyc
+
+sources/brief-batch-*.json

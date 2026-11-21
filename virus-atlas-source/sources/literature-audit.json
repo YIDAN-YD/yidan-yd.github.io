@@ -1,0 +1,346 @@
+{
+  "checked": "2026-11-20",
+  "window": [
+    "2024-01-01",
+    "2026-11-20"
+  ],
+  "protocol": "Title-associated PubMed records in Europe PMC. Clinical/public-health topic filter; metadata only; date-sorted; not exhaustive, and PubMed indexing alone is not a peer-review or quality guarantee.",
+  "requests": [
+    {
+      "profile": "sars-cov-2",
+      "status": "ok",
+      "query": "(TITLE:\"SARS-CoV-2\" OR TITLE:\"COVID-19\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 18098,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "influenza",
+      "status": "ok",
+      "query": "(TITLE:\"influenza\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) AND NOT (TITLE:avian OR TITLE:swine OR TITLE:poultry OR TITLE:chicken* OR TITLE:piglet* OR TITLE:mice OR TITLE:mouse OR TITLE:murine) sort_date:y",
+      "total": 3624,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "rsv",
+      "status": "ok",
+      "query": "(TITLE:\"respiratory syncytial virus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 1175,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hmpv",
+      "status": "ok",
+      "query": "(TITLE:\"human metapneumovirus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 172,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "measles",
+      "status": "ok",
+      "query": "(TITLE:\"measles\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 833,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "mumps",
+      "status": "ok",
+      "query": "(TITLE:\"mumps\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 181,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "rubella",
+      "status": "ok",
+      "query": "(TITLE:\"rubella\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 217,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "rhinovirus",
+      "status": "ok",
+      "query": "(TITLE:\"rhinovirus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 63,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "adenovirus",
+      "status": "ok",
+      "query": "(TITLE:\"human adenovirus\" OR TITLE:\"adenovirus infection\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 75,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "vzv",
+      "status": "ok",
+      "query": "(TITLE:\"varicella\" OR TITLE:\"herpes zoster\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 985,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hsv",
+      "status": "ok",
+      "query": "(TITLE:\"herpes simplex\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 257,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hpv",
+      "status": "ok",
+      "query": "(TITLE:\"human papillomavirus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 1583,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "ebv",
+      "status": "ok",
+      "query": "(TITLE:\"Epstein-Barr virus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 477,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hav",
+      "status": "ok",
+      "query": "(TITLE:\"hepatitis A\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) AND NOT (TITLE:autoimmune OR TITLE:\"hepatitis B\" OR TITLE:\"hepatitis C\" OR TITLE:\"hepatitis D\" OR TITLE:\"hepatitis E\") sort_date:y",
+      "total": 699,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hbv",
+      "status": "ok",
+      "query": "(TITLE:\"hepatitis B\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 2409,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "cmv",
+      "status": "ok",
+      "query": "(TITLE:\"cytomegalovirus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 762,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hdv",
+      "status": "ok",
+      "query": "(TITLE:\"hepatitis D\" OR TITLE:\"hepatitis delta\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 140,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "b19",
+      "status": "ok",
+      "query": "(TITLE:\"parvovirus B19\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 110,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hev",
+      "status": "ok",
+      "query": "(TITLE:\"hepatitis E\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 233,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hiv",
+      "status": "ok",
+      "query": "(TITLE:\"HIV\" OR TITLE:\"human immunodeficiency virus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 9693,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "htlv1",
+      "status": "ok",
+      "query": "(TITLE:\"HTLV-1\" OR TITLE:\"human T-lymphotropic virus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 129,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "rotavirus",
+      "status": "ok",
+      "query": "(TITLE:\"rotavirus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 416,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hcv",
+      "status": "ok",
+      "query": "(TITLE:\"hepatitis C\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 1106,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "polio",
+      "status": "ok",
+      "query": "(TITLE:\"poliovirus\" OR TITLE:\"poliomyelitis\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 170,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "eva71",
+      "status": "ok",
+      "query": "(TITLE:\"enterovirus A71\" OR TITLE:\"enterovirus 71\" OR TITLE:\"EV-A71\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 57,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "dengue",
+      "status": "ok",
+      "query": "(TITLE:\"dengue\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 1487,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "norovirus",
+      "status": "ok",
+      "query": "(TITLE:\"norovirus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 206,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "zika",
+      "status": "ok",
+      "query": "(TITLE:\"Zika\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 238,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "jev",
+      "status": "ok",
+      "query": "(TITLE:\"Japanese encephalitis\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 136,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "chikungunya",
+      "status": "ok",
+      "query": "(TITLE:\"chikungunya\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 443,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "marburg",
+      "status": "ok",
+      "query": "(TITLE:\"Marburg virus\" OR TITLE:\"Marburg disease\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 99,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "nipah",
+      "status": "ok",
+      "query": "(TITLE:\"Nipah\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 167,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "rabies",
+      "status": "ok",
+      "query": "(TITLE:\"rabies\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 466,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "ebola",
+      "status": "ok",
+      "query": "(TITLE:\"Ebola\" OR TITLE:\"Sudan virus\" OR TITLE:\"Bundibugyo virus\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 444,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "west-nile",
+      "status": "ok",
+      "query": "(TITLE:\"West Nile\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 196,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "mpox",
+      "status": "ok",
+      "query": "(TITLE:\"mpox\" OR TITLE:\"monkeypox\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 1391,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "yellow-fever",
+      "status": "ok",
+      "query": "(TITLE:\"yellow fever\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 219,
+      "selected": 8,
+      "error": null
+    },
+    {
+      "profile": "hantavirus",
+      "status": "ok",
+      "query": "(TITLE:\"hantavirus\" OR TITLE:\"hantaviral\" OR TITLE:\"hemorrhagic fever with renal syndrome\") AND SRC:MED AND FIRST_PDATE:[2024-01-01 TO 2026-11-20] AND (TITLE:epidemiolog* OR TITLE:clinical OR TITLE:vaccin* OR TITLE:treatment OR TITLE:therap* OR TITLE:diagnos* OR TITLE:surveillance OR TITLE:prevention OR TITLE:burden OR TITLE:outbreak OR TITLE:trial OR PUB_TYPE:review OR PUB_TYPE:\"systematic review\") NOT (TITLE:\"gain of function\" OR TITLE:\"reverse genetics\" OR TITLE:\"host range\" OR TITLE:engineer* OR TITLE:mutagenesis OR TITLE:pseudotyp* OR TITLE:\"viral entry\" OR TITLE:\"spike mutation\" OR TITLE:\"receptor binding\" OR TITLE:corrigendum OR TITLE:erratum OR TITLE:retraction OR TITLE:pandemic) sort_date:y",
+      "total": 167,
+      "selected": 8,
+      "error": null
+    }
+  ],
+  "crossrefVerification": [
+    {
+      "profile": "sars-cov-2",
+      "doi": "10.1016/j.rmed.2026.109310",
+      "europepmcTitle": "Longitudinal Changes in Symptom Burden and Health-Related Quality of Life after Hospitalization for COVID-19. ",
+      "crossrefTitle": "Longitudinal Changes in Symptom Burden and Health-Related Quality of Life after Hospitalization for COVID-19",
+      "match": true,
+      "crossrefUrl": "https://api.crossref.org/works/10.1016%2Fj.rmed.2026.109310"
+    },
+    {
+      "profile": "rsv",
+      "doi": "10.1016/j.vaccine.2026.129371",
+      "europepmcTitle": "Maternal respiratory syncytial virus vaccination: A systematic review and meta-analysis of determinants of vaccine acceptability and uptake. ",
+      "crossrefTitle": "Maternal respiratory syncytial virus vaccination: A systematic review and meta-analysis of determinants of vaccine acceptability and uptake",
+      "match": true,
+      "crossrefUrl": "https://api.crossref.org/works/10.1016%2Fj.vaccine.2026.129371"
+    },
+    {
+      "profile": "hiv",
+      "doi": "10.1016/j.japh.2026.103607",
+      "europepmcTitle": "Real-world implementation of HepB-CpG vaccination in persons with HIV and prior non-response to conventional series: Will one dose suffice? ",
+      "crossrefTitle": "Real-world implementation of HepB-CpG vaccination in persons with HIV and prior non-response to conventional series: Will one dose suffice?",
+      "match": true,
+      "crossrefUrl": "https://api.crossref.org/works/10.1016%2Fj.japh.2026.103607"
+    }
+  ],
+  "titleAssociationScreened": true,
+  "corrections": [
+    "Europe PMC source field is SRC:MED, not SOURCE:MED.",
+    "Hepatitis A phrase matching requires literal title verification because the letter A can be ignored by database tokenization.",
+    "Influenza aliases use influenza, with animal-study title exclusions; records are not assumed to resolve subtype from title alone."
+  ]
+}

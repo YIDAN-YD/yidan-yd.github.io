@@ -1,0 +1,586 @@
+[
+  {
+    "id": "rabies",
+    "zh": "狂犬病病毒",
+    "en": "Rabies virus",
+    "family": "Rhabdoviridae",
+    "genome": "-ssRNA",
+    "group": "zoonotic",
+    "fields": {
+      "pathogen": [
+        "狂犬病病毒。",
+        "Rabies virus."
+      ],
+      "genome": [
+        "负链单链RNA",
+        "Negative-sense single-stranded RNA"
+      ],
+      "structure": [
+        "有包膜，典型弹状颗粒。",
+        "Enveloped, typically bullet-shaped particles."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "发热、伤口异常感觉，继而恐水或麻痹。",
+        "Fever, unusual wound sensations, then hydrophobia or paralysis."
+      ],
+      "transmission": [
+        "感染哺乳动物的唾液经咬伤、抓伤或黏膜暴露传播。",
+        "Infected mammal saliva through bites, scratches or mucosal exposure."
+      ],
+      "risk": [
+        "出现临床症状后几乎总是致命。",
+        "Almost invariably fatal once clinical symptoms appear."
+      ],
+      "prevention": [
+        "犬免疫；暴露后立即清洗伤口并就医评估疫苗及被动免疫。",
+        "Dog vaccination; immediate wound washing and medical assessment for post-exposure vaccination and passive immunization."
+      ],
+      "treatment": [
+        "发病后以支持和姑息治疗为主；暴露后预防不应等到发病。",
+        "Supportive and palliative care after disease onset; do not delay post-exposure prevention until symptoms."
+      ],
+      "mechanism": [
+        "感染进展至中枢神经系统并引起脑脊髓炎。",
+        "Infection reaches the central nervous system and causes encephalomyelitis."
+      ],
+      "progress": [
+        "有效暴露后预防已建立，资源可及性仍是主要缺口。",
+        "Effective post-exposure prevention is established; access remains a major gap."
+      ],
+      "future": [
+        "建议（编辑综合）：改善暴露后预防可及性、监测与犬免疫覆盖。",
+        "Suggested priorities (editorial synthesis): Access to post-exposure prevention, surveillance and dog vaccination coverage."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Rabies virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "ICTV · Rhabdoviridae",
+        "url": "https://ictv.global/report/chapter/rhabdoviridae/rhabdoviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "ebola",
+    "zh": "埃博拉病相关病毒组",
+    "en": "Ebola disease viruses",
+    "family": "Filoviridae",
+    "genome": "-ssRNA",
+    "group": "zoonotic",
+    "fields": {
+      "pathogen": [
+        "埃博拉病相关病毒组。",
+        "Ebola disease viruses."
+      ],
+      "genome": [
+        "负链单链RNA",
+        "Negative-sense single-stranded RNA"
+      ],
+      "structure": [
+        "有包膜，丝状颗粒。",
+        "Enveloped, filamentous particles."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "发热、明显乏力、呕吐腹泻；部分病例出血。",
+        "Fever, profound weakness, vomiting and diarrhoea; some patients bleed."
+      ],
+      "transmission": [
+        "直接接触患者或死者的感染性体液及污染物。",
+        "Direct contact with infectious body fluids or contaminated materials."
+      ],
+      "risk": [
+        "休克、多器官衰竭与死亡。",
+        "Shock, multiorgan failure and death."
+      ],
+      "prevention": [
+        "感染防控、接触者追踪；适用病毒对应的疫苗。",
+        "Infection control, contact tracing and virus-specific vaccination where available."
+      ],
+      "treatment": [
+        "强化支持治疗；获批特异疗法针对埃博拉病毒，不能外推到所有相关病毒。",
+        "Intensive supportive care; approved specific therapies for Ebola virus do not generalize to every related virus."
+      ],
+      "mechanism": [
+        "全身感染与炎症反应可造成器官功能损害。",
+        "Systemic infection and inflammation can impair organ function."
+      ],
+      "progress": [
+        "WHO资料列出埃博拉病毒的已批准疫苗／治疗，其他埃博拉病产品仍在研发。",
+        "WHO lists approved Ebola virus vaccines/therapies; products for other Ebola diseases remain in development."
+      ],
+      "future": [
+        "建议（编辑综合）：扩大及时诊治和幸存者照护，评估候选防治产品。",
+        "Suggested priorities (editorial synthesis): Earlier care, survivor follow-up and evaluation of candidate medical products."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Ebola disease viruses",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/ebola-disease",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2025-04-24"
+      },
+      {
+        "title": "ICTV · Filoviridae",
+        "url": "https://ictv.global/report/chapter/filoviridae/filoviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "marburg",
+    "zh": "马尔堡病相关病毒",
+    "en": "Marburg disease viruses",
+    "family": "Filoviridae",
+    "genome": "-ssRNA",
+    "group": "zoonotic",
+    "fields": {
+      "pathogen": [
+        "马尔堡病相关病毒。",
+        "Marburg disease viruses."
+      ],
+      "genome": [
+        "负链单链RNA",
+        "Negative-sense single-stranded RNA"
+      ],
+      "structure": [
+        "有包膜，丝状颗粒。",
+        "Enveloped, filamentous particles."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "突发高热、头痛、腹泻；可出现出血。",
+        "Abrupt fever, headache and diarrhoea; bleeding can occur."
+      ],
+      "transmission": [
+        "动物暴露及接触感染者体液或污染物。",
+        "Animal exposure and contact with infectious body fluids or materials."
+      ],
+      "risk": [
+        "休克、多器官衰竭和死亡。",
+        "Shock, multiorgan failure and death."
+      ],
+      "prevention": [
+        "避免高风险动物暴露，落实医疗感染防控。",
+        "Reduce hazardous animal exposures and implement healthcare infection control."
+      ],
+      "treatment": [
+        "早期强化支持治疗；所引WHO资料未列已批准特异治疗。",
+        "Early intensive supportive care; the cited WHO source lists no approved specific therapy."
+      ],
+      "mechanism": [
+        "系统性感染与炎症导致组织及器官损伤。",
+        "Systemic infection and inflammation cause tissue and organ injury."
+      ],
+      "progress": [
+        "WHO资料列出候选疫苗、抗体与抗病毒药的临床评估需求。",
+        "WHO identifies clinical evaluation of candidate vaccines, antibodies and antivirals."
+      ],
+      "future": [
+        "建议（编辑综合）：提高早诊能力、优化支持治疗与临床试验可及性。",
+        "Suggested priorities (editorial synthesis): Early diagnosis, supportive care and clinical-trial access."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Marburg disease viruses",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2025-01-20"
+      },
+      {
+        "title": "ICTV · Filoviridae",
+        "url": "https://ictv.global/report/chapter/filoviridae/filoviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "nipah",
+    "zh": "尼帕病毒",
+    "en": "Nipah virus",
+    "family": "Paramyxoviridae",
+    "genome": "-ssRNA",
+    "group": "zoonotic",
+    "fields": {
+      "pathogen": [
+        "尼帕病毒。",
+        "Nipah virus."
+      ],
+      "genome": [
+        "负链单链RNA",
+        "Negative-sense single-stranded RNA"
+      ],
+      "structure": [
+        "有包膜，多形性颗粒。",
+        "Enveloped, pleomorphic particles."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "发热、头痛、意识改变或呼吸困难。",
+        "Fever, headache, altered consciousness or breathing difficulty."
+      ],
+      "transmission": [
+        "感染动物、受污染食物及人与人密切接触。",
+        "Infected animals, contaminated food and close person-to-person contact."
+      ],
+      "risk": [
+        "脑炎、严重肺部疾病及长期神经系统后遗症。",
+        "Encephalitis, severe lung disease and neurological sequelae."
+      ],
+      "prevention": [
+        "食品防污染、避免病畜接触及落实医疗防护。",
+        "Food protection, avoiding sick animals and healthcare precautions."
+      ],
+      "treatment": [
+        "及时支持治疗；所引WHO资料未列已批准疫苗或特异药物。",
+        "Prompt supportive care; the cited WHO source lists no approved vaccine or specific drug."
+      ],
+      "mechanism": [
+        "感染可累及脑、肺及其他器官。",
+        "Infection can affect the brain, lungs and other organs."
+      ],
+      "progress": [
+        "WHO将其列为研发优先疾病，候选产品在不同开发阶段。",
+        "A WHO R&D priority; candidate products are at different development stages."
+      ],
+      "future": [
+        "建议（编辑综合）：验证候选产品、强化早诊与幸存者神经康复。",
+        "Suggested priorities (editorial synthesis): Evaluate medical products, earlier diagnosis and neurological rehabilitation."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Nipah virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2026-01-29"
+      },
+      {
+        "title": "ICTV · Paramyxoviridae",
+        "url": "https://ictv.global/report/chapter/paramyxoviridae/paramyxoviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "mpox",
+    "zh": "猴痘病毒",
+    "en": "Monkeypox virus (mpox)",
+    "family": "Poxviridae",
+    "genome": "dsDNA",
+    "group": "zoonotic",
+    "fields": {
+      "pathogen": [
+        "猴痘病毒。",
+        "Monkeypox virus (mpox)."
+      ],
+      "genome": [
+        "双链DNA",
+        "Double-stranded DNA"
+      ],
+      "structure": [
+        "复杂、有膜的痘病毒颗粒。",
+        "Complex, membrane-containing poxvirus particles."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "疼痛性皮疹、黏膜病变、发热和淋巴结肿大。",
+        "Painful rash, mucosal lesions, fever and enlarged lymph nodes."
+      ],
+      "transmission": [
+        "密切皮肤／黏膜接触、污染物及母婴传播。",
+        "Close skin or mucosal contact, contaminated materials and vertical transmission."
+      ],
+      "risk": [
+        "免疫低下者可出现广泛病变；妊娠可有不良结局。",
+        "Disseminated disease in immunocompromised people; adverse pregnancy outcomes."
+      ],
+      "prevention": [
+        "按风险与当地建议接种，避免接触病损与污染物。",
+        "Risk-based vaccination under local guidance; avoid lesions and contaminated materials."
+      ],
+      "treatment": [
+        "支持治疗及疼痛、继发感染管理；特异药物须由专科按当地指南评估。",
+        "Supportive care, pain relief and secondary-infection management; specialists assess specific medicines under local guidance."
+      ],
+      "mechanism": [
+        "皮肤黏膜感染和炎症形成病损。",
+        "Skin and mucosal infection and inflammation produce lesions."
+      ],
+      "progress": [
+        "已有疫苗；药物适应证与疗效证据需要持续核对。",
+        "Vaccines exist; drug indications and efficacy evidence require ongoing review."
+      ],
+      "future": [
+        "建议（编辑综合）：加强临床疗效证据、疫苗可及性及特殊人群照护。",
+        "Suggested priorities (editorial synthesis): Clinical efficacy evidence, vaccine access and care for vulnerable groups."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Monkeypox virus (mpox)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/mpox",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2024-08-26"
+      },
+      {
+        "title": "ICTV · Poxviridae",
+        "url": "https://ictv.global/report/chapter/poxviridae/poxviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "yellow-fever",
+    "zh": "黄热病毒",
+    "en": "Yellow fever virus",
+    "family": "Flaviviridae",
+    "genome": "+ssRNA",
+    "group": "vector",
+    "fields": {
+      "pathogen": [
+        "黄热病毒。",
+        "Yellow fever virus."
+      ],
+      "genome": [
+        "正链单链RNA",
+        "Positive-sense single-stranded RNA"
+      ],
+      "structure": [
+        "有包膜，近球形颗粒。",
+        "Enveloped, approximately spherical particles."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "发热、肌痛、恶心；重症出现黄疸和出血。",
+        "Fever, muscle pain and nausea; severe cases develop jaundice and bleeding."
+      ],
+      "transmission": [
+        "受感染蚊叮咬传播。",
+        "Bites of infected mosquitoes."
+      ],
+      "risk": [
+        "肝肾衰竭、休克和死亡。",
+        "Liver and kidney failure, shock and death."
+      ],
+      "prevention": [
+        "适宜人群接种黄热疫苗并防蚊。",
+        "Yellow fever vaccination for eligible people and mosquito-bite prevention."
+      ],
+      "treatment": [
+        "支持治疗；研究性抗病毒疗法不等同于常规治疗。",
+        "Supportive care; investigational antivirals are not routine treatment."
+      ],
+      "mechanism": [
+        "感染可损害肝脏及其他器官。",
+        "Infection can damage the liver and other organs."
+      ],
+      "progress": [
+        "疫苗提供持久保护；2025年WHO资料将候选抗病毒疗法限定在研究环境。",
+        "Vaccines provide durable protection; WHO 2025 guidance limits candidate antivirals to research settings."
+      ],
+      "future": [
+        "建议（编辑综合）：填补免疫空白，改进早期识别和治疗证据。",
+        "Suggested priorities (editorial synthesis): Close immunization gaps and improve early recognition and treatment evidence."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · Yellow fever virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/yellow-fever",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2025-10-20"
+      },
+      {
+        "title": "ICTV · Flaviviridae",
+        "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "west-nile",
+    "zh": "西尼罗病毒",
+    "en": "West Nile virus",
+    "family": "Flaviviridae",
+    "genome": "+ssRNA",
+    "group": "vector",
+    "fields": {
+      "pathogen": [
+        "西尼罗病毒。",
+        "West Nile virus."
+      ],
+      "genome": [
+        "正链单链RNA",
+        "Positive-sense single-stranded RNA"
+      ],
+      "structure": [
+        "有包膜，近球形颗粒。",
+        "Enveloped, approximately spherical particles."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "多数无症状；可有发热、头痛，少数出现脑炎。",
+        "Often asymptomatic; fever and headache occur, with occasional encephalitis."
+      ],
+      "transmission": [
+        "主要经蚊叮咬；少见经输血或移植传播。",
+        "Mainly mosquito bites; rare transmission through transfusion or transplantation."
+      ],
+      "risk": [
+        "神经侵袭性疾病、瘫痪及死亡。",
+        "Neuroinvasive disease, paralysis and death."
+      ],
+      "prevention": [
+        "防蚊、媒介监测及血液安全。",
+        "Mosquito protection, vector surveillance and blood safety."
+      ],
+      "treatment": [
+        "重症支持治疗；所引资料未列特异性治疗。",
+        "Supportive care for severe illness; cited information lists no specific therapy."
+      ],
+      "mechanism": [
+        "少数感染累及中枢神经系统。",
+        "A minority of infections affect the central nervous system."
+      ],
+      "progress": [
+        "人用疫苗与特异治疗仍是所引资料识别的缺口；旧版来源不代表2026研发全景。",
+        "Human vaccines and specific therapy remain gaps in the cited source; this older source is not a 2026 R&D survey."
+      ],
+      "future": [
+        "建议（编辑综合）：人用预防工具、神经康复和早期预警。",
+        "Suggested priorities (editorial synthesis): Human prevention tools, neurological rehabilitation and early warning."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "WHO · West Nile virus",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/west-nile-virus",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2017-10-03"
+      },
+      {
+        "title": "ICTV · Flaviviridae",
+        "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "hantavirus",
+    "zh": "人类致病汉坦病毒组",
+    "en": "Human-pathogenic hantaviruses",
+    "family": "Hantaviridae",
+    "genome": "-ssRNA",
+    "group": "zoonotic",
+    "fields": {
+      "pathogen": [
+        "人类致病汉坦病毒组。",
+        "Human-pathogenic hantaviruses."
+      ],
+      "genome": [
+        "负链单链RNA",
+        "Negative-sense single-stranded RNA"
+      ],
+      "structure": [
+        "有包膜，基因组分节段。",
+        "Enveloped particles with a segmented genome."
+      ],
+      "receptor": [
+        "本条以公共卫生概述为范围，未展开分子受体细节。",
+        "Molecular receptor details are outside this public-health overview."
+      ],
+      "symptoms": [
+        "发热、肌痛；可继发呼吸困难或肾功能异常。",
+        "Fever and myalgia; respiratory distress or renal dysfunction may follow."
+      ],
+      "transmission": [
+        "主要与啮齿动物排泄物暴露有关；安第斯病毒可人际传播。",
+        "Mainly exposure to rodent excreta; Andes virus can spread between people."
+      ],
+      "risk": [
+        "肺综合征或肾综合征出血热，可致休克和死亡。",
+        "Pulmonary syndrome or haemorrhagic fever with renal syndrome, with possible shock and death."
+      ],
+      "prevention": [
+        "减少鼠类接触与居住环境鼠害，遵循当地防护建议。",
+        "Reduce rodent contact and infestation; follow local prevention advice."
+      ],
+      "treatment": [
+        "以支持治疗为主；重症可能需呼吸或肾脏支持。",
+        "Supportive care; severe cases may need respiratory or renal support."
+      ],
+      "mechanism": [
+        "感染相关的血管屏障异常可影响肺或肾脏功能。",
+        "Infection-associated vascular barrier dysfunction can affect lung or kidney function."
+      ],
+      "progress": [
+        "临床重点仍是早诊和器官支持；具体防治政策因病毒和地区而异。",
+        "Early diagnosis and organ support remain central; prevention policies vary by virus and region."
+      ],
+      "future": [
+        "建议（编辑综合）：更早识别重症，验证治疗方案与长期康复结局。",
+        "Suggested priorities (editorial synthesis): Earlier recognition of severe disease, treatment evaluation and long-term recovery."
+      ]
+    },
+    "verified": "2026-11-20",
+    "sources": [
+      {
+        "title": "CDC · Human-pathogenic hantaviruses",
+        "url": "https://www.cdc.gov/hantavirus/about/index.html",
+        "scope": "症状、传播、临床风险与防治概述；进展限该来源日期",
+        "date": "2024-05-13"
+      },
+      {
+        "title": "ICTV · Hantaviridae",
+        "url": "https://ictv.global/report/chapter/hantaviridae/hantaviridae",
+        "scope": "科级基因组及结构背景；分组内物种不代表完全相同",
+        "date": "动态报告 / accessed 2026-11-20"
+      }
+    ]
+  }
+]

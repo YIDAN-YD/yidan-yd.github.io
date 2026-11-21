@@ -1,0 +1,967 @@
+{
+  "checked": "2026-11-20",
+  "discoverySource": "https://viralzone.expasy.org/656",
+  "scope": [
+    "外部科／属级结构与基因组阅读链接；不复制序列、实验方法或图像。",
+    "External family/genus-level structure and genome reading links; no sequences, experimental methods or images are copied."
+  ],
+  "profiles": {
+    "sars-cov-2": {
+      "url": "https://viralzone.expasy.org/764",
+      "title": "Betacoronavirus",
+      "genomeUrl": "https://viralzone.expasy.org/764#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/764#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "influenza": {
+      "url": "https://viralzone.expasy.org/223",
+      "title": "Orthomyxoviridae",
+      "genomeUrl": "https://viralzone.expasy.org/223#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/223#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "family",
+      "scope": [
+        "科级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Family-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ],
+      "relatedLinks": [
+        {
+          "url": "https://viralzone.expasy.org/6",
+          "genomeUrl": "https://viralzone.expasy.org/6#GENOME",
+          "structureUrl": "https://viralzone.expasy.org/6#VIRION",
+          "title": "Alphainfluenzavirus",
+          "level": "genus",
+          "checked": "2026-11-20",
+          "httpStatus": 200
+        },
+        {
+          "url": "https://viralzone.expasy.org/80",
+          "genomeUrl": "https://viralzone.expasy.org/80#GENOME",
+          "structureUrl": "https://viralzone.expasy.org/80#VIRION",
+          "title": "Betainfluenzavirus",
+          "level": "genus",
+          "checked": "2026-11-20",
+          "httpStatus": 200
+        }
+      ]
+    },
+    "rsv": {
+      "url": "https://viralzone.expasy.org/90",
+      "title": "Orthopneumovirus",
+      "genomeUrl": "https://viralzone.expasy.org/90#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/90#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hmpv": {
+      "url": "https://viralzone.expasy.org/89",
+      "title": "Metapneumovirus",
+      "genomeUrl": "https://viralzone.expasy.org/89#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/89#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "rhinovirus": {
+      "url": "https://viralzone.expasy.org/97",
+      "title": "Enterovirus",
+      "genomeUrl": "https://viralzone.expasy.org/97#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/97#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "adenovirus": {
+      "url": "https://viralzone.expasy.org/183",
+      "title": "Mastadenovirus",
+      "genomeUrl": "https://viralzone.expasy.org/183#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/183#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "measles": {
+      "url": "https://viralzone.expasy.org/86",
+      "title": "Morbillivirus",
+      "genomeUrl": "https://viralzone.expasy.org/86#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/86#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "mumps": {
+      "url": "https://viralzone.expasy.org/88",
+      "title": "Orthorubulavirus",
+      "genomeUrl": "https://viralzone.expasy.org/88#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/88#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "rubella": {
+      "url": "https://viralzone.expasy.org/626",
+      "title": "Rubivirus",
+      "genomeUrl": "https://viralzone.expasy.org/626#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/626#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "vzv": {
+      "url": "https://viralzone.expasy.org/179",
+      "title": "Varicellovirus",
+      "genomeUrl": "https://viralzone.expasy.org/179#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/179#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hsv": {
+      "url": "https://viralzone.expasy.org/178",
+      "title": "Simplexvirus",
+      "genomeUrl": "https://viralzone.expasy.org/178#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/178#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "ebv": {
+      "url": "https://viralzone.expasy.org/185",
+      "title": "Lymphocryptovirus",
+      "genomeUrl": "https://viralzone.expasy.org/185#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/185#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "cmv": {
+      "url": "https://viralzone.expasy.org/180",
+      "title": "Cytomegalovirus",
+      "genomeUrl": "https://viralzone.expasy.org/180#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/180#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hpv": {
+      "url": "https://viralzone.expasy.org/5",
+      "title": "Papillomaviridae",
+      "genomeUrl": "https://viralzone.expasy.org/5#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/5#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "family",
+      "scope": [
+        "科级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Family-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "b19": {
+      "url": "https://viralzone.expasy.org/200",
+      "title": "Erythroparvovirus",
+      "genomeUrl": "https://viralzone.expasy.org/200#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/200#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hav": {
+      "url": "https://viralzone.expasy.org/94",
+      "title": "Hepatovirus",
+      "genomeUrl": "https://viralzone.expasy.org/94#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/94#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hbv": {
+      "url": "https://viralzone.expasy.org/101",
+      "title": "Orthohepadnavirus",
+      "genomeUrl": "https://viralzone.expasy.org/101#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/101#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hcv": {
+      "url": "https://viralzone.expasy.org/37",
+      "title": "Orthohepacivirus",
+      "genomeUrl": "https://viralzone.expasy.org/37#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/37#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hdv": {
+      "url": "https://viralzone.expasy.org/175",
+      "title": "Deltavirus",
+      "genomeUrl": "https://viralzone.expasy.org/175#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/175#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hev": {
+      "url": "https://viralzone.expasy.org/41",
+      "title": "Paslahepevirus",
+      "genomeUrl": "https://viralzone.expasy.org/41#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/41#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hiv": {
+      "url": "https://viralzone.expasy.org/264",
+      "title": "Lentivirus",
+      "genomeUrl": "https://viralzone.expasy.org/264#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/264#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "htlv1": {
+      "url": "https://viralzone.expasy.org/91",
+      "title": "Deltaretrovirus",
+      "genomeUrl": "https://viralzone.expasy.org/91#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/91#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "norovirus": {
+      "url": "https://viralzone.expasy.org/194",
+      "title": "Norovirus",
+      "genomeUrl": "https://viralzone.expasy.org/194#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/194#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "rotavirus": {
+      "url": "https://viralzone.expasy.org/107",
+      "title": "Rotavirus",
+      "genomeUrl": "https://viralzone.expasy.org/107#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/107#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "polio": {
+      "url": "https://viralzone.expasy.org/97",
+      "title": "Enterovirus",
+      "genomeUrl": "https://viralzone.expasy.org/97#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/97#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "eva71": {
+      "url": "https://viralzone.expasy.org/97",
+      "title": "Enterovirus",
+      "genomeUrl": "https://viralzone.expasy.org/97#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/97#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "dengue": {
+      "url": "https://viralzone.expasy.org/24",
+      "title": "Orthoflavivirus",
+      "genomeUrl": "https://viralzone.expasy.org/24#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/24#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "zika": {
+      "url": "https://viralzone.expasy.org/24",
+      "title": "Orthoflavivirus",
+      "genomeUrl": "https://viralzone.expasy.org/24#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/24#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "chikungunya": {
+      "url": "https://viralzone.expasy.org/625",
+      "title": "Alphavirus",
+      "genomeUrl": "https://viralzone.expasy.org/625#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/625#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "jev": {
+      "url": "https://viralzone.expasy.org/24",
+      "title": "Orthoflavivirus",
+      "genomeUrl": "https://viralzone.expasy.org/24#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/24#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "rabies": {
+      "url": "https://viralzone.expasy.org/22",
+      "title": "Lyssavirus",
+      "genomeUrl": "https://viralzone.expasy.org/22#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/22#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "ebola": {
+      "url": "https://viralzone.expasy.org/207",
+      "title": "Orthoebolavirus",
+      "genomeUrl": "https://viralzone.expasy.org/207#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/207",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "marburg": {
+      "url": "https://viralzone.expasy.org/224",
+      "title": "Orthomarburgvirus",
+      "genomeUrl": "https://viralzone.expasy.org/224#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/224",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "nipah": {
+      "url": "https://viralzone.expasy.org/85",
+      "title": "Henipavirus",
+      "genomeUrl": "https://viralzone.expasy.org/85#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/85#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "mpox": {
+      "url": "https://viralzone.expasy.org/149",
+      "title": "Orthopoxvirus",
+      "genomeUrl": "https://viralzone.expasy.org/149#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/149#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "yellow-fever": {
+      "url": "https://viralzone.expasy.org/24",
+      "title": "Orthoflavivirus",
+      "genomeUrl": "https://viralzone.expasy.org/24#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/24#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "west-nile": {
+      "url": "https://viralzone.expasy.org/24",
+      "title": "Orthoflavivirus",
+      "genomeUrl": "https://viralzone.expasy.org/24#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/24#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    },
+    "hantavirus": {
+      "url": "https://viralzone.expasy.org/213",
+      "title": "Orthohantavirus",
+      "genomeUrl": "https://viralzone.expasy.org/213#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/213#VIRION",
+      "httpStatus": 200,
+      "checked": "2026-11-20",
+      "level": "genus",
+      "scope": [
+        "属级概览：粒子结构与基因组示意；不是该病毒所有型别／毒株的逐一基因组图谱。",
+        "Genus-level overview of virion structure and genome organization; not an individual genome map for every virus type or strain."
+      ]
+    }
+  },
+  "taxonLinks": {
+    "Betacoronavirus": {
+      "url": "https://viralzone.expasy.org/764",
+      "genomeUrl": "https://viralzone.expasy.org/764#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/764#VIRION",
+      "title": "Betacoronavirus",
+      "level": "genus"
+    },
+    "Orthomyxoviridae": {
+      "url": "https://viralzone.expasy.org/223",
+      "genomeUrl": "https://viralzone.expasy.org/223#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/223#VIRION",
+      "title": "Orthomyxoviridae",
+      "level": "family"
+    },
+    "Orthopneumovirus": {
+      "url": "https://viralzone.expasy.org/90",
+      "genomeUrl": "https://viralzone.expasy.org/90#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/90#VIRION",
+      "title": "Orthopneumovirus",
+      "level": "genus"
+    },
+    "Metapneumovirus": {
+      "url": "https://viralzone.expasy.org/89",
+      "genomeUrl": "https://viralzone.expasy.org/89#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/89#VIRION",
+      "title": "Metapneumovirus",
+      "level": "genus"
+    },
+    "Enterovirus": {
+      "url": "https://viralzone.expasy.org/97",
+      "genomeUrl": "https://viralzone.expasy.org/97#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/97#VIRION",
+      "title": "Enterovirus",
+      "level": "genus"
+    },
+    "Mastadenovirus": {
+      "url": "https://viralzone.expasy.org/183",
+      "genomeUrl": "https://viralzone.expasy.org/183#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/183#VIRION",
+      "title": "Mastadenovirus",
+      "level": "genus"
+    },
+    "Morbillivirus": {
+      "url": "https://viralzone.expasy.org/86",
+      "genomeUrl": "https://viralzone.expasy.org/86#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/86#VIRION",
+      "title": "Morbillivirus",
+      "level": "genus"
+    },
+    "Orthorubulavirus": {
+      "url": "https://viralzone.expasy.org/88",
+      "genomeUrl": "https://viralzone.expasy.org/88#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/88#VIRION",
+      "title": "Orthorubulavirus",
+      "level": "genus"
+    },
+    "Rubivirus": {
+      "url": "https://viralzone.expasy.org/626",
+      "genomeUrl": "https://viralzone.expasy.org/626#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/626#VIRION",
+      "title": "Rubivirus",
+      "level": "genus"
+    },
+    "Varicellovirus": {
+      "url": "https://viralzone.expasy.org/179",
+      "genomeUrl": "https://viralzone.expasy.org/179#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/179#VIRION",
+      "title": "Varicellovirus",
+      "level": "genus"
+    },
+    "Simplexvirus": {
+      "url": "https://viralzone.expasy.org/178",
+      "genomeUrl": "https://viralzone.expasy.org/178#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/178#VIRION",
+      "title": "Simplexvirus",
+      "level": "genus"
+    },
+    "Lymphocryptovirus": {
+      "url": "https://viralzone.expasy.org/185",
+      "genomeUrl": "https://viralzone.expasy.org/185#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/185#VIRION",
+      "title": "Lymphocryptovirus",
+      "level": "genus"
+    },
+    "Cytomegalovirus": {
+      "url": "https://viralzone.expasy.org/180",
+      "genomeUrl": "https://viralzone.expasy.org/180#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/180#VIRION",
+      "title": "Cytomegalovirus",
+      "level": "genus"
+    },
+    "Papillomaviridae": {
+      "url": "https://viralzone.expasy.org/5",
+      "genomeUrl": "https://viralzone.expasy.org/5#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/5#VIRION",
+      "title": "Papillomaviridae",
+      "level": "family"
+    },
+    "Erythroparvovirus": {
+      "url": "https://viralzone.expasy.org/200",
+      "genomeUrl": "https://viralzone.expasy.org/200#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/200#VIRION",
+      "title": "Erythroparvovirus",
+      "level": "genus"
+    },
+    "Hepatovirus": {
+      "url": "https://viralzone.expasy.org/94",
+      "genomeUrl": "https://viralzone.expasy.org/94#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/94#VIRION",
+      "title": "Hepatovirus",
+      "level": "genus"
+    },
+    "Orthohepadnavirus": {
+      "url": "https://viralzone.expasy.org/101",
+      "genomeUrl": "https://viralzone.expasy.org/101#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/101#VIRION",
+      "title": "Orthohepadnavirus",
+      "level": "genus"
+    },
+    "Orthohepacivirus": {
+      "url": "https://viralzone.expasy.org/37",
+      "genomeUrl": "https://viralzone.expasy.org/37#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/37#VIRION",
+      "title": "Orthohepacivirus",
+      "level": "genus"
+    },
+    "Deltavirus": {
+      "url": "https://viralzone.expasy.org/175",
+      "genomeUrl": "https://viralzone.expasy.org/175#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/175#VIRION",
+      "title": "Deltavirus",
+      "level": "genus"
+    },
+    "Paslahepevirus": {
+      "url": "https://viralzone.expasy.org/41",
+      "genomeUrl": "https://viralzone.expasy.org/41#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/41#VIRION",
+      "title": "Paslahepevirus",
+      "level": "genus"
+    },
+    "Lentivirus": {
+      "url": "https://viralzone.expasy.org/264",
+      "genomeUrl": "https://viralzone.expasy.org/264#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/264#VIRION",
+      "title": "Lentivirus",
+      "level": "genus"
+    },
+    "Deltaretrovirus": {
+      "url": "https://viralzone.expasy.org/91",
+      "genomeUrl": "https://viralzone.expasy.org/91#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/91#VIRION",
+      "title": "Deltaretrovirus",
+      "level": "genus"
+    },
+    "Norovirus": {
+      "url": "https://viralzone.expasy.org/194",
+      "genomeUrl": "https://viralzone.expasy.org/194#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/194#VIRION",
+      "title": "Norovirus",
+      "level": "genus"
+    },
+    "Rotavirus": {
+      "url": "https://viralzone.expasy.org/107",
+      "genomeUrl": "https://viralzone.expasy.org/107#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/107#VIRION",
+      "title": "Rotavirus",
+      "level": "genus"
+    },
+    "Orthoflavivirus": {
+      "url": "https://viralzone.expasy.org/24",
+      "genomeUrl": "https://viralzone.expasy.org/24#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/24#VIRION",
+      "title": "Orthoflavivirus",
+      "level": "genus"
+    },
+    "Alphavirus": {
+      "url": "https://viralzone.expasy.org/625",
+      "genomeUrl": "https://viralzone.expasy.org/625#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/625#VIRION",
+      "title": "Alphavirus",
+      "level": "genus"
+    },
+    "Lyssavirus": {
+      "url": "https://viralzone.expasy.org/22",
+      "genomeUrl": "https://viralzone.expasy.org/22#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/22#VIRION",
+      "title": "Lyssavirus",
+      "level": "genus"
+    },
+    "Orthoebolavirus": {
+      "url": "https://viralzone.expasy.org/207",
+      "genomeUrl": "https://viralzone.expasy.org/207#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/207",
+      "title": "Orthoebolavirus",
+      "level": "genus"
+    },
+    "Orthomarburgvirus": {
+      "url": "https://viralzone.expasy.org/224",
+      "genomeUrl": "https://viralzone.expasy.org/224#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/224",
+      "title": "Orthomarburgvirus",
+      "level": "genus"
+    },
+    "Henipavirus": {
+      "url": "https://viralzone.expasy.org/85",
+      "genomeUrl": "https://viralzone.expasy.org/85#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/85#VIRION",
+      "title": "Henipavirus",
+      "level": "genus"
+    },
+    "Orthopoxvirus": {
+      "url": "https://viralzone.expasy.org/149",
+      "genomeUrl": "https://viralzone.expasy.org/149#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/149#VIRION",
+      "title": "Orthopoxvirus",
+      "level": "genus"
+    },
+    "Orthohantavirus": {
+      "url": "https://viralzone.expasy.org/213",
+      "genomeUrl": "https://viralzone.expasy.org/213#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/213#VIRION",
+      "title": "Orthohantavirus",
+      "level": "genus"
+    },
+    "Orthoherpesviridae": {
+      "url": "https://viralzone.expasy.org/176",
+      "genomeUrl": "https://viralzone.expasy.org/176#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/176#VIRION",
+      "title": "Orthoherpesviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Adenoviridae": {
+      "url": "https://viralzone.expasy.org/4",
+      "genomeUrl": "https://viralzone.expasy.org/4#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/4#VIRION",
+      "title": "Adenoviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Poxviridae": {
+      "url": "https://viralzone.expasy.org/174",
+      "genomeUrl": "https://viralzone.expasy.org/174#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/174#VIRION",
+      "title": "Poxviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Parvoviridae": {
+      "url": "https://viralzone.expasy.org/103",
+      "genomeUrl": "https://viralzone.expasy.org/103#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/103#VIRION",
+      "title": "Parvoviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Hepadnaviridae": {
+      "url": "https://viralzone.expasy.org/9",
+      "genomeUrl": "https://viralzone.expasy.org/9#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/9#VIRION",
+      "title": "Hepadnaviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Retroviridae": {
+      "url": "https://viralzone.expasy.org/71",
+      "genomeUrl": "https://viralzone.expasy.org/71#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/71",
+      "title": "Retroviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Sedoreoviridae": {
+      "url": "https://viralzone.expasy.org/104",
+      "genomeUrl": "https://viralzone.expasy.org/104#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/104#VIRION",
+      "title": "Sedoreoviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Flaviviridae": {
+      "url": "https://viralzone.expasy.org/43",
+      "genomeUrl": "https://viralzone.expasy.org/43#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/43#VIRION",
+      "title": "Flaviviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Hepeviridae": {
+      "url": "https://viralzone.expasy.org/714",
+      "genomeUrl": "https://viralzone.expasy.org/714#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/714#VIRION",
+      "title": "Hepeviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Matonaviridae": {
+      "url": "https://viralzone.expasy.org/8916",
+      "genomeUrl": "https://viralzone.expasy.org/8916#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/8916#VIRION",
+      "title": "Matonaviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Togaviridae": {
+      "url": "https://viralzone.expasy.org/3",
+      "genomeUrl": "https://viralzone.expasy.org/3#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/3#VIRION",
+      "title": "Togaviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Coronaviridae": {
+      "url": "https://viralzone.expasy.org/30",
+      "genomeUrl": "https://viralzone.expasy.org/30#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/30#VIRION",
+      "title": "Coronaviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Caliciviridae": {
+      "url": "https://viralzone.expasy.org/32",
+      "genomeUrl": "https://viralzone.expasy.org/32#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/32#VIRION",
+      "title": "Caliciviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Picornaviridae": {
+      "url": "https://viralzone.expasy.org/33",
+      "genomeUrl": "https://viralzone.expasy.org/33#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/33#VIRION",
+      "title": "Picornaviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Filoviridae": {
+      "url": "https://viralzone.expasy.org/23",
+      "genomeUrl": "https://viralzone.expasy.org/23#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/23#VIRION",
+      "title": "Filoviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Paramyxoviridae": {
+      "url": "https://viralzone.expasy.org/556",
+      "genomeUrl": "https://viralzone.expasy.org/556#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/556#VIRION",
+      "title": "Paramyxoviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Pneumoviridae": {
+      "url": "https://viralzone.expasy.org/7877",
+      "genomeUrl": "https://viralzone.expasy.org/7877#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/7877#VIRION",
+      "title": "Pneumoviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Rhabdoviridae": {
+      "url": "https://viralzone.expasy.org/2",
+      "genomeUrl": "https://viralzone.expasy.org/2#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/2#VIRION",
+      "title": "Rhabdoviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Hantaviridae": {
+      "url": "https://viralzone.expasy.org/7079",
+      "genomeUrl": "https://viralzone.expasy.org/7079#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/7079#VIRION",
+      "title": "Hantaviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Kolmioviridae": {
+      "url": "https://viralzone.expasy.org/9776",
+      "genomeUrl": "https://viralzone.expasy.org/9776#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/9776#VIRION",
+      "title": "Kolmioviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Alphainfluenzavirus": {
+      "url": "https://viralzone.expasy.org/6",
+      "genomeUrl": "https://viralzone.expasy.org/6#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/6#VIRION",
+      "title": "Alphainfluenzavirus",
+      "level": "genus",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Betainfluenzavirus": {
+      "url": "https://viralzone.expasy.org/80",
+      "genomeUrl": "https://viralzone.expasy.org/80#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/80#VIRION",
+      "title": "Betainfluenzavirus",
+      "level": "genus",
+      "checked": "2026-11-20",
+      "httpStatus": 200
+    },
+    "Herpesviridae": {
+      "url": "https://viralzone.expasy.org/176",
+      "genomeUrl": "https://viralzone.expasy.org/176#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/176#VIRION",
+      "title": "Orthoherpesviridae",
+      "level": "family",
+      "checked": "2026-11-20",
+      "httpStatus": 200,
+      "nomenclatureNote": "Legacy taxon-name alias."
+    },
+    "Hepacivirus": {
+      "url": "https://viralzone.expasy.org/37",
+      "genomeUrl": "https://viralzone.expasy.org/37#GENOME",
+      "structureUrl": "https://viralzone.expasy.org/37#VIRION",
+      "title": "Orthohepacivirus",
+      "level": "genus",
+      "nomenclatureNote": "Legacy taxon-name alias."
+    }
+  },
+  "searchTemplate": "https://viralzone.expasy.org/search?query={query}"
+}

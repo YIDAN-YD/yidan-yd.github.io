@@ -1,0 +1,807 @@
+{
+  "checked": "2026-11-20",
+  "scope": [
+    "高层次自然宿主与公共卫生背景；不是完整宿主范围或跨物种受体图谱。",
+    "High-level natural-host and public-health context, not an exhaustive host-range or cross-species receptor atlas."
+  ],
+  "profiles": {
+    "sars-cov-2": {
+      "host": [
+        "人类；本条以人群感染与传播为中心。",
+        "Humans; this entry focuses on human infection and transmission."
+      ],
+      "context": [
+        "人群传播已有充分流行病学证据。动物报告需按具体物种和研究分别核验，本条不作跨物种易感性外推。",
+        "Human transmission is well established. Animal reports require species- and study-specific assessment; this entry does not extrapolate susceptibility across species."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · SARS-CoV-2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "influenza": {
+      "host": [
+        "人类季节性甲、乙型流感。",
+        "Human seasonal influenza A and B."
+      ],
+      "context": [
+        "本分组描述人群季节性流感；动物来源甲型流感的生态与风险需要独立资料，不能与本条所有型别合并。",
+        "This group describes seasonal human influenza. Animal-origin influenza A requires separate ecological and risk evidence and is not interchangeable with every virus in this entry."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Influenza A and B viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "rsv": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "本条为人呼吸道合胞病毒；婴幼儿、老年人及部分基础病人群的疾病负担较突出。",
+        "This entry concerns human RSV, with substantial disease burden in infants, older adults and some people with underlying conditions."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Respiratory syncytial virus (RSV)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/respiratory-syncytial-virus-(rsv)",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hmpv": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "人偏肺病毒可造成不同年龄人群呼吸道感染；不要把同科其他动物病毒的宿主资料直接套用到本病毒。",
+        "Human metapneumovirus causes respiratory infection across age groups; host information for other animal viruses in the family does not automatically apply."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human metapneumovirus (HMPV)",
+          "url": "https://www.cdc.gov/human-metapneumovirus/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "rhinovirus": {
+      "host": [
+        "人类；本条合并多种人鼻病毒。",
+        "Humans; this entry groups multiple human rhinoviruses."
+      ],
+      "context": [
+        "常见于人群上呼吸道感染，不同型别及临床人群的结局并不完全一致。",
+        "Commonly associated with human upper respiratory infection; types and patient populations do not have identical outcomes."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Rhinoviruses",
+          "url": "https://www.cdc.gov/rhinoviruses/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "adenovirus": {
+      "host": [
+        "人类；仅指本条的人腺病毒组。",
+        "Humans; specifically the human adenovirus group in this entry."
+      ],
+      "context": [
+        "人腺病毒可与呼吸道、眼部或胃肠道疾病有关；其他动物腺病毒不能仅凭科名归入同一临床宿主结论。",
+        "Human adenoviruses are associated with respiratory, ocular or gastrointestinal disease; animal adenoviruses cannot be assigned the same clinical host conclusions merely by family name."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human adenoviruses",
+          "url": "https://www.cdc.gov/adenovirus/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "measles": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "人群感染和呼吸道传播是本条公共卫生重点，疫苗覆盖直接影响群体易感性。",
+        "Human infection and respiratory spread are the public-health focus; vaccine coverage affects population susceptibility."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Measles virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/measles",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "mumps": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "感染可在人群中传播，密切接触场景与免疫保护差异影响暴发。",
+        "Infection spreads among people; close-contact settings and differences in immunity influence outbreaks."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Mumps virus",
+          "url": "https://www.cdc.gov/mumps/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "rubella": {
+      "host": [
+        "人类，包括妊娠期感染可能影响胎儿。",
+        "Humans, including fetal effects following maternal infection."
+      ],
+      "context": [
+        "先天性风疹反映母胎传播与发育阶段风险，不是另一宿主物种。",
+        "Congenital rubella reflects maternal–fetal transmission and developmental risk, not a different host species."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Rubella virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rubella",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "vzv": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "水痘是初次感染的典型表现，带状疱疹为同一病毒在人体内的再激活。",
+        "Chickenpox is the typical primary infection; shingles is reactivation of the same virus within a human host."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Varicella-zoster virus (VZV)",
+          "url": "https://www.cdc.gov/chickenpox/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hsv": {
+      "host": [
+        "人类；HSV-1与HSV-2分别记录型别。",
+        "Humans; HSV-1 and HSV-2 remain distinct types."
+      ],
+      "context": [
+        "口腔、生殖器或新生儿感染是临床情境差异，不应当作不同宿主物种。",
+        "Oral, genital and neonatal infections are different clinical contexts, not different host species."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Herpes simplex viruses 1 and 2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "ebv": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "EBV是常见的人类病毒，可无症状或表现为传染性单核细胞增多症；感染并不必然导致相关肿瘤。",
+        "EBV is a common human virus; infection may be silent or cause infectious mononucleosis and does not inevitably cause associated cancers."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Epstein–Barr virus (EBV)",
+          "url": "https://www.cdc.gov/epstein-barr/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "cmv": {
+      "host": [
+        "人类；本条指人巨细胞病毒。",
+        "Humans; this entry refers to human cytomegalovirus."
+      ],
+      "context": [
+        "先天性感染及免疫抑制人群疾病尤其重要；其他动物的巨细胞病毒不是本条的同义名称。",
+        "Congenital infection and disease in immunocompromised people are particularly important; animal cytomegaloviruses are not synonyms for this entry."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Cytomegalovirus (CMV)",
+          "url": "https://www.cdc.gov/cytomegalovirus/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hpv": {
+      "host": [
+        "人类；包含多种人乳头瘤病毒型别。",
+        "Humans; multiple human papillomavirus types are included."
+      ],
+      "context": [
+        "型别、持续感染和组织部位影响疾病关联。其他动物乳头瘤病毒的研究不能直接替代人HPV证据。",
+        "Type, persistent infection and anatomical site affect disease association. Animal papillomavirus research does not directly substitute for human HPV evidence."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human papillomaviruses (HPV)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "b19": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "本条为人细小病毒B19；儿童、妊娠者及特定血液病或免疫抑制人群的风险不同。",
+        "This entry concerns human parvovirus B19; risks differ in children, pregnancy and selected haematological or immunocompromised populations."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Parvovirus B19",
+          "url": "https://www.cdc.gov/parvovirus-b19/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hav": {
+      "host": [
+        "人类感染。",
+        "Human infection."
+      ],
+      "context": [
+        "本条关注人群经粪口途径传播的甲肝；受污染食物或水是传播载体，不是病毒宿主物种。",
+        "This entry focuses on human hepatitis A and faecal–oral transmission; contaminated food and water are vehicles, not host species."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis A virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hbv": {
+      "host": [
+        "人类感染。",
+        "Human infection."
+      ],
+      "context": [
+        "人体慢性感染及母婴、血液和性传播是临床重点；同科其他病毒的宿主不能直接套用。",
+        "Chronic human infection and perinatal, blood-borne and sexual transmission are clinical priorities; hosts of related viruses cannot be directly substituted."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis B virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hcv": {
+      "host": [
+        "人类感染。",
+        "Human infection."
+      ],
+      "context": [
+        "本条主要讨论人群血源性传播与慢性肝病；相关动物病毒或实验模型需要独立证据。",
+        "This entry primarily concerns human blood-borne transmission and chronic liver disease; related animal viruses and experimental models require separate evidence."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis C virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hdv": {
+      "host": [
+        "存在HBV感染的人类感染者。",
+        "Human infection in the presence of HBV infection."
+      ],
+      "context": [
+        "HDV依赖HBV相关感染背景；共同感染或重叠感染是临床状态，不是宿主物种划分。",
+        "HDV depends on an HBV-associated infection context; coinfection and superinfection are clinical states rather than host-species categories."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis D virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-d",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hev": {
+      "host": [
+        "人类；部分HEV感染涉及人兽共患的食源性背景。",
+        "Humans; some HEV infections have zoonotic food-borne contexts."
+      ],
+      "context": [
+        "不同基因型和地区的传播生态不同；水源性人群暴发与动物相关食源性病例不可简单混为一类。",
+        "Transmission ecology differs by genotype and region; water-borne human outbreaks and animal-associated food-borne cases should not be treated as identical."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis E virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-e",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hiv": {
+      "host": [
+        "人类；区分HIV-1与HIV-2。",
+        "Humans; HIV-1 and HIV-2 are distinguished."
+      ],
+      "context": [
+        "本条为人类感染与临床治疗。病毒演化起源或相关动物病毒不等于当前人群感染的直接宿主证据。",
+        "This entry concerns human infection and care. Evolutionary origins or related animal viruses are not equivalent to direct evidence about current clinical hosts."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human immunodeficiency viruses 1 and 2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "htlv1": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "人际传播包括母乳喂养、性接触及血液暴露；只有部分感染者发生相关疾病。",
+        "Human transmission includes breastfeeding, sexual contact and blood exposure; only some infected people develop associated disease."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human T-lymphotropic virus 1",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1/",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "norovirus": {
+      "host": [
+        "人类；本条以人诺如病毒胃肠炎为重点。",
+        "Humans; this entry focuses on human norovirus gastroenteritis."
+      ],
+      "context": [
+        "食物、水和污染表面可参与传播，但不等于自然宿主；其他动物诺如病毒需独立区分。",
+        "Food, water and contaminated surfaces can transmit infection but are not natural hosts; animal noroviruses require separate distinction."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Noroviruses",
+          "url": "https://www.cdc.gov/norovirus/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "rotavirus": {
+      "host": [
+        "人类；本条主要讨论人轮状病毒胃肠炎。",
+        "Humans; this entry primarily covers human rotavirus gastroenteritis."
+      ],
+      "context": [
+        "婴幼儿疾病负担与疫苗预防是重点；轮状病毒分组不应被解释为所有成员具有相同宿主。",
+        "Infant disease burden and vaccine prevention are priorities; grouping rotaviruses does not mean all members have identical hosts."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Rotaviruses",
+          "url": "https://www.cdc.gov/rotavirus/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "polio": {
+      "host": [
+        "人类。",
+        "Humans."
+      ],
+      "context": [
+        "本条关注人群感染与脊灰消除监测；污水检出用于监测传播，并不表示污水是一种宿主。",
+        "This entry concerns human infection and polio-eradication surveillance; wastewater detection monitors circulation but does not make wastewater a host."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Polioviruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "eva71": {
+      "host": [
+        "人类，临床疾病多见于儿童。",
+        "Humans, with clinical disease commonly affecting children."
+      ],
+      "context": [
+        "EV-A71与手足口病及少见神经系统并发症有关；儿童高发是年龄风险差异，不是宿主物种差异。",
+        "EV-A71 is associated with hand, foot and mouth disease and uncommon neurological complications; paediatric burden reflects age-related risk, not a different host species."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Enterovirus A71",
+          "url": "https://www.cdc.gov/non-polio-enterovirus/about/about-enterovirus-a-71.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "dengue": {
+      "host": [
+        "人类感染；蚊为传播媒介。",
+        "Human infection; mosquitoes are vectors."
+      ],
+      "context": [
+        "本条四种登革病毒的公共卫生重点是蚊媒传播。媒介角色与脊椎动物宿主角色分别描述。",
+        "For the four dengue viruses grouped here, mosquito-borne transmission is the public-health focus. Vector and vertebrate-host roles are described separately."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Dengue viruses (types 1–4)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "zika": {
+      "host": [
+        "人类感染；蚊为主要传播媒介。",
+        "Human infection; mosquitoes are the principal vectors."
+      ],
+      "context": [
+        "此外存在性传播及母胎传播；这些途径不能被简化为单一动物宿主列表。",
+        "Sexual and maternal–fetal transmission also occur; these routes cannot be reduced to a single animal-host list."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Zika virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/zika-virus/",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "chikungunya": {
+      "host": [
+        "人类感染；蚊为传播媒介。",
+        "Human infection; mosquitoes are vectors."
+      ],
+      "context": [
+        "本条关注人群蚊媒暴发与持续关节症状；自然传播生态与临床结局需分别评估。",
+        "This entry focuses on mosquito-borne human outbreaks and persistent joint symptoms; transmission ecology and clinical outcomes require separate assessment."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Chikungunya virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "jev": {
+      "host": [
+        "人类可感染；猪和野鸟参与自然传播循环，蚊为媒介。",
+        "Humans can be infected; pigs and wild birds participate in the natural cycle, with mosquitoes as vectors."
+      ],
+      "context": [
+        "WHO描述的传播循环涉及不同生态角色；人类病例不代表人是维持自然循环的主要宿主。",
+        "The WHO-described cycle involves distinct ecological roles; human cases do not mean that people are the principal hosts maintaining the natural cycle."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Japanese encephalitis virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "rabies": {
+      "host": [
+        "哺乳动物，包括人类。",
+        "Mammals, including humans."
+      ],
+      "context": [
+        "犬相关暴露是全球人类狂犬病的重要来源，不同地区的野生动物背景不同；风险判断依据实际暴露及当地公共卫生评估。",
+        "Dog-associated exposure is a major source of human rabies globally; wildlife contexts vary by region. Risk assessment depends on actual exposure and local public-health evaluation."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Rabies virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "ebola": {
+      "host": [
+        "人类及部分野生动物；果蝠被认为可能是自然宿主。",
+        "Humans and some wildlife; fruit bats are thought to be natural hosts."
+      ],
+      "context": [
+        "本条合并多种埃博拉病相关病毒。自然宿主仍有证据边界，不能把所有动物检出或相关病毒物种视为同等证实。",
+        "This entry groups several Ebola-disease viruses. Natural-host evidence has limits; animal detections and related virus species should not be treated as equally established."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Ebola disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/ebola-disease",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "marburg": {
+      "host": [
+        "人类；果蝠被认为是自然宿主。",
+        "Humans; fruit bats are considered natural hosts."
+      ],
+      "context": [
+        "公共卫生资料区分动物来源感染与后续人际传播；本条不根据科级相似性推断其他动物的易感性。",
+        "Public-health sources distinguish animal-associated infection from subsequent human transmission; this entry does not infer other animals’ susceptibility from family-level similarity."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Marburg disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "nipah": {
+      "host": [
+        "人类；果蝠为自然宿主。",
+        "Humans; fruit bats are natural hosts."
+      ],
+      "context": [
+        "已知暴发可涉及动物来源和人际传播，背景因暴发而异；不同事件不应被压缩为一个通用宿主利用模式。",
+        "Known outbreaks can involve animal-associated and human transmission, with context varying by outbreak; distinct events should not be collapsed into one universal host-use pattern."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Nipah virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "mpox": {
+      "host": [
+        "人类及若干动物；自然储存宿主尚未确定。",
+        "Humans and some animals; the natural reservoir remains unidentified."
+      ],
+      "context": [
+        "动物感染报告不等于已确定长期维持病毒的储存宿主；名称“猴痘”也不意味着猴是唯一或主要自然宿主。",
+        "Reports of animal infection do not identify the reservoir sustaining the virus; the name monkeypox does not establish monkeys as the sole or principal natural host."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Monkeypox virus (mpox)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mpox",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "yellow-fever": {
+      "host": [
+        "人类感染；蚊为传播媒介。",
+        "Human infection; mosquitoes are vectors."
+      ],
+      "context": [
+        "本条以人类黄热病及蚊媒公共卫生风险为重点；不同地区传播循环应依据当地监测分别解释。",
+        "This entry focuses on human yellow fever and mosquito-borne public-health risk; regional transmission cycles require interpretation using local surveillance."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Yellow fever virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/yellow-fever",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "west-nile": {
+      "host": [
+        "鸟类为自然宿主；人类和马可发生疾病；蚊为媒介。",
+        "Birds are natural hosts; people and horses can develop disease; mosquitoes are vectors."
+      ],
+      "context": [
+        "不同动物在传播循环与疾病负担中的角色不同；马用疫苗的存在不能推断其适用于人类。",
+        "Animals have different roles in circulation and disease burden; availability of equine vaccines does not imply human applicability."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "WHO · West Nile virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/west-nile-virus",
+          "checked": "2026-11-20"
+        }
+      ]
+    },
+    "hantavirus": {
+      "host": [
+        "人类感染；多种啮齿动物与自然传播有关。",
+        "Human infection; multiple rodent hosts are associated with natural transmission."
+      ],
+      "context": [
+        "本条合并多种人类致病汉坦病毒，具体生态与疾病综合征不同；不能把某一成员的人际传播证据推广到全组。",
+        "This entry groups several human-pathogenic hantaviruses with differing ecology and syndromes; human-transmission evidence for one member cannot be generalized to the entire group."
+      ],
+      "evidence": [
+        "依据链接的WHO／CDC临床与流行病学资料。感染、传播媒介、储存宿主和样本来源不是同义词；受体表达或结合不能单独证明自然感染。",
+        "Based on the linked WHO/CDC clinical and epidemiological sources. Infection, vector, reservoir and sample source are distinct; receptor expression or binding alone does not establish natural infection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human-pathogenic hantaviruses",
+          "url": "https://www.cdc.gov/hantavirus/about/index.html",
+          "checked": "2026-11-20"
+        }
+      ]
+    }
+  }
+}

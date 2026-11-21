@@ -1,0 +1,1181 @@
+{
+  "checked": "2026-11-20",
+  "scope": [
+    "高层次临床与公共卫生研究解读；以下瓶颈与前景为基于已列来源的编辑综合，不是系统综述或机构正式路线图。",
+    "High-level clinical and public-health interpretation. Bottlenecks and outlooks are editorial synthesis grounded in the listed sources, not a systematic review or official roadmap."
+  ],
+  "profiles": {
+    "sars-cov-2": {
+      "focus": [
+        "优先采用清晰分型和可重复结局评价长新冠干预，研究高风险人群的持久保护，并评估现有防治措施在实际医疗中的可及性。",
+        "Prioritize reproducible long-COVID subgroups and outcomes, durable protection in vulnerable groups, and real-world access to prevention and care."
+      ],
+      "difficulty": [
+        "长新冠症状异质性、再感染和既往免疫差异，使不同队列与干预试验难以直接比较。",
+        "Heterogeneous long-COVID symptoms, reinfection and prior immunity complicate comparisons across cohorts and trials."
+      ],
+      "bottleneck": [
+        "能否把研究分型转化为可重复的诊断与患者获益，而不依赖单一未经验证的生物标志物。",
+        "Translation of research subgroups into reproducible diagnosis and patient benefit without reliance on a single unvalidated biomarker."
+      ],
+      "outlook": [
+        "编辑推断：如果标准化分型和患者报告结局能够跨中心重复验证，分层康复与干预试验可能更有价值；需证明生活质量或功能改善。",
+        "Editorial inference: If standardized subgroups and patient-reported outcomes replicate across centres, stratified rehabilitation and intervention trials may become more useful; functional or quality-of-life benefit must be demonstrated."
+      ],
+      "basis": [
+        "推断依据：长新冠包含不同临床表现；单一机制难以解释所有患者。不同免疫背景、再感染和随访时间会影响研究结果的可比性。",
+        "Basis for inference: Long COVID encompasses heterogeneous presentations. No single explanation establishes causation for every patient; immunity, reinfection and follow-up duration affect comparability."
+      ],
+      "sources": [
+        {
+          "title": "WHO · SARS-CoV-2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)"
+        },
+        {
+          "title": "CDC · Outpatient COVID-19 treatment",
+          "url": "https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html"
+        },
+        {
+          "title": "Hoffmann et al. · SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32142651/"
+        },
+        {
+          "title": "WHO · Post COVID-19 condition",
+          "url": "https://www.who.int/teams/health-care-readiness/post-covid-19-condition"
+        }
+      ]
+    },
+    "influenza": {
+      "focus": [
+        "比较不同人群的临床保护持续性，改进快速诊断与治疗衔接，并检验接种策略能否减少住院而不仅提高抗体水平。",
+        "Compare durable clinical protection across populations, improve diagnostic-to-treatment linkage, and test whether vaccination strategies reduce hospitalization rather than merely raise antibody levels."
+      ],
+      "difficulty": [
+        "季节、年龄与既往接触差异会影响保护效果，单季结果不能直接外推至后续季节。",
+        "Season, age and prior exposure influence protection; a single season cannot establish performance in later seasons."
+      ],
+      "bottleneck": [
+        "把较高免疫反应转化为持久减少住院的临床保护，同时维持及时接种和诊疗可及性。",
+        "Converting immune responses into durable reductions in hospitalization while maintaining timely vaccine and treatment access."
+      ],
+      "outlook": [
+        "编辑推断：如果多季队列显示稳定临床获益，针对老年及高风险人群的保护策略和诊疗衔接值得优先比较。",
+        "Editorial inference: If multi-season cohorts show consistent clinical benefit, protection strategies and diagnostic-to-treatment pathways for older and high-risk groups merit comparative evaluation."
+      ],
+      "basis": [
+        "推断依据：保护持续时间、老年人免疫反应和不同季节之间的有效性差异仍需持续评价。研究性广谱疫苗不能与已获批常规疫苗等同。",
+        "Basis for inference: Protection duration, responses in older adults and season-to-season effectiveness need continuing evaluation. Investigational broader vaccines are not equivalent to licensed routine products."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Influenza A and B viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+        }
+      ]
+    },
+    "rsv": {
+      "focus": [
+        "开展长期真实世界效果与安全监测，比较可行的母婴保护策略，并将资源有限地区的住院和死亡结局纳入评价。",
+        "Prioritize long-term effectiveness and safety surveillance, feasible maternal–infant strategies, and hospitalization and mortality outcomes in resource-limited settings."
+      ],
+      "difficulty": [
+        "母体免疫、婴儿预防和老年人研究的对象与终点不同，间接比较容易产生误解。",
+        "Maternal, infant and older-adult studies use different populations and endpoints, making indirect comparisons uncertain."
+      ],
+      "bottleneck": [
+        "可持续采购、产前服务与出生后服务衔接，以及少见安全事件的长期监测。",
+        "Sustainable procurement, linkage between antenatal and infant services, and long-term monitoring of uncommon safety events."
+      ],
+      "outlook": [
+        "编辑推断：若真实世界随访确认持续保护和可接受安全性，下一阶段重点可能是适合当地出生季节与资源的保护组合。",
+        "Editorial inference: If real-world follow-up confirms durable protection and acceptable safety, locally feasible combinations of prevention across birth seasons may become a priority."
+      ],
+      "basis": [
+        "推断依据：不同方案的相对价值受季节、出生时间、早产和服务可及性影响；短期试验不能单独解决所有长期安全性和实施问题。",
+        "Basis for inference: Comparative value depends on seasonality, birth timing, prematurity and access. Short trials cannot resolve every long-term safety or implementation question."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Respiratory syncytial virus (RSV)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/respiratory-syncytial-virus-(rsv)"
+        },
+        {
+          "title": "RSV and CX3CR1 in human airway cultures · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4676609/"
+        },
+        {
+          "title": "CX3CR1 in pediatric human lung · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7774023/"
+        },
+        {
+          "title": "Kampmann et al. · Bivalent Prefusion F Vaccine in Pregnancy to Prevent RSV Illness in Infants",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2216480"
+        }
+      ]
+    },
+    "hmpv": {
+      "focus": [
+        "优先开展标准化疾病负担监测、临床结局队列和候选预防工具的严格试验；区分病毒检出与真正引起本次重症。",
+        "Prioritize standardized surveillance, outcome cohorts and rigorous prevention trials, distinguishing viral detection from attribution of the current severe illness."
+      ],
+      "difficulty": [
+        "与其他呼吸道病原共检出时，难以准确归因重症负担；不同地区检测频率也不一致。",
+        "Coinfection complicates attribution of severe disease, and diagnostic intensity differs across regions."
+      ],
+      "bottleneck": [
+        "缺少可跨地区比较的疾病负担基线和临床结局，使候选干预的价值评价困难。",
+        "Limited comparable burden baselines and clinical outcomes impede assessment of candidate interventions."
+      ],
+      "outlook": [
+        "编辑推断：若标准化监测能明确高风险年龄和疾病负担，可据此设计更有临床意义的预防研究与资源配置。",
+        "Editorial inference: If standardized surveillance clarifies high-risk ages and burden, prevention studies and resource allocation can target clinically meaningful outcomes."
+      ],
+      "basis": [
+        "推断依据：在不同地区和年龄层中，漏诊比例、共感染的临床意义及感染后的长期影响，不能由单中心病例资料充分确定。",
+        "Basis for inference: Single-center case series cannot settle underdiagnosis, the contribution of coinfections or longer-term outcomes across regions and ages."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human metapneumovirus (HMPV)",
+          "url": "https://www.cdc.gov/human-metapneumovirus/about/index.html"
+        },
+        {
+          "title": "HMPV binding and heparan sulfate · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3302303/"
+        },
+        {
+          "title": "HMPV entry and integrins · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3486500/"
+        }
+      ]
+    },
+    "rhinovirus": {
+      "focus": [
+        "以分型和临床表型明确的队列评估气道结局；候选干预应使用患者症状、急性加重和住院等临床终点。",
+        "Use well-typed, clinically characterized cohorts and patient-centered endpoints such as symptoms, exacerbations and hospitalization when evaluating interventions."
+      ],
+      "difficulty": [
+        "病毒类型多、无症状检出及基础气道病并存，使病毒关联与致病归因难以区分。",
+        "Type diversity, asymptomatic detection and underlying airway disease complicate causal attribution."
+      ],
+      "bottleneck": [
+        "将检测阳性或病毒学变化转化为可重复减少哮喘急性加重的患者获益。",
+        "Demonstrating reproducible reductions in asthma exacerbations rather than relying on positive tests or virological changes."
+      ],
+      "outlook": [
+        "编辑推断：若可识别稳定的高风险气道表型，研究可更集中于急性加重预防、功能恢复和生活质量。",
+        "Editorial inference: If stable high-risk airway phenotypes can be identified, research could focus more effectively on exacerbation prevention, recovery and quality of life."
+      ],
+      "basis": [
+        "推断依据：感染与喘息之间存在复杂关系，需区分既有气道疾病增加感染影响、感染诱发加重，以及长期因果关系。",
+        "Basis for inference: The infection–wheeze relationship requires separating susceptibility from pre-existing airway disease, infection-triggered exacerbation and longer-term causation."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Rhinoviruses",
+          "url": "https://www.cdc.gov/rhinoviruses/about/index.html"
+        },
+        {
+          "title": "Bochkov et al. · Rhinovirus C and CDHR3",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4418890/"
+        },
+        {
+          "title": "Rhinovirus–receptor interactions · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7350259/"
+        }
+      ]
+    },
+    "adenovirus": {
+      "focus": [
+        "强化暴发识别、移植人群风险分层和治疗效果研究；将检测结果与症状、免疫背景及其他病原联合解释。",
+        "Prioritize outbreak recognition, transplant risk stratification and treatment outcomes, interpreting tests alongside symptoms, immune status and alternative pathogens."
+      ],
+      "difficulty": [
+        "不同型别、宿主免疫背景和持续检出情况差异显著，合并分析可能掩盖真实风险。",
+        "Different types, immune backgrounds and persistent detection can conceal clinically important differences in pooled analyses."
+      ],
+      "bottleneck": [
+        "移植患者等脆弱人群中，可靠治疗比较证据和及时风险分层仍是转化环节。",
+        "Reliable comparative treatment evidence and timely risk stratification in vulnerable populations such as transplant recipients remain translational needs."
+      ],
+      "outlook": [
+        "编辑推断：若多中心研究统一器官疾病与病毒检出的定义，可更可靠评价检测引导管理和治疗的净获益。",
+        "Editorial inference: If multicentre studies distinguish organ disease from detection consistently, test-guided care and treatment benefit can be evaluated more reliably."
+      ],
+      "basis": [
+        "推断依据：分型监测如何改变临床决策、检测阳性与持续排毒的区别，以及不同高风险患者的最佳治疗策略，仍需更直接的临床证据。",
+        "Basis for inference: More direct clinical evidence is needed on the utility of typing, positive tests versus prolonged shedding, and optimal management in different high-risk populations."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human adenoviruses",
+          "url": "https://www.cdc.gov/adenovirus/about/index.html"
+        }
+      ]
+    },
+    "measles": {
+      "focus": [
+        "优先研究免疫服务覆盖和迟种补种、暴发早期识别及长期儿童结局；避免只用全国平均接种率判断群体保护。",
+        "Prioritize equitable immunization, catch-up delivery, early outbreak detection and long-term child outcomes instead of relying solely on national coverage averages."
+      ],
+      "difficulty": [
+        "全国平均接种率掩盖局部免疫缺口，流动人群与漏报使暴发风险估计不完整。",
+        "National coverage averages conceal local immunity gaps, while mobility and underreporting limit outbreak-risk estimates."
+      ],
+      "bottleneck": [
+        "有效疫苗已有，但服务中断、信任与可及性阻碍其转化为持续消除。",
+        "Effective vaccination exists, but service disruption, trust and access prevent sustained elimination."
+      ],
+      "outlook": [
+        "编辑推断：若能准确定位漏种群体，未来重点可能是补种服务、社区参与和暴发后长期儿童健康评价。",
+        "Editorial inference: If missed populations can be identified accurately, catch-up delivery, community engagement and long-term child outcomes after outbreaks may offer the greatest gains."
+      ],
+      "basis": [
+        "推断依据：哪些社区持续遗漏接种、感染后健康负担持续多久，以及不同人群中最有效的补种服务方式，需要结合当地数据。",
+        "Basis for inference: Persistent vaccination gaps, duration of post-infection health burden and effective catch-up delivery require locally grounded evidence."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Measles virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/measles"
+        }
+      ]
+    },
+    "mumps": {
+      "focus": [
+        "开展长期保护与暴发环境研究，并用有临床意义的并发症和传播控制结局评价免疫方案。",
+        "Study protection over time and outbreak settings, evaluating immunization strategies using complications and transmission-control outcomes with clinical relevance."
+      ],
+      "difficulty": [
+        "保护随时间变化、接触环境与既往接种史交织，不能仅用抗体水平解释暴发。",
+        "Time since vaccination, contact settings and immunization history interact; antibody measurements alone do not explain outbreaks."
+      ],
+      "bottleneck": [
+        "缺少跨暴发环境可比较的持久保护与并发症终点证据。",
+        "Comparable evidence on durable protection and complications across outbreak settings is limited."
+      ],
+      "outlook": [
+        "编辑推断：如果统一暴露与临床终点，多中心随访可帮助比较不同免疫策略对实际并发症的影响。",
+        "Editorial inference: If exposure and clinical endpoints are standardized, multicentre follow-up could compare the effects of immunization strategies on actual complications."
+      ],
+      "basis": [
+        "推断依据：保护持续时间及特定暴发环境中的额外免疫策略需因地评估；单次抗体检测不能完整代表未来保护。",
+        "Basis for inference: Durability and additional immunization strategies require setting-specific assessment; a single antibody measurement does not fully represent future protection."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Mumps virus",
+          "url": "https://www.cdc.gov/mumps/about/index.html"
+        }
+      ]
+    },
+    "rubella": {
+      "focus": [
+        "加强育龄人群免疫服务、先天病例监测及消除后维持策略；研究应关注获得服务的公平性。",
+        "Strengthen immunity in reproductive-age populations, congenital-case surveillance and sustained elimination, with explicit attention to equitable service access."
+      ],
+      "difficulty": [
+        "感染可不明显，先天性风疹综合征识别与妊娠随访不足会低估负担。",
+        "Inapparent infection and incomplete congenital-rubella recognition or pregnancy follow-up can underestimate burden."
+      ],
+      "bottleneck": [
+        "从儿童常规接种延伸到育龄人群免疫缺口与消除后的持续监测。",
+        "Extending childhood vaccination gains to reproductive-age immunity gaps and sustained post-elimination surveillance."
+      ],
+      "outlook": [
+        "编辑推断：若育龄人群和先天病例监测更完整，维持消除与公平获得免疫服务可能成为主要研究重点。",
+        "Editorial inference: With more complete reproductive-age and congenital-case surveillance, sustaining elimination and equitable immunization may become central research priorities."
+      ],
+      "basis": [
+        "推断依据：漏报、检测能力及免疫服务中断可能影响消除评估。现有病例数并不总能反映真实感染或先天疾病负担。",
+        "Basis for inference: Underreporting, testing capacity and disrupted immunization can complicate elimination assessment. Reported counts may not capture the true infection or congenital-disease burden."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Rubella virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rubella"
+        }
+      ]
+    },
+    "vzv": {
+      "focus": [
+        "重点评估老年及免疫抑制人群的长期保护、安全性和疼痛结局，提升及时识别与治疗衔接。",
+        "Evaluate long-term protection, safety and pain outcomes in older and immunosuppressed groups, improving timely recognition and linkage to care."
+      ],
+      "difficulty": [
+        "既往水痘、年龄、免疫抑制程度和疼痛定义影响带状疱疹研究的可比性。",
+        "Prior varicella, age, immunosuppression and pain definitions affect comparability of zoster studies."
+      ],
+      "bottleneck": [
+        "在脆弱人群中同时证明长期保护、可接受安全性与实际疼痛获益。",
+        "Demonstrating durable protection, acceptable safety and meaningful pain reduction in vulnerable groups."
+      ],
+      "outlook": [
+        "编辑推断：若长期随访支持持续获益，个体风险分层的接种与早诊策略可进一步接受真实世界评价。",
+        "Editorial inference: If long-term follow-up supports sustained benefit, risk-stratified vaccination and early-recognition strategies could receive stronger real-world evaluation."
+      ],
+      "basis": [
+        "推断依据：不同免疫背景下的保护持久性、神经痛预防及再接种策略需长期随访；试验抗体指标不能替代临床结局。",
+        "Basis for inference: Protection durability, neuralgia prevention and repeat-vaccination strategies need long follow-up; antibody measurements cannot replace clinical outcomes."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Varicella-zoster virus (VZV)",
+          "url": "https://www.cdc.gov/chickenpox/about/index.html"
+        },
+        {
+          "title": "CDC · Shingles",
+          "url": "https://www.cdc.gov/shingles/about/index.html"
+        }
+      ]
+    },
+    "hsv": {
+      "focus": [
+        "优先研究持久的症状控制、有效预防工具、新生儿风险降低与患者生活质量，采用明确的临床和传播终点。",
+        "Prioritize durable symptom control, preventive tools, neonatal risk reduction and quality of life, with clearly separated clinical and transmission outcomes."
+      ],
+      "difficulty": [
+        "潜伏、无症状排毒和复发频率差异使症状控制与传播减少不能视为同一终点。",
+        "Latency, asymptomatic shedding and variable recurrence mean symptom control and reduced transmission are distinct endpoints."
+      ],
+      "bottleneck": [
+        "现有抑制治疗与可持久预防复发、传播或新生儿疾病之间仍有证据落差。",
+        "A gap remains between suppressive treatment and durable prevention of recurrence, transmission or neonatal disease."
+      ],
+      "outlook": [
+        "编辑推断：若候选预防与治疗工具能分别证明临床和传播终点获益，研究可能向持久控制和围产期风险降低推进。",
+        "Editorial inference: If candidate tools demonstrate benefits on separately defined clinical and transmission endpoints, research may advance toward durable control and reduced perinatal risk."
+      ],
+      "basis": [
+        "推断依据：减少症状、减少排毒及减少伴侣传播是不同终点，不能把某一终点改善直接外推为全面阻断传播。",
+        "Basis for inference: Fewer symptoms, reduced shedding and lower partner transmission are different endpoints; improvement in one does not establish complete prevention of transmission."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Herpes simplex viruses 1 and 2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus"
+        },
+        {
+          "title": "HSV-1 entry in human conjunctival epithelium · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2569872/"
+        },
+        {
+          "title": "HSV receptor requirements · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196397/"
+        }
+      ]
+    },
+    "ebv": {
+      "focus": [
+        "开展纵向临床队列、提高高风险人群识别，并以明确疾病终点评估候选预防措施；避免把相关性直接当作个体预测。",
+        "Use longitudinal cohorts, improve high-risk identification and evaluate prevention against defined disease endpoints, avoiding individual predictions based solely on association."
+      ],
+      "difficulty": [
+        "广泛既往感染与少数严重疾病并存，关联研究难以直接支持个体风险预测。",
+        "Widespread past infection alongside uncommon severe outcomes limits individual risk prediction from association studies."
+      ],
+      "bottleneck": [
+        "从流行病学关联走向可验证的预防效益，需要长期随访与明确疾病终点。",
+        "Moving from epidemiological association to demonstrated prevention benefit requires long follow-up and defined disease endpoints."
+      ],
+      "outlook": [
+        "编辑推断：如果风险标志能在独立队列重复验证，疾病特异的预防研究和高风险随访可能比普遍筛查更有价值。",
+        "Editorial inference: If risk markers replicate in independent cohorts, disease-specific prevention studies and targeted follow-up may be more useful than indiscriminate screening."
+      ],
+      "basis": [
+        "推断依据：预测少数患者长期并发症的指标、预防感染与预防疾病之间的差异，以及候选疫苗的临床获益均需仔细验证。",
+        "Basis for inference: Predictors of uncommon long-term complications, prevention of infection versus disease, and clinical benefit from candidate vaccines require careful validation."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Epstein–Barr virus (EBV)",
+          "url": "https://www.cdc.gov/epstein-barr/about/index.html"
+        },
+        {
+          "title": "EBV uses HLA class II as a cofactor · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC191687/"
+        },
+        {
+          "title": "EBV entry utilizing HLA-DP or HLA-DQ · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC111730/"
+        }
+      ]
+    },
+    "cmv": {
+      "focus": [
+        "重点评估母婴预防、规范化新生儿随访、移植患者风险分层和耐药管理，并区分病毒检出与器官疾病。",
+        "Prioritize maternal–infant prevention, standardized newborn follow-up, transplant risk stratification and resistance management, distinguishing viral detection from organ disease."
+      ],
+      "difficulty": [
+        "先天感染可在出生时无明显症状，听力与发育结局需长期随访；移植人群风险又不同。",
+        "Congenital infection may be silent at birth and requires long-term hearing and developmental follow-up; transplant risks differ."
+      ],
+      "bottleneck": [
+        "把早期筛查、治疗安全性与持续随访连成可实施的母婴服务，同时改善移植治疗证据。",
+        "Linking screening, treatment safety and follow-up into feasible maternal–infant services while improving transplant-care evidence."
+      ],
+      "outlook": [
+        "编辑推断：若筛查和干预能改善长期功能结局，规范新生儿路径及高风险患者分层管理可能获得更强依据。",
+        "Editorial inference: If screening and intervention improve long-term function, standardized newborn pathways and risk-stratified care could gain stronger support."
+      ],
+      "basis": [
+        "推断依据：哪些婴儿最可能获益于早筛及干预、长期听力结局和不同患者的药物风险，需要专门临床研究。",
+        "Basis for inference: Benefits of early screening and intervention, long-term hearing outcomes and treatment risks require population-specific clinical studies."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Cytomegalovirus (CMV)",
+          "url": "https://www.cdc.gov/cytomegalovirus/about/index.html"
+        },
+        {
+          "title": "Kabanova et al. · PDGFRα receptor",
+          "url": "https://www.nature.com/articles/nmicrobiol201682"
+        },
+        {
+          "title": "Martinez-Martin et al. · Neuropilin-2 receptor",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30057110/"
+        }
+      ]
+    },
+    "hpv": {
+      "focus": [
+        "优先提高疫苗与筛查覆盖，评价简化服务流程，并在规范试验中区分治疗性候选疫苗与已建立的预防性疫苗。",
+        "Improve vaccination and screening access, evaluate simplified service delivery, and distinguish investigational therapeutic vaccines from established prophylactic vaccination."
+      ],
+      "difficulty": [
+        "癌前病变和癌症出现时间长，短期感染或免疫指标不能替代长期疾病获益。",
+        "Precancer and cancer develop over long periods; short-term infection or immune markers do not replace disease outcomes."
+      ],
+      "bottleneck": [
+        "疫苗、筛查与异常结果后的治疗衔接不足，使有效技术未充分转化为癌症预防。",
+        "Weak linkage between vaccination, screening and treatment of abnormal findings limits cancer-prevention gains."
+      ],
+      "outlook": [
+        "编辑推断：若简化筛查和服务整合仍能保持安全有效，研究重点可能进一步转向提高覆盖和减少失访；治疗性候选工具仍需独立验证。",
+        "Editorial inference: If simplified screening and integrated services remain safe and effective, research may increasingly focus on coverage and retention; therapeutic candidates still require independent validation."
+      ],
+      "basis": [
+        "推断依据：筛查间隔、接种后残余风险与未充分覆盖人群的最佳服务方式，应结合当地疾病负担和资源研究。",
+        "Basis for inference: Screening intervals, residual risk after vaccination and delivery to underserved populations require local burden and resource data."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human papillomaviruses (HPV)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer"
+        },
+        {
+          "title": "HPV attachment and heparan sulfate · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2643729/"
+        },
+        {
+          "title": "HPV16/33 and cell-surface heparan sulfate · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC114064/"
+        }
+      ]
+    },
+    "b19": {
+      "focus": [
+        "改进高风险人群早期识别、胎儿与血液学结局随访，并验证临床干预，避免用单一受体模型推断个体风险。",
+        "Improve early high-risk recognition and fetal and haematological follow-up, evaluating clinical interventions without inferring individual risk from a single receptor model."
+      ],
+      "difficulty": [
+        "多数轻症与少数胎儿或血液学重症之间差异大，罕见严重结局难以开展充分比较。",
+        "The contrast between common mild illness and uncommon fetal or haematological complications makes adequately powered comparisons difficult."
+      ],
+      "bottleneck": [
+        "可靠的高风险识别与及时专科随访，而非一般人群单次检测。",
+        "Reliable high-risk recognition and timely specialist follow-up rather than isolated population-wide testing."
+      ],
+      "outlook": [
+        "编辑推断：若跨中心登记能统一胎儿和血液学结局，可更好评价风险分层与干预的实际价值。",
+        "Editorial inference: If multicentre registries standardize fetal and haematological outcomes, risk stratification and intervention value can be evaluated more effectively."
+      ],
+      "basis": [
+        "推断依据：检测时机与既往感染会影响解释，持续感染患者及妊娠暴露者需要不同的临床评价路径。",
+        "Basis for inference: Testing timing and previous infection affect interpretation; persistent infection and pregnancy exposure require different clinical assessment pathways."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Parvovirus B19",
+          "url": "https://www.cdc.gov/parvovirus-b19/about/index.html"
+        },
+        {
+          "title": "B19 uptake and receptor insufficiency · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5086601/"
+        },
+        {
+          "title": "Globoside as an intracellular B19 factor · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11311400/"
+        }
+      ]
+    },
+    "hav": {
+      "focus": [
+        "结合血清流行病学与暴发调查优化疫苗服务，关注流动人群、成人免疫缺口和快速接触者管理的实际效果。",
+        "Combine seroepidemiology and outbreak investigation to improve vaccine delivery, adult immunity gaps, mobile populations and timely contact management."
+      ],
+      "difficulty": [
+        "儿童隐性感染、成人免疫缺口和人群流动使常规病例数不能完整反映易感性。",
+        "Inapparent childhood infection, adult immunity gaps and mobility mean case counts do not fully measure susceptibility."
+      ],
+      "bottleneck": [
+        "将疫苗效力转化为及时覆盖高风险与流动人群的服务能力。",
+        "Translating vaccine efficacy into timely services for exposed and mobile populations."
+      ],
+      "outlook": [
+        "编辑推断：若血清调查与暴发资料能定位免疫缺口，精准服务与更快接触者管理可能比普遍扩大检测更有价值。",
+        "Editorial inference: If serosurveys and outbreak data locate immunity gaps, targeted services and faster contact management may offer more value than indiscriminate testing expansion."
+      ],
+      "basis": [
+        "推断依据：卫生条件改善可改变易感人群年龄结构，某地既往低发病率不一定意味着成人已具有免疫。",
+        "Basis for inference: Improved sanitation can shift susceptibility toward older ages; historically low incidence does not necessarily establish adult immunity."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis A virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a"
+        }
+      ]
+    },
+    "hbv": {
+      "focus": [
+        "评价持久缓解策略、简化诊疗、减少母婴传播和肝癌结局，纳入治疗中断后的长期安全与复发风险。",
+        "Evaluate durable remission, simplified care, prevention of mother-to-child transmission and liver-cancer outcomes, including long-term safety and relapse after treatment cessation."
+      ],
+      "difficulty": [
+        "长期病程、不同肝病阶段和治疗史，使短期病毒学改善难以直接等同于肝癌风险下降。",
+        "Long disease courses, liver-disease stage and treatment history prevent direct equivalence between short-term virological improvement and lower cancer risk."
+      ],
+      "bottleneck": [
+        "持久缓解策略需要同时解决停药后复发、安全性与长期临床获益；现有有效治疗也有诊疗覆盖不足。",
+        "Durable-remission approaches must address relapse, safety and long-term benefit, while access gaps limit existing effective care."
+      ],
+      "outlook": [
+        "编辑推断：若有限疗程能在长期随访中维持安全缓解，研究可能更重视患者分层与临床结局；简化检测和母婴阻断仍有直接实施价值。",
+        "Editorial inference: If finite treatment produces safe sustained remission on long follow-up, patient stratification and clinical outcomes may become more central; simplified testing and prevention of mother-to-child transmission retain immediate implementation value."
+      ],
+      "basis": [
+        "推断依据：功能性治愈与完全清除病毒不能混用。治疗后仍需何种监测取决于残余肝病风险，不能仅用一次病毒量判定。",
+        "Basis for inference: Functional cure is not synonymous with complete viral eradication. Follow-up depends on residual liver-disease risk, not a single viral-load result."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis B virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b"
+        },
+        {
+          "title": "WHO · Chronic hepatitis B guidelines, 2024",
+          "url": "https://www.who.int/publications/i/item/9789240090903"
+        }
+      ]
+    },
+    "hcv": {
+      "focus": [
+        "优先研究简化检测、社区治疗与风险人群服务，并长期评估治愈后的肝癌风险及疫苗候选的临床价值。",
+        "Prioritize simplified diagnostics, community treatment and services for exposed populations, alongside residual cancer risk and clinical evaluation of vaccine candidates."
+      ],
+      "difficulty": [
+        "再感染、失访与基础肝硬化会影响治愈后结局，需要将病毒清除和残余肝病风险分开。",
+        "Reinfection, loss to follow-up and cirrhosis affect outcomes after cure; clearance and residual liver risk must be separated."
+      ],
+      "bottleneck": [
+        "确诊、治疗可及性和高暴露人群持续服务，往往限制已有治愈性治疗的公共卫生效果。",
+        "Diagnosis, treatment access and continuity for highly exposed populations limit the public-health impact of curative therapy."
+      ],
+      "outlook": [
+        "编辑推断：若社区化检测治疗能提高留治率，消除研究可能更聚焦服务整合、再感染预防和治愈后风险管理。",
+        "Editorial inference: If community testing and treatment improve retention, elimination research may focus more on service integration, reinfection prevention and post-cure risk management."
+      ],
+      "basis": [
+        "推断依据：如何发现尚未诊断的人群、减少诊疗流失及预防再感染，常比再次证明药物可抑制病毒更决定公共卫生效果。",
+        "Basis for inference: Finding undiagnosed infections, retaining patients in care and preventing reinfection often determine public-health impact more than demonstrating antiviral activity again."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis C virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c"
+        }
+      ]
+    },
+    "hdv": {
+      "focus": [
+        "改善HBV人群中的HDV筛查，研究持久应答、治疗后复发与组合管理，并扩大确诊和专科服务。",
+        "Improve HDV screening in HBV populations, study durable response and post-treatment relapse, and expand diagnostic and specialist-care access."
+      ],
+      "difficulty": [
+        "必须结合HBV背景解释检测与肝病结局，不同筛查策略会改变发现的病例构成。",
+        "Testing and liver outcomes must be interpreted with HBV status; screening strategies change the detected case mix."
+      ],
+      "bottleneck": [
+        "检测可及性及持久临床获益证据不足，限制治疗研究推广到一般诊疗。",
+        "Diagnostic access and evidence of durable clinical benefit limit translation into routine care."
+      ],
+      "outlook": [
+        "编辑推断：若反射检测和规范随访提高识别率，下一步可更可靠比较长期应答、复发与肝脏结局。",
+        "Editorial inference: If reflex testing and standardized follow-up improve recognition, durable response, relapse and liver outcomes can be compared more reliably."
+      ],
+      "basis": [
+        "推断依据：病毒学应答能否转化为持久的肝硬化和死亡风险下降，需要长期随访；短期指标不能替代这些结局。",
+        "Basis for inference: Whether virological response translates into durable reductions in cirrhosis and death requires long follow-up; short-term markers cannot replace these outcomes."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis D virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-d"
+        }
+      ]
+    },
+    "hev": {
+      "focus": [
+        "优先研究暴发环境中的母婴保护、食品相关预防、免疫抑制者持续感染管理及疫苗实施效果。",
+        "Prioritize maternal–infant protection in outbreaks, food-related prevention, persistent-infection management and vaccine implementation outcomes."
+      ],
+      "difficulty": [
+        "水源相关暴发、食品相关感染和免疫抑制者持续感染的背景不同，不能合并成单一风险模型。",
+        "Water-associated outbreaks, food-associated infection and persistent infection under immunosuppression require distinct risk interpretations."
+      ],
+      "bottleneck": [
+        "孕期保护证据、暴发中的服务可及性及持续感染管理的标准化。",
+        "Pregnancy-protection evidence, access during outbreaks and standardized management of persistent infection."
+      ],
+      "outlook": [
+        "编辑推断：若不同场景获得可比较的临床结局资料，疫苗实施、母婴保护和食品预防可分别形成更清晰的研究路径。",
+        "Editorial inference: If comparable clinical outcomes become available in distinct settings, vaccine implementation, maternal–infant protection and food-related prevention could follow clearer research pathways."
+      ],
+      "basis": [
+        "推断依据：对特定人群的干预不能从一般成人研究直接外推；急性自限病程与免疫抑制患者的持续感染需要不同终点。",
+        "Basis for inference: Interventions cannot be generalized from typical adults to every vulnerable group; self-limited acute disease and persistent infection require different endpoints."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis E virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-e"
+        }
+      ]
+    },
+    "hiv": {
+      "focus": [
+        "重点研究公平可及的预防与治疗、长期安全性、诊疗连续性及可持续缓解；避免将极少数特殊治愈病例外推为普适方案。",
+        "Prioritize equitable prevention and treatment, long-term safety, continuity of care and durable remission, without generalizing exceptional cure cases into broadly applicable treatment."
+      ],
+      "difficulty": [
+        "长期依从性、合并疾病与人群代表性影响疗效外推；特殊缓解病例不能替代广泛临床证据。",
+        "Long-term adherence, comorbidity and population representation affect generalizability; exceptional remission cases cannot replace broad clinical evidence."
+      ],
+      "bottleneck": [
+        "把有效预防和抑制治疗变成可负担、可持续且不断档的服务；持久缓解仍需严格验证。",
+        "Delivering affordable, sustained prevention and suppressive care without interruptions; durable remission still requires rigorous validation."
+      ],
+      "outlook": [
+        "编辑推断：若长效策略在实际服务中改善留治而保持安全，研究可能更聚焦公平可及与长期结局；任何缓解策略仍需独立临床验证。",
+        "Editorial inference: If long-acting strategies improve retention safely in routine services, equitable access and long-term outcomes may become stronger priorities; remission approaches still require independent clinical validation."
+      ],
+      "basis": [
+        "推断依据：长效方案的真实效果受持续服务、检测和费用影响；试验疗效与全球可及性之间仍需分别评估。",
+        "Basis for inference: Real-world impact of long-acting approaches depends on service continuity, testing and affordability; trial efficacy and worldwide access require separate assessment."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human immunodeficiency viruses 1 and 2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+        },
+        {
+          "title": "Bekker et al. · Twice-Yearly Lenacapavir or Daily F/TAF for HIV Prevention in Cisgender Women",
+          "url": "https://www.nejm.org/doi/10.1056/NEJMoa2407001"
+        }
+      ]
+    },
+    "htlv1": {
+      "focus": [
+        "优先开展长期自然史队列、可验证风险分层、母婴预防和患者功能结局研究，同时改善低识别地区的诊断服务。",
+        "Prioritize natural-history cohorts, validated risk stratification, maternal–infant prevention and functional outcomes, alongside diagnosis in under-recognized settings."
+      ],
+      "difficulty": [
+        "感染后严重疾病可经多年才出现，低识别率与随访流失影响自然史估计。",
+        "Severe disease can emerge years after infection; under-recognition and attrition complicate natural-history estimates."
+      ],
+      "bottleneck": [
+        "可外部验证的高风险识别、母婴预防服务与能改善功能的治疗证据。",
+        "Externally validated risk identification, maternal–infant prevention and treatment evidence that improves function."
+      ],
+      "outlook": [
+        "编辑推断：若长期登记能连接感染、疾病和照护结局，风险分层和早期服务研究可能更具可行性。",
+        "Editorial inference: If long-term registries link infection, disease and care outcomes, risk-stratified early-service studies may become more feasible."
+      ],
+      "basis": [
+        "推断依据：谁会从无症状携带进展为疾病、何时干预最有益以及长期监测的最佳方式仍不能由单次病毒检测回答。",
+        "Basis for inference: A single test cannot establish who will progress, when intervention is most beneficial or the optimal long-term monitoring strategy."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human T-lymphotropic virus 1",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1/"
+        }
+      ]
+    },
+    "norovirus": {
+      "focus": [
+        "重点研究疫苗临床终点、老年和免疫低下患者的结局，以及医疗机构中现实可执行的暴发控制措施。",
+        "Prioritize vaccine clinical outcomes, older and immunocompromised patients, and outbreak-control strategies that are feasible in healthcare settings."
+      ],
+      "difficulty": [
+        "型别多样、既往暴露和暴发环境差异使保护终点与跨研究比较复杂。",
+        "Type diversity, previous exposure and outbreak settings complicate protection endpoints and cross-study comparisons."
+      ],
+      "bottleneck": [
+        "从候选预防工具的免疫指标走向减少真实胃肠炎负担，尤其是老年和免疫低下者。",
+        "Moving from immune markers to reductions in actual gastroenteritis burden, particularly in older and immunocompromised people."
+      ],
+      "outlook": [
+        "编辑推断：若试验能证实患者获益，候选疫苗与机构暴发控制措施的现实实施比较可能成为重点。",
+        "Editorial inference: If trials demonstrate patient benefit, practical comparisons of candidate vaccination and institutional outbreak-control measures may become priorities."
+      ],
+      "basis": [
+        "推断依据：免疫持续时间、不同人群的保护指标及候选疫苗对临床疾病的广度需要前瞻性评价。",
+        "Basis for inference: Immunity duration, correlates of protection and breadth of candidate vaccines against clinical disease require prospective assessment."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Noroviruses",
+          "url": "https://www.cdc.gov/norovirus/about/index.html"
+        }
+      ]
+    },
+    "rotavirus": {
+      "focus": [
+        "优先提高及时接种和补液服务，持续开展安全与效果监测，并评价对重症结局的公平改善。",
+        "Prioritize timely vaccination and rehydration services, ongoing safety and effectiveness monitoring, and equitable improvements in severe outcomes."
+      ],
+      "difficulty": [
+        "地区间基础健康、服务覆盖和病原共存影响疫苗效果比较，不能把差异简单归因于产品。",
+        "Baseline health, service coverage and co-pathogens affect vaccine-effectiveness comparisons across regions."
+      ],
+      "bottleneck": [
+        "及时完成接种和获得补液照护，以及维持持续安全监测。",
+        "Timely vaccine completion, access to rehydration care and sustained safety surveillance."
+      ],
+      "outlook": [
+        "编辑推断：若实施研究能缩小低覆盖地区的服务缺口，减少重症与死亡的不平等可能是更直接的研究收益。",
+        "Editorial inference: If implementation research closes service gaps in low-coverage settings, reducing inequalities in severe disease and mortality may offer the most immediate gains."
+      ],
+      "basis": [
+        "推断依据：如何在高疾病负担地区实现更稳定保护，以及共感染和其他腹泻病原如何影响观察效果，需要结合现场研究。",
+        "Basis for inference: Achieving reliable protection in high-burden settings and separating coinfection or other diarrhoeal pathogens require field studies."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Rotaviruses",
+          "url": "https://www.cdc.gov/rotavirus/about/index.html"
+        }
+      ]
+    },
+    "polio": {
+      "focus": [
+        "重点提升监测敏感性、边缘人群接种和长期康复服务，研究能够维持消除成果的实施策略。",
+        "Prioritize sensitive surveillance, vaccination of underserved populations, long-term rehabilitation and implementation strategies that sustain elimination."
+      ],
+      "difficulty": [
+        "瘫痪只代表部分感染，病例监测与环境监测的覆盖不同，零报告不等于零传播。",
+        "Paralysis represents only part of infection; clinical and environmental surveillance have different coverage, and zero reports do not prove zero transmission."
+      ],
+      "bottleneck": [
+        "持续接种、难以触及群体的服务和长期监测能力，决定能否维持消除。",
+        "Sustained vaccination, services for hard-to-reach populations and long-term surveillance determine whether elimination is maintained."
+      ],
+      "outlook": [
+        "编辑推断：若多来源监测提高发现能力，研究可更聚焦及时应对、免疫服务连续性和幸存者长期康复。",
+        "Editorial inference: If combined surveillance improves detection, research could concentrate on timely response, continuity of immunization and long-term survivor rehabilitation."
+      ],
+      "basis": [
+        "推断依据：不同疫苗策略、免疫缺口与停止传播的证据需要在具体公共卫生背景中评价；检测阴性不能单独证明完全无传播。",
+        "Basis for inference: Vaccine strategies, immunity gaps and evidence of interruption require contextual assessment; negative sampling alone cannot prove complete absence of circulation."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Polioviruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis"
+        }
+      ]
+    },
+    "eva71": {
+      "focus": [
+        "优先开展分型监测、儿童神经发育结局与免疫策略研究，候选治疗须用临床结局而非单一实验室指标评价。",
+        "Prioritize typing surveillance, child neurodevelopmental outcomes and immunization strategies, evaluating treatments against clinical rather than laboratory-only endpoints."
+      ],
+      "difficulty": [
+        "手足口病由多种肠道病毒引起，未分型的病例数不能代表EV-A71特异疾病负担。",
+        "Multiple enteroviruses cause hand, foot and mouth disease; untyped cases do not measure EV-A71-specific burden."
+      ],
+      "bottleneck": [
+        "将特异预防效果与所有手足口病减少区分，并获得严重神经系统结局的充分证据。",
+        "Separating virus-specific prevention from reductions in all hand, foot and mouth disease and obtaining adequate evidence on severe neurological outcomes."
+      ],
+      "outlook": [
+        "编辑推断：若分型监测和儿童长期随访完善，可更合理评价免疫策略与神经发育保护。",
+        "Editorial inference: If typing surveillance and long-term paediatric follow-up improve, immunization strategies and neurodevelopmental protection can be assessed more meaningfully."
+      ],
+      "basis": [
+        "推断依据：如何更早识别少数进展为重症的儿童、疫苗保护持久性及不同地区的实际效果需要持续随访。",
+        "Basis for inference: Earlier identification of children progressing to severe disease, durability and effectiveness across settings require continuing follow-up."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Enterovirus A71",
+          "url": "https://www.cdc.gov/non-polio-enterovirus/about/about-enterovirus-a-71.html"
+        },
+        {
+          "title": "WHO · Enterovirus 71 vaccine standards",
+          "url": "https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccine-standardization/enterovirus-71"
+        }
+      ]
+    },
+    "dengue": {
+      "focus": [
+        "重点研究可推广的重症预测、疫苗长期安全有效性和综合防蚊策略，采用住院、重症及死亡等结局。",
+        "Prioritize generalizable severity prediction, durable vaccine safety and effectiveness, and integrated vector prevention using hospitalization, severe disease and mortality outcomes."
+      ],
+      "difficulty": [
+        "既往感染、年龄、血清型与当地流行强度相互影响，疫苗和重症预测结果难以直接跨地区外推。",
+        "Prior infection, age, serotype and transmission intensity interact, limiting direct transfer of vaccine and severity-prediction findings across settings."
+      ],
+      "bottleneck": [
+        "可推广的风险分层与长期安全有效性评价，以及及时识别重症的现实服务能力。",
+        "Generalizable risk stratification, long-term safety and effectiveness evidence, and practical capacity for timely severe-disease recognition."
+      ],
+      "outlook": [
+        "编辑推断：若多地区研究验证分层策略，个体风险与当地流行背景结合的预防和早诊可能更有价值。",
+        "Editorial inference: If studies across settings validate stratified strategies, prevention and early care integrating individual risk with local epidemiology may become more useful."
+      ],
+      "basis": [
+        "推断依据：保护广度、不同既往免疫背景的安全性及预警指标的实际价值，需要在当地流行环境中评价。",
+        "Basis for inference: Protection breadth, safety across prior-immunity backgrounds and practical predictive markers require evaluation in local epidemiological settings."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Dengue viruses (types 1–4)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue"
+        }
+      ]
+    },
+    "zika": {
+      "focus": [
+        "重点改进可区分相关虫媒病毒的诊断、孕期咨询证据、儿童长期照护以及候选预防工具的临床评价。",
+        "Improve differential diagnosis, evidence for pregnancy counselling, long-term child care and clinical evaluation of preventive tools."
+      ],
+      "difficulty": [
+        "与其他虫媒病毒的诊断交叉及无症状感染，使孕期暴露和胎儿风险估计复杂。",
+        "Diagnostic overlap with other arboviruses and asymptomatic infection complicate estimates of pregnancy exposure and fetal risk."
+      ],
+      "bottleneck": [
+        "可靠诊断、长期儿童随访与可执行的预防试验之间尚需更强衔接。",
+        "Stronger linkage is needed between reliable diagnosis, long-term child follow-up and feasible prevention trials."
+      ],
+      "outlook": [
+        "编辑推断：若诊断和先天结局登记更完善，候选预防工具和孕期咨询可获得更有用的临床评价依据。",
+        "Editorial inference: If diagnosis and congenital-outcome registries improve, candidate prevention tools and pregnancy counselling can be evaluated on more useful clinical evidence."
+      ],
+      "basis": [
+        "推断依据：个体妊娠风险预测、长期发育谱及检测的交叉反应问题使单一检测或短期队列的解释受到限制。",
+        "Basis for inference: Individual pregnancy-risk prediction, long-term developmental outcomes and diagnostic cross-reactivity limit interpretation of single tests or short cohorts."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Zika virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/zika-virus/"
+        }
+      ]
+    },
+    "chikungunya": {
+      "focus": [
+        "开展长期疼痛与功能随访、疫苗真实世界安全有效性研究，并比较可持续的康复与症状管理策略。",
+        "Study long-term pain and function, real-world vaccine safety and effectiveness, and sustainable rehabilitation and symptom-management strategies."
+      ],
+      "difficulty": [
+        "慢性关节症状的定义、基线疾病与随访时间不同，导致研究间功能结局难以比较。",
+        "Definitions of chronic joint symptoms, baseline disease and follow-up duration vary, limiting functional-outcome comparisons."
+      ],
+      "bottleneck": [
+        "长期疼痛管理证据，以及不同年龄和风险人群中预防措施的真实世界安全评价。",
+        "Evidence for long-term pain management and real-world safety evaluation of prevention across age and risk groups."
+      ],
+      "outlook": [
+        "编辑推断：若统一疼痛与功能终点，康复方案比较及预防措施的长期风险收益研究可能更具决定性。",
+        "Editorial inference: If pain and function endpoints are standardized, rehabilitation comparisons and long-term benefit–risk studies of prevention could become more decisive."
+      ],
+      "basis": [
+        "推断依据：急性病毒学指标与长期关节恢复之间并非简单对应，合并关节病及年龄也可能影响观察结果。",
+        "Basis for inference: Acute virological markers do not map simply onto joint recovery; age and pre-existing joint disease can influence outcomes."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Chikungunya virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/chikungunya"
+        },
+        {
+          "title": "CDC · Chikungunya vaccine",
+          "url": "https://www.cdc.gov/chikungunya/vaccines/index.html"
+        }
+      ]
+    },
+    "jev": {
+      "focus": [
+        "优化免疫覆盖和脑炎监测，建立长期康复队列，并评估适合当地风险与资源的预防策略。",
+        "Improve immunization and encephalitis surveillance, establish rehabilitation cohorts, and evaluate prevention suited to local risk and resources."
+      ],
+      "difficulty": [
+        "多数感染无明显症状，脑炎病因确认和长期神经功能测量均依赖稳定服务。",
+        "Most infections are inapparent, while attribution of encephalitis and long-term neurological measurement require reliable services."
+      ],
+      "bottleneck": [
+        "有效预防与仍存在的覆盖缺口，以及急性救治到长期康复的服务断裂。",
+        "The gap between effective prevention and incomplete coverage, alongside discontinuity from acute care to rehabilitation."
+      ],
+      "outlook": [
+        "编辑推断：若脑炎登记和康复随访能够持续，研究可更准确衡量免疫策略和长期支持的综合收益。",
+        "Editorial inference: If encephalitis registries and rehabilitation follow-up are sustained, studies can better measure combined benefits of immunization and long-term support."
+      ],
+      "basis": [
+        "推断依据：低病例数可能反映有效免疫，也可能反映检测不足。幸存者的长期认知、功能和家庭照护负担常需进一步随访。",
+        "Basis for inference: Low case counts may reflect effective immunization or inadequate diagnosis. Survivors need follow-up for cognition, function and family caregiving burden."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Japanese encephalitis virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis"
+        }
+      ]
+    },
+    "rabies": {
+      "focus": [
+        "优先研究犬免疫覆盖、暴露后服务可及性、风险评估质量及患者与家庭照护，采用可预防死亡作为核心结局。",
+        "Prioritize dog coverage, access to post-exposure care, risk-assessment quality and patient and family care, with preventable deaths as the principal outcome."
+      ],
+      "difficulty": [
+        "暴露分母和死亡漏报不确定，使地区风险和服务效果估计困难。",
+        "Uncertain exposure denominators and underreported deaths complicate estimates of regional risk and service effectiveness."
+      ],
+      "bottleneck": [
+        "及时获得规范暴露后预防和持续犬免疫服务，常比技术缺乏更直接限制死亡预防。",
+        "Timely access to appropriate post-exposure prevention and sustained dog immunization often constrain prevention more directly than absence of technology."
+      ],
+      "outlook": [
+        "编辑推断：若社区报告和服务覆盖改善，研究可优先比较减少延误、降低经济负担和犬免疫覆盖的实施策略。",
+        "Editorial inference: If community reporting and service coverage improve, implementation research can prioritize reduced delays, financial barriers and improved dog-immunization coverage."
+      ],
+      "basis": [
+        "推断依据：很多地区的主要缺口是及时获得有效服务，而非是否存在疫苗。报告病例还受监测和诊断能力影响。",
+        "Basis for inference: In many settings the key gap is timely access, not the existence of a vaccine. Reporting also depends on surveillance and diagnostic capacity."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Rabies virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rabies"
+        }
+      ]
+    },
+    "ebola": {
+      "focus": [
+        "优先强化及时诊断与照护、预先设计的伦理临床研究、幸存者随访和资源公平分配，明确适用的具体病毒。",
+        "Prioritize timely diagnosis and care, ethically prepared clinical studies, survivor follow-up and equitable resources, specifying the exact virus covered."
+      ],
+      "difficulty": [
+        "暴发规模与地点不确定，病毒种类和照护条件不同，临床结果不能简单合并或外推。",
+        "Outbreak size and location are unpredictable; virus identity and care conditions prevent simple pooling or extrapolation of outcomes."
+      ],
+      "bottleneck": [
+        "在暴发前建立伦理与研究准备、可及诊断和统一临床结局，才能及时形成可靠证据。",
+        "Ethical and research preparedness, accessible diagnosis and consistent clinical endpoints must be established before outbreaks to generate timely evidence."
+      ],
+      "outlook": [
+        "编辑推断：若研究网络能在暴发时及时启动，针对明确病毒的预防和治疗评价及幸存者照护可能取得更可靠进展。",
+        "Editorial inference: If prepared research networks can activate promptly, virus-specific prevention and treatment evaluation and survivor care may generate more reliable progress."
+      ],
+      "basis": [
+        "推断依据：少见且间歇发生的暴发给临床试验带来困难，幸存者长期健康结局也不能由急性期生存率充分描述。",
+        "Basis for inference: Rare, intermittent outbreaks complicate clinical trials, while acute survival alone does not describe long-term survivor health."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Ebola disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/ebola-disease"
+        }
+      ]
+    },
+    "marburg": {
+      "focus": [
+        "优先建立可在暴发时启动的临床研究框架、统一结局定义、提高诊断可及性并加强幸存者照护。",
+        "Prioritize outbreak-ready clinical-study frameworks, consistent outcome definitions, accessible diagnosis and survivor care."
+      ],
+      "difficulty": [
+        "暴发不规则且病例集中，常规大型临床试验难以持续招募，跨暴发比较容易受照护差异影响。",
+        "Irregular clustered outbreaks hinder sustained enrolment in conventional large trials, while differences in care complicate cross-outbreak comparisons."
+      ],
+      "bottleneck": [
+        "临床研究准备与可比较结局数据，而非仅有候选产品或实验室指标。",
+        "Clinical-study preparedness and comparable outcome data, rather than candidate products or laboratory markers alone."
+      ],
+      "outlook": [
+        "编辑推断：若预先协调伦理、诊断与临床数据标准，可提高候选预防和治疗在真实暴发中的评价质量。",
+        "Editorial inference: If ethics, diagnosis and clinical data standards are coordinated in advance, evaluation of candidate prevention and treatment during outbreaks could improve."
+      ],
+      "basis": [
+        "推断依据：小样本、非随机接受治疗及不一致的入组时机可能导致疗效判断偏倚；急性获益与长期结局需分别研究。",
+        "Basis for inference: Small samples, nonrandom treatment allocation and variable enrollment timing can bias efficacy assessment; acute benefit and long-term outcomes require separate study."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Marburg disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease"
+        }
+      ]
+    },
+    "nipah": {
+      "focus": [
+        "重点提高早诊与转诊能力、规范长期康复随访，并以透明设计评价候选疫苗和治疗产品的临床安全有效性。",
+        "Improve early diagnosis and referral, standardize rehabilitation follow-up, and transparently evaluate clinical safety and effectiveness of candidate vaccines and therapies."
+      ],
+      "difficulty": [
+        "病例稀少、暴发零散及长期神经结局难追踪，使临床证据积累缓慢。",
+        "Rare, scattered cases and difficult long-term neurological follow-up slow accumulation of clinical evidence."
+      ],
+      "bottleneck": [
+        "早期识别与转诊能力、持续研究网络，以及能够衡量患者获益的临床数据。",
+        "Early recognition and referral, sustained research networks and clinical data that measure patient benefit."
+      ],
+      "outlook": [
+        "编辑推断：若区域协作能统一病例与长期结局，候选预防和治疗工具可在更透明、可比较的框架下评价。",
+        "Editorial inference: If regional collaboration standardizes cases and long-term outcomes, candidate prevention and treatment tools could be assessed in more transparent and comparable frameworks."
+      ],
+      "basis": [
+        "推断依据：有限病例数使疗效与长期神经结局评价困难；幸存者症状还可能被短期随访低估。",
+        "Basis for inference: Limited case numbers complicate treatment and neurological-outcome assessment; brief follow-up may underestimate survivor symptoms."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Nipah virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus"
+        }
+      ]
+    },
+    "mpox": {
+      "focus": [
+        "优先研究高风险群体的临床照护、疫苗持久保护和公平获取，严谨区分监管适应证、可获得性与临床疗效证据。",
+        "Prioritize high-risk care, durable vaccine protection and equitable access, carefully separating regulatory indications, availability and clinical efficacy evidence."
+      ],
+      "difficulty": [
+        "不同风险人群、免疫状态与疾病严重度差异，使总体试验结果不能自动外推到所有患者。",
+        "Differences in risk groups, immune status and severity prevent automatic generalization of overall trial results to every patient."
+      ],
+      "bottleneck": [
+        "将监管可获得性与真实临床获益区分，并补足高风险群体和持久疫苗保护证据。",
+        "Separating regulatory availability from demonstrated clinical benefit and improving evidence for high-risk patients and durable vaccine protection."
+      ],
+      "outlook": [
+        "编辑推断：若研究纳入有代表性的高风险人群，下一阶段可更明确哪些照护与预防策略改善严重结局。",
+        "Editorial inference: If studies adequately represent high-risk populations, the next phase could clarify which care and prevention strategies improve severe outcomes."
+      ],
+      "basis": [
+        "推断依据：高风险免疫抑制者、儿童和妊娠者未由同一随机比较充分代表，不能简单把证据边界解释为已证明对所有群体无效或有效。",
+        "Basis for inference: Highly immunosuppressed patients, children and pregnant people were not fully represented by the same randomized comparison; the evidence does not settle effectiveness for every group."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Monkeypox virus (mpox)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mpox"
+        },
+        {
+          "title": "STOMP/A5418 · Tecovirimat for the Treatment of Mpox",
+          "url": "https://doi.org/10.1056/NEJMoa2506495"
+        },
+        {
+          "title": "NIH · STOMP interim trial findings",
+          "url": "https://www.nih.gov/news-events/news-releases/nih-study-finds-tecovirimat-was-safe-did-not-improve-mpox-resolution-or-pain"
+        }
+      ]
+    },
+    "yellow-fever": {
+      "focus": [
+        "重点填补接种空白、优化暴发应对与转诊，使用明确的临床终点评价研究性治疗，并加强特殊人群的风险收益研究。",
+        "Close vaccination gaps, improve outbreak response and referral, evaluate investigational therapy with clinical endpoints, and study benefits and risks in special populations."
+      ],
+      "difficulty": [
+        "暴发间歇性、重症进展与资源差异影响研究招募和结局可比性。",
+        "Intermittent outbreaks, severe disease progression and resource differences affect recruitment and outcome comparability."
+      ],
+      "bottleneck": [
+        "覆盖未接种群体与及时救治，同时形成可靠的人体治疗效益证据。",
+        "Reaching unvaccinated populations and providing timely care while establishing reliable evidence of human treatment benefit."
+      ],
+      "outlook": [
+        "编辑推断：若监测和研究准备同步加强，疫苗实施策略与重症治疗的临床比较可能更具可行性。",
+        "Editorial inference: If surveillance and research preparedness improve together, clinical comparisons of vaccine implementation and severe-disease care may become more feasible."
+      ],
+      "basis": [
+        "推断依据：如何及早识别进展至重症者、改善器官支持及评价罕见不良事件，需要超过单个病例报告的证据。",
+        "Basis for inference: Earlier recognition of progression, better organ support and assessment of rare adverse events require evidence beyond individual case reports."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Yellow fever virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/yellow-fever"
+        }
+      ]
+    },
+    "west-nile": {
+      "focus": [
+        "优先连接人群、蚊媒和动物监测，评价神经功能结局，并以临床试验验证人用预防及治疗候选工具。",
+        "Link human, mosquito and animal surveillance, assess neurological outcomes, and clinically evaluate candidate human prevention and treatment tools."
+      ],
+      "difficulty": [
+        "大多数感染不被识别，神经侵袭病例较少，年龄和基础病影响长期结局。",
+        "Most infections are unrecognized, neuroinvasive cases are relatively uncommon, and age and comorbidity influence long-term outcomes."
+      ],
+      "bottleneck": [
+        "足够可靠的临床预防与治疗证据，以及急性病例到长期神经康复的随访衔接。",
+        "Adequate clinical prevention and treatment evidence and continuity from acute illness to neurological rehabilitation."
+      ],
+      "outlook": [
+        "编辑推断：若联合监测与多中心随访扩大有效样本，可更有力评价人用候选工具和康复措施。",
+        "Editorial inference: If integrated surveillance and multicentre follow-up increase informative samples, human candidate tools and rehabilitation measures could be evaluated more robustly."
+      ],
+      "basis": [
+        "推断依据：地域风险变化、早期预测神经并发症及长期康复需求，需要新的地区数据与纵向研究；不能仅靠既往疫情地图推断当前风险。",
+        "Basis for inference: Changing regional risk, prediction of neurological complications and rehabilitation needs require current local data and longitudinal studies rather than historical outbreak maps alone."
+      ],
+      "sources": [
+        {
+          "title": "WHO · West Nile virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/west-nile-virus"
+        }
+      ]
+    },
+    "hantavirus": {
+      "focus": [
+        "重点研究重症早期识别、器官支持结局、幸存者恢复及减少啮齿动物暴露的实施措施，确保研究清楚标明病毒与疾病类型。",
+        "Prioritize early severity recognition, organ-support outcomes, survivor recovery and practical rodent-exposure prevention, with explicit virus and syndrome definitions."
+      ],
+      "difficulty": [
+        "不同病毒相关的肾脏和肺部综合征不能混为一谈，地区照护与发现能力也不同。",
+        "Renal and pulmonary syndromes associated with different viruses should not be conflated; care and detection vary geographically."
+      ],
+      "bottleneck": [
+        "综合征明确的早期诊断、转诊与器官支持证据，以及可持续暴露预防。",
+        "Syndrome-specific early diagnosis, referral and organ-support evidence, together with sustainable exposure prevention."
+      ],
+      "outlook": [
+        "编辑推断：若研究明确病毒与综合征并统一功能恢复终点，早期风险识别和支持照护比较可能更可推广。",
+        "Editorial inference: If studies specify virus and syndrome and standardize recovery endpoints, early risk recognition and supportive-care comparisons may become more generalizable."
+      ],
+      "basis": [
+        "推断依据：小规模病例系列容易受到转诊偏倚影响；不同综合征中的干预效果和长期恢复过程需分别评估。",
+        "Basis for inference: Small case series can suffer referral bias; intervention effects and recovery trajectories require separate evaluation across syndromes."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human-pathogenic hantaviruses",
+          "url": "https://www.cdc.gov/hantavirus/about/index.html"
+        }
+      ]
+    }
+  }
+}

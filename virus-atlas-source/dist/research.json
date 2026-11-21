@@ -1,0 +1,1567 @@
+{
+  "checked": "2026-11-20",
+  "scope": [
+    "证据导向的临床与研究解读；不是穷尽系统综述。",
+    "Evidence-oriented clinical and research interpretation, not an exhaustive systematic review."
+  ],
+  "profiles": {
+    "sars-cov-2": {
+      "overview": [
+        "研究需要区分细胞进入、急性临床疾病和感染后长期影响。某个宿主因子参与进入，并不意味着检测到其表达就能预测个体症状、组织感染或药物疗效。",
+        "Research spans cellular entry, acute disease and post-infection effects. Participation of a host factor does not mean that its expression alone predicts individual symptoms, tissue infection or clinical drug efficacy."
+      ],
+      "established": [
+        "Hoffmann等2020年细胞研究支持ACE2的受体作用及TMPRSS2的蛋白酶作用。它是机制证据，不是证明相关抑制剂能改善患者结局的临床试验。疫苗和适用患者的早期抗病毒治疗已有临床应用。",
+        "Hoffmann and colleagues (2020) provide cellular evidence for ACE2 as a receptor and TMPRSS2 as a host protease. This is mechanistic evidence, not a clinical trial proving patient benefit from inhibiting either factor. Vaccination and early antiviral care for eligible patients have clinical roles."
+      ],
+      "uncertainties": [
+        "长新冠包含不同临床表现；单一机制难以解释所有患者。不同免疫背景、再感染和随访时间会影响研究结果的可比性。",
+        "Long COVID encompasses heterogeneous presentations. No single explanation establishes causation for every patient; immunity, reinfection and follow-up duration affect comparability."
+      ],
+      "priorities": [
+        "优先采用清晰分型和可重复结局评价长新冠干预，研究高风险人群的持久保护，并评估现有防治措施在实际医疗中的可及性。",
+        "Prioritize reproducible long-COVID subgroups and outcomes, durable protection in vulnerable groups, and real-world access to prevention and care."
+      ],
+      "sources": [
+        {
+          "title": "WHO · SARS-CoV-2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+          "year": "2025-11-27",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Coronaviridae",
+          "url": "https://ictv.global/report/chapter/coronaviridae/coronaviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "CDC · Outpatient COVID-19 treatment",
+          "url": "https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html",
+          "year": "2026-10",
+          "scope": "抗病毒治疗概述"
+        },
+        {
+          "title": "Hoffmann et al. · SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32142651/",
+          "doi": "10.1016/j.cell.2020.02.052",
+          "year": "2020",
+          "scope": "原始细胞研究：ACE2受体与TMPRSS2蛋白酶的概念区分；不是患者疗效试验",
+          "metadataVerified": "Crossref DOI metadata"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ],
+      "fieldUpdates": {
+        "receptor": [
+          "ACE2是SARS-CoV-2的主要进入受体；TMPRSS2是参与进入过程的宿主蛋白酶，而不是受体。Hoffmann等2020年研究支持这一区分；单个宿主因子的表达不足以预测临床感染或重症。",
+          "ACE2 is a principal entry receptor for SARS-CoV-2; TMPRSS2 is a host protease involved in entry, not a receptor. Hoffmann et al. (2020) support this distinction; expression of one host factor alone does not predict clinical infection or severe disease."
+        ],
+        "mechanism": [
+          "呼吸道感染及宿主炎症反应共同参与疾病；细胞进入机制、急性器官损伤和长新冠需要分层讨论，不能由单个受体解释全部病程。",
+          "Respiratory infection and host inflammation contribute to disease. Cellular entry, acute organ injury and long COVID require separate consideration; no single receptor explains the entire clinical course."
+        ],
+        "progress": [
+          "基础研究已明确ACE2受体与TMPRSS2蛋白酶的不同角色；疫苗和适用人群抗病毒治疗具有临床应用。长新冠的异质性与持久保护仍是研究重点，机制发现不等于临床药物有效。",
+          "Foundational research distinguishes the ACE2 receptor from the TMPRSS2 protease. Vaccines and antivirals for eligible patients have clinical roles. Heterogeneous long COVID and durable protection remain research priorities; mechanistic findings alone do not prove clinical efficacy."
+        ]
+      }
+    },
+    "influenza": {
+      "overview": [
+        "流感A与B不能视为临床和免疫学上完全相同的对象。季节性疾病负担取决于流行病毒、人群既往免疫与年龄结构，因此单个季节的研究结论未必适用于下一季。",
+        "Influenza A and B are not clinically or immunologically interchangeable. Seasonal burden depends on circulating viruses, prior immunity and age structure, so findings from one season may not transfer directly to the next."
+      ],
+      "established": [
+        "年度疫苗与适时抗病毒治疗是成熟防治工具。观察性疫苗有效性研究应区分感染、门诊就诊、住院及死亡等终点。",
+        "Annual vaccination and timely antiviral care are established tools. Observational effectiveness studies should distinguish infection, outpatient illness, hospitalization and death rather than treating them as one endpoint."
+      ],
+      "uncertainties": [
+        "保护持续时间、老年人免疫反应和不同季节之间的有效性差异仍需持续评价。研究性广谱疫苗不能与已获批常规疫苗等同。",
+        "Protection duration, responses in older adults and season-to-season effectiveness need continuing evaluation. Investigational broader vaccines are not equivalent to licensed routine products."
+      ],
+      "priorities": [
+        "比较不同人群的临床保护持续性，改进快速诊断与治疗衔接，并检验接种策略能否减少住院而不仅提高抗体水平。",
+        "Compare durable clinical protection across populations, improve diagnostic-to-treatment linkage, and test whether vaccination strategies reduce hospitalization rather than merely raise antibody levels."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Influenza A and B viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)",
+          "year": "2025-02-28",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Orthomyxoviridae",
+          "url": "https://ictv.global/report_9th/RNAneg/Orthomyxoviridae",
+          "year": "ICTV第九版历史报告；仅用于稳定的结构和基因组信息",
+          "scope": "甲乙型流感的分节段负链RNA与包膜；不用于当前分类"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "rsv": {
+      "overview": [
+        "RSV研究的核心是生命早期和老年期的下呼吸道重症。母体疫苗、婴儿长效抗体与老年人疫苗服务于不同人群，不能直接用一个产品的结果替代另一个。",
+        "RSV research focuses on severe lower-respiratory disease early and late in life. Maternal vaccination, infant long-acting antibodies and older-adult vaccines target different populations; evidence for one product cannot simply substitute for another."
+      ],
+      "established": [
+        "MATISSE随机试验支持孕期接种降低婴儿重症RSV下呼吸道疾病；这不等于预防所有呼吸道感染。WHO资料已列出多种免疫产品。",
+        "The randomized MATISSE trial supports maternal vaccination against severe RSV lower-respiratory illness in infants, not prevention of all respiratory infections. WHO now describes several immunization products."
+      ],
+      "uncertainties": [
+        "不同方案的相对价值受季节、出生时间、早产和服务可及性影响；短期试验不能单独解决所有长期安全性和实施问题。",
+        "Comparative value depends on seasonality, birth timing, prematurity and access. Short trials cannot resolve every long-term safety or implementation question."
+      ],
+      "priorities": [
+        "开展长期真实世界效果与安全监测，比较可行的母婴保护策略，并将资源有限地区的住院和死亡结局纳入评价。",
+        "Prioritize long-term effectiveness and safety surveillance, feasible maternal–infant strategies, and hospitalization and mortality outcomes in resource-limited settings."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Respiratory syncytial virus (RSV)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/respiratory-syncytial-virus-(rsv)",
+          "year": "2025-12-19",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Pneumoviridae",
+          "url": "https://ictv.global/report/chapter/pneumoviridae/pneumoviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "RSV and CX3CR1 in human airway cultures · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4676609/",
+          "year": "2015",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "CX3CR1 in pediatric human lung · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7774023/",
+          "year": "2019-11-14",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "Kampmann et al. · Bivalent Prefusion F Vaccine in Pregnancy to Prevent RSV Illness in Infants",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2216480",
+          "doi": "10.1056/NEJMoa2216480",
+          "year": "2023",
+          "scope": "MATISSE随机试验：母体接种与婴儿RSV疾病临床终点",
+          "metadataVerified": "Crossref DOI metadata"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ],
+      "fieldUpdates": {
+        "progress": [
+          "MATISSE随机试验支持孕期RSVpreF疫苗预防婴儿重症下呼吸道疾病。WHO已列出母体疫苗、婴儿长效抗体与成人疫苗；产品适用人群与保护目标不同。",
+          "The randomized MATISSE trial supports maternal RSVpreF vaccination against severe infant lower-respiratory disease. WHO lists maternal vaccines, infant long-acting antibodies and adult vaccines, which differ in eligibility and protection goals."
+        ]
+      }
+    },
+    "hmpv": {
+      "overview": [
+        "人偏肺病毒与RSV可产生相似的临床表现，但它们是不同病毒。仅凭咳嗽或喘息不能可靠区分病原，临床检测不足也会影响疾病负担估计。",
+        "HMPV and RSV may produce similar presentations but are distinct viruses. Cough or wheeze alone cannot reliably identify the agent, and limited testing can distort burden estimates."
+      ],
+      "established": [
+        "CDC资料将婴幼儿、老年人和免疫低下者列为需关注人群，临床管理主要依赖支持治疗。细胞层面的附着因子研究不等于已有获批治疗。",
+        "CDC highlights young children, older adults and immunocompromised people; care is predominantly supportive. Cellular attachment-factor findings do not establish an approved treatment."
+      ],
+      "uncertainties": [
+        "在不同地区和年龄层中，漏诊比例、共感染的临床意义及感染后的长期影响，不能由单中心病例资料充分确定。",
+        "Single-center case series cannot settle underdiagnosis, the contribution of coinfections or longer-term outcomes across regions and ages."
+      ],
+      "priorities": [
+        "优先开展标准化疾病负担监测、临床结局队列和候选预防工具的严格试验；区分病毒检出与真正引起本次重症。",
+        "Prioritize standardized surveillance, outcome cohorts and rigorous prevention trials, distinguishing viral detection from attribution of the current severe illness."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human metapneumovirus (HMPV)",
+          "url": "https://www.cdc.gov/human-metapneumovirus/about/index.html",
+          "year": "2026-02-10",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Pneumoviridae",
+          "url": "https://ictv.global/report/chapter/pneumoviridae/pneumoviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "HMPV binding and heparan sulfate · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3302303/",
+          "year": "2012",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "HMPV entry and integrins · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3486500/",
+          "year": "2012",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "rhinovirus": {
+      "overview": [
+        "鼻病毒包含多种类型，既可造成普通感冒，也与部分哮喘加重相关。将全部鼻病毒归为同一种受体或同一临床风险，会掩盖类型与宿主背景差异。",
+        "Rhinoviruses encompass diverse types, causing common colds and contributing to some asthma exacerbations. Assigning one receptor or one clinical risk to all rhinoviruses obscures viral-type and host-context differences."
+      ],
+      "established": [
+        "已有研究区分ICAM-1、LDLR家族及CDHR3相关的受体使用；这些基础发现帮助解释差异，但不能单独预测患者是否发生哮喘或重症。",
+        "Studies distinguish ICAM-1-, LDLR-family- and CDHR3-associated receptor use. These foundational findings inform biological differences but do not independently predict asthma development or severe disease."
+      ],
+      "uncertainties": [
+        "感染与喘息之间存在复杂关系，需区分既有气道疾病增加感染影响、感染诱发加重，以及长期因果关系。",
+        "The infection–wheeze relationship requires separating susceptibility from pre-existing airway disease, infection-triggered exacerbation and longer-term causation."
+      ],
+      "priorities": [
+        "以分型和临床表型明确的队列评估气道结局；候选干预应使用患者症状、急性加重和住院等临床终点。",
+        "Use well-typed, clinically characterized cohorts and patient-centered endpoints such as symptoms, exacerbations and hospitalization when evaluating interventions."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Rhinoviruses",
+          "url": "https://www.cdc.gov/rhinoviruses/about/index.html",
+          "year": "2026-02-19",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Picornaviridae",
+          "url": "https://ictv.global/report/chapter/picornaviridae/picornaviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "Bochkov et al. · Rhinovirus C and CDHR3",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4418890/",
+          "year": "2015",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "Rhinovirus–receptor interactions · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7350259/",
+          "year": "2020",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "adenovirus": {
+      "overview": [
+        "人腺病毒的疾病谱包括呼吸道、胃肠道和眼部感染。型别差异和免疫状态很重要，不能从一个型别或健康人群外推所有腺病毒感染。",
+        "Human adenoviruses cause respiratory, gastrointestinal and ocular disease. Type and immune status matter, so results for one type or healthy population cannot be generalized to all adenoviral disease."
+      ],
+      "established": [
+        "多数感染自限，但免疫低下者可能发生严重或播散性疾病。某些型别采用CAR参与附着；这不是全科通用受体结论。",
+        "Many infections are self-limited, while immunocompromised patients may develop severe or disseminated disease. CAR involvement for some types is not a family-wide receptor rule."
+      ],
+      "uncertainties": [
+        "分型监测如何改变临床决策、检测阳性与持续排毒的区别，以及不同高风险患者的最佳治疗策略，仍需更直接的临床证据。",
+        "More direct clinical evidence is needed on the utility of typing, positive tests versus prolonged shedding, and optimal management in different high-risk populations."
+      ],
+      "priorities": [
+        "强化暴发识别、移植人群风险分层和治疗效果研究；将检测结果与症状、免疫背景及其他病原联合解释。",
+        "Prioritize outbreak recognition, transplant risk stratification and treatment outcomes, interpreting tests alongside symptoms, immune status and alternative pathogens."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human adenoviruses",
+          "url": "https://www.cdc.gov/adenovirus/about/index.html",
+          "year": "2025-12-16",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Adenoviridae",
+          "url": "https://ictv.global/report/chapter/adenoviridae/adenoviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组、粒子结构及部分类型CAR附着受体"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "measles": {
+      "overview": [
+        "麻疹不仅是出疹疾病，肺炎、脑炎以及感染后的免疫影响决定其严重性。高传染性意味着局部免疫缺口可能导致暴发，即使总体接种率看似较高。",
+        "Measles is more than a rash illness: pneumonia, encephalitis and post-infection immune effects contribute to its burden. Local immunity gaps can sustain outbreaks even when average vaccine coverage appears high."
+      ],
+      "established": [
+        "疫苗预防效果已确立。支持治疗和并发症管理是临床核心；不能把实验室候选药物直接作为常规治疗推荐。",
+        "Vaccine prevention is established. Clinical management centers on supportive care and complications; laboratory candidates should not be presented as routine treatments."
+      ],
+      "uncertainties": [
+        "哪些社区持续遗漏接种、感染后健康负担持续多久，以及不同人群中最有效的补种服务方式，需要结合当地数据。",
+        "Persistent vaccination gaps, duration of post-infection health burden and effective catch-up delivery require locally grounded evidence."
+      ],
+      "priorities": [
+        "优先研究免疫服务覆盖和迟种补种、暴发早期识别及长期儿童结局；避免只用全国平均接种率判断群体保护。",
+        "Prioritize equitable immunization, catch-up delivery, early outbreak detection and long-term child outcomes instead of relying solely on national coverage averages."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Measles virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/measles",
+          "year": "2026-07-15",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Paramyxoviridae",
+          "url": "https://ictv.global/report/chapter/paramyxoviridae/paramyxoviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "mumps": {
+      "overview": [
+        "腮腺炎可表现为腮腺肿痛，也可能出现睾丸炎或其他并发症。接种人群中的暴发不等于疫苗完全无效，需分析暴露强度、保护衰减和研究终点。",
+        "Mumps can cause parotitis and complications including orchitis. Outbreaks among vaccinated people do not mean vaccines provide no benefit; exposure intensity, waning protection and chosen outcomes need analysis."
+      ],
+      "established": [
+        "MMR疫苗是主要预防工具，治疗以支持为主。感染或免疫史的调查和实验室检测都有解释限制，应综合使用。",
+        "MMR vaccination is the main preventive tool and care is supportive. Exposure histories and diagnostic tests have interpretation limits and should be considered together."
+      ],
+      "uncertainties": [
+        "保护持续时间及特定暴发环境中的额外免疫策略需因地评估；单次抗体检测不能完整代表未来保护。",
+        "Durability and additional immunization strategies require setting-specific assessment; a single antibody measurement does not fully represent future protection."
+      ],
+      "priorities": [
+        "开展长期保护与暴发环境研究，并用有临床意义的并发症和传播控制结局评价免疫方案。",
+        "Study protection over time and outbreak settings, evaluating immunization strategies using complications and transmission-control outcomes with clinical relevance."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Mumps virus",
+          "url": "https://www.cdc.gov/mumps/about/index.html",
+          "year": "2025-07-11",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Paramyxoviridae",
+          "url": "https://ictv.global/report/chapter/paramyxoviridae/paramyxoviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "rubella": {
+      "overview": [
+        "风疹在儿童和成人中常较轻，但妊娠期感染可能造成先天性风疹综合征。研究价值主要体现在母婴风险和消除传播，而不只是急性皮疹。",
+        "Rubella is often mild in children and adults but can cause congenital rubella syndrome after infection in pregnancy. Research therefore centers on maternal–fetal risk and elimination, not merely acute rash."
+      ],
+      "established": [
+        "疫苗预防与群体免疫是减少先天疾病的成熟措施。风疹相关风险需要结合妊娠背景和可靠检测解释，不能只依据一般症状。",
+        "Vaccination and population immunity are established measures against congenital disease. Pregnancy context and reliable testing are essential; nonspecific symptoms are insufficient for risk interpretation."
+      ],
+      "uncertainties": [
+        "漏报、检测能力及免疫服务中断可能影响消除评估。现有病例数并不总能反映真实感染或先天疾病负担。",
+        "Underreporting, testing capacity and disrupted immunization can complicate elimination assessment. Reported counts may not capture the true infection or congenital-disease burden."
+      ],
+      "priorities": [
+        "加强育龄人群免疫服务、先天病例监测及消除后维持策略；研究应关注获得服务的公平性。",
+        "Strengthen immunity in reproductive-age populations, congenital-case surveillance and sustained elimination, with explicit attention to equitable service access."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Rubella virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rubella",
+          "year": "2026-07-15",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Matonaviridae",
+          "url": "https://ictv.global/report/chapter/matonaviridae/matonaviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "vzv": {
+      "overview": [
+        "VZV初次感染引起水痘，之后可潜伏并以带状疱疹再激活。两个阶段的预防目标不同，儿童水痘疫苗与成人带状疱疹疫苗不能简单互换。",
+        "Primary VZV infection causes chickenpox; later reactivation causes shingles. Prevention goals differ, and childhood varicella and adult shingles vaccines are not simply interchangeable."
+      ],
+      "established": [
+        "带状疱疹可导致持续神经痛；免疫低下者可能出现更严重疾病。疫苗与适当抗病毒治疗已有应用，但治疗急性发作不等于清除潜伏感染。",
+        "Shingles can lead to persistent neuralgia, with more severe disease in immunocompromised people. Vaccines and antivirals have established roles, but treating an episode does not eradicate latent infection."
+      ],
+      "uncertainties": [
+        "不同免疫背景下的保护持久性、神经痛预防及再接种策略需长期随访；试验抗体指标不能替代临床结局。",
+        "Protection durability, neuralgia prevention and repeat-vaccination strategies need long follow-up; antibody measurements cannot replace clinical outcomes."
+      ],
+      "priorities": [
+        "重点评估老年及免疫抑制人群的长期保护、安全性和疼痛结局，提升及时识别与治疗衔接。",
+        "Evaluate long-term protection, safety and pain outcomes in older and immunosuppressed groups, improving timely recognition and linkage to care."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Varicella-zoster virus (VZV)",
+          "url": "https://www.cdc.gov/chickenpox/about/index.html",
+          "year": "2024-04-24",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Orthoherpesviridae",
+          "url": "https://ictv.global/report/chapter/orthoherpesviridae/orthoherpesviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "CDC · Shingles",
+          "url": "https://www.cdc.gov/shingles/about/index.html",
+          "year": "2025-01-17",
+          "scope": "再激活、神经痛、疫苗与治疗"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合，并非已证实的新发现。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis, not newly established findings."
+      ]
+    },
+    "hsv": {
+      "overview": [
+        "HSV的急性发作、无症状排毒与潜伏感染是不同研究对象。口唇或生殖器部位不能完全替代病毒分型；临床风险也受妊娠和免疫状态影响。",
+        "HSV episodes, asymptomatic shedding and latency are distinct research targets. Anatomical site does not replace viral typing; pregnancy and immune status also change clinical risk."
+      ],
+      "established": [
+        "抗病毒药可减轻发作或抑制复发，但不能清除潜伏感染。进入受体的基础研究不等于已有可实现根治的治疗。",
+        "Antivirals can reduce episodes or suppress recurrence but do not eradicate latency. Basic receptor findings do not establish a curative therapy."
+      ],
+      "uncertainties": [
+        "减少症状、减少排毒及减少伴侣传播是不同终点，不能把某一终点改善直接外推为全面阻断传播。",
+        "Fewer symptoms, reduced shedding and lower partner transmission are different endpoints; improvement in one does not establish complete prevention of transmission."
+      ],
+      "priorities": [
+        "优先研究持久的症状控制、有效预防工具、新生儿风险降低与患者生活质量，采用明确的临床和传播终点。",
+        "Prioritize durable symptom control, preventive tools, neonatal risk reduction and quality of life, with clearly separated clinical and transmission outcomes."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Herpes simplex viruses 1 and 2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus",
+          "year": "2025-05-30",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Orthoherpesviridae",
+          "url": "https://ictv.global/report/chapter/orthoherpesviridae/orthoherpesviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "HSV-1 entry in human conjunctival epithelium · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2569872/",
+          "year": "2008",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "HSV receptor requirements · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196397/",
+          "year": "2011",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "ebv": {
+      "overview": [
+        "EBV感染常见，临床表现可从无症状到传染性单核细胞增多症。EBV与部分肿瘤有关，但感染本身并不意味着一个人将发展为肿瘤。",
+        "EBV infection is common and ranges from asymptomatic infection to infectious mononucleosis. Association with certain cancers does not mean an infected individual will develop cancer."
+      ],
+      "established": [
+        "病毒可在体内持续存在；不同细胞背景中的附着与进入因子并不完全相同。单次抗体阳性通常不能确定当前症状是否由EBV引起。",
+        "Persistence and cell-context-dependent attachment and entry are established. A positive antibody result alone usually does not establish that EBV caused current symptoms."
+      ],
+      "uncertainties": [
+        "预测少数患者长期并发症的指标、预防感染与预防疾病之间的差异，以及候选疫苗的临床获益均需仔细验证。",
+        "Predictors of uncommon long-term complications, prevention of infection versus disease, and clinical benefit from candidate vaccines require careful validation."
+      ],
+      "priorities": [
+        "开展纵向临床队列、提高高风险人群识别，并以明确疾病终点评估候选预防措施；避免把相关性直接当作个体预测。",
+        "Use longitudinal cohorts, improve high-risk identification and evaluate prevention against defined disease endpoints, avoiding individual predictions based solely on association."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Epstein–Barr virus (EBV)",
+          "url": "https://www.cdc.gov/epstein-barr/about/index.html",
+          "year": "2024-05-09",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Orthoherpesviridae",
+          "url": "https://ictv.global/report/chapter/orthoherpesviridae/orthoherpesviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "EBV uses HLA class II as a cofactor · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC191687/",
+          "year": "1996",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "EBV entry utilizing HLA-DP or HLA-DQ · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC111730/",
+          "year": "2000",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "cmv": {
+      "overview": [
+        "CMV研究需区分健康成人、胎儿／新生儿及移植等免疫抑制患者。相同的病毒检测结果，在这些人群中可能代表不同的临床意义。",
+        "CMV research must distinguish healthy adults, fetuses and newborns, and immunosuppressed transplant patients. The same positive test can have different clinical meanings in these groups."
+      ],
+      "established": [
+        "先天CMV可造成听力和发育问题，免疫抑制时可发生器官疾病。细胞类型相关受体发现有助于基础理解，但不是直接的筛查或治疗阈值。",
+        "Congenital CMV can cause hearing and developmental problems; immunosuppression permits organ disease. Cell-specific receptor discoveries inform biology rather than directly defining screening or treatment thresholds."
+      ],
+      "uncertainties": [
+        "哪些婴儿最可能获益于早筛及干预、长期听力结局和不同患者的药物风险，需要专门临床研究。",
+        "Benefits of early screening and intervention, long-term hearing outcomes and treatment risks require population-specific clinical studies."
+      ],
+      "priorities": [
+        "重点评估母婴预防、规范化新生儿随访、移植患者风险分层和耐药管理，并区分病毒检出与器官疾病。",
+        "Prioritize maternal–infant prevention, standardized newborn follow-up, transplant risk stratification and resistance management, distinguishing viral detection from organ disease."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Cytomegalovirus (CMV)",
+          "url": "https://www.cdc.gov/cytomegalovirus/about/index.html",
+          "year": "2025-01-17",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Orthoherpesviridae",
+          "url": "https://ictv.global/report/chapter/orthoherpesviridae/orthoherpesviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "Kabanova et al. · PDGFRα receptor",
+          "url": "https://www.nature.com/articles/nmicrobiol201682",
+          "year": "2016-06-06",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "Martinez-Martin et al. · Neuropilin-2 receptor",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30057110/",
+          "year": "2018-08-23",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hpv": {
+      "overview": [
+        "HPV是多种病毒的集合。部分型别引起疣，持续的高危型感染可导致癌前病变和癌症；短暂感染与持续感染的风险不同。",
+        "HPV comprises many types. Some cause warts, while persistent high-risk infections can lead to precancer and cancer; transient and persistent infections carry different implications."
+      ],
+      "established": [
+        "预防性疫苗与宫颈筛查具有互补作用。疫苗不是清除既有感染或治疗既有癌前病变的替代品；附着因子研究也不能改变这一临床区分。",
+        "Preventive vaccination and cervical screening are complementary. Vaccination does not replace management of existing infection or precancer, and attachment-factor research does not alter that distinction."
+      ],
+      "uncertainties": [
+        "筛查间隔、接种后残余风险与未充分覆盖人群的最佳服务方式，应结合当地疾病负担和资源研究。",
+        "Screening intervals, residual risk after vaccination and delivery to underserved populations require local burden and resource data."
+      ],
+      "priorities": [
+        "优先提高疫苗与筛查覆盖，评价简化服务流程，并在规范试验中区分治疗性候选疫苗与已建立的预防性疫苗。",
+        "Improve vaccination and screening access, evaluate simplified service delivery, and distinguish investigational therapeutic vaccines from established prophylactic vaccination."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human papillomaviruses (HPV)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+          "year": "2024-03-05",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Papillomaviridae",
+          "url": "https://ictv.global/report/chapter/papillomaviridae/papillomaviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "HPV attachment and heparan sulfate · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2643729/",
+          "year": "2009",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "HPV16/33 and cell-surface heparan sulfate · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC114064/",
+          "year": "2000",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "b19": {
+      "overview": [
+        "B19感染可影响红细胞生成；健康儿童常较轻，但溶血性疾病、免疫缺陷及妊娠背景会改变风险。不能仅凭皮疹判断胎儿或血液系统风险。",
+        "B19 affects red-cell production. Illness is often mild in healthy children, but haemolytic disease, immunodeficiency and pregnancy change risk; rash alone cannot assess fetal or haematological consequences."
+      ],
+      "established": [
+        "2024年研究重新强调globoside的细胞内作用；将P抗原简单称为充分的细胞表面进入受体并不准确。该基础结果不等于临床预防药已可用。",
+        "A 2024 study emphasizes an intracellular role for globoside, challenging its description as a sufficient surface-entry receptor. This basic finding does not establish an available preventive medicine."
+      ],
+      "uncertainties": [
+        "检测时机与既往感染会影响解释，持续感染患者及妊娠暴露者需要不同的临床评价路径。",
+        "Testing timing and previous infection affect interpretation; persistent infection and pregnancy exposure require different clinical assessment pathways."
+      ],
+      "priorities": [
+        "改进高风险人群早期识别、胎儿与血液学结局随访，并验证临床干预，避免用单一受体模型推断个体风险。",
+        "Improve early high-risk recognition and fetal and haematological follow-up, evaluating clinical interventions without inferring individual risk from a single receptor model."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Parvovirus B19",
+          "url": "https://www.cdc.gov/parvovirus-b19/about/index.html",
+          "year": "2025-12-17",
+          "scope": "症状、传播、风险、防治与已建立的临床认识"
+        },
+        {
+          "title": "ICTV · Parvoviridae",
+          "url": "https://ictv.global/report/chapter/parvoviridae/parvoviridae",
+          "year": "动态报告，访问于2026-11-20",
+          "scope": "科级分类、基因组与粒子结构；不用于推断具体受体"
+        },
+        {
+          "title": "B19 uptake and receptor insufficiency · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5086601/",
+          "year": "2016",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        },
+        {
+          "title": "Globoside as an intracellular B19 factor · Original study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11311400/",
+          "year": "2024-07-25",
+          "scope": "具体受体或附着因子：原始研究；仅支持所述细胞背景，不代表单因子足以感染"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hav": {
+      "overview": [
+        "HAV主要引起急性肝炎，不形成通常意义上的慢性感染。无症状儿童与有明显黄疸成人的差别意味着仅依靠症状监测可能遗漏传播。",
+        "HAV primarily causes acute hepatitis rather than chronic infection. Differences between asymptomatic children and jaundiced adults mean symptom-based surveillance can miss transmission."
+      ],
+      "established": [
+        "疫苗、安全饮水和食品卫生是成熟措施。重症风险与年龄及基础肝病背景有关；补液和肝功能支持不同于特异性抗病毒治疗。",
+        "Vaccination, safe water and food hygiene are established measures. Age and underlying liver disease influence severity; supportive care is distinct from specific antiviral therapy."
+      ],
+      "uncertainties": [
+        "卫生条件改善可改变易感人群年龄结构，某地既往低发病率不一定意味着成人已具有免疫。",
+        "Improved sanitation can shift susceptibility toward older ages; historically low incidence does not necessarily establish adult immunity."
+      ],
+      "priorities": [
+        "结合血清流行病学与暴发调查优化疫苗服务，关注流动人群、成人免疫缺口和快速接触者管理的实际效果。",
+        "Combine seroepidemiology and outbreak investigation to improve vaccine delivery, adult immunity gaps, mobile populations and timely contact management."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis A virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a",
+          "year": "2026-07-28",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Picornaviridae",
+          "url": "https://ictv.global/report/chapter/picornaviridae/picornaviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hbv": {
+      "overview": [
+        "HBV治疗的病毒抑制、表面抗原消失和预防肝癌是不同目标。慢性肝病风险涉及感染持续时间、免疫活动、纤维化及其他共病。",
+        "HBV suppression, surface-antigen loss and cancer prevention are different goals. Chronic-disease risk reflects infection duration, immune activity, fibrosis and comorbidities."
+      ],
+      "established": [
+        "NTCP是已确认进入受体；但识别受体不等于能够清除肝细胞内的持续性病毒模板。现有抗病毒治疗能够控制复制并改善临床风险。",
+        "NTCP is an established entry receptor, but receptor identification does not imply elimination of persistent intracellular viral templates. Existing antivirals control replication and improve clinical risk."
+      ],
+      "uncertainties": [
+        "功能性治愈与完全清除病毒不能混用。治疗后仍需何种监测取决于残余肝病风险，不能仅用一次病毒量判定。",
+        "Functional cure is not synonymous with complete viral eradication. Follow-up depends on residual liver-disease risk, not a single viral-load result."
+      ],
+      "priorities": [
+        "评价持久缓解策略、简化诊疗、减少母婴传播和肝癌结局，纳入治疗中断后的长期安全与复发风险。",
+        "Evaluate durable remission, simplified care, prevention of mother-to-child transmission and liver-cancer outcomes, including long-term safety and relapse after treatment cessation."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis B virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
+          "year": "2026-07-28",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Hepadnaviridae",
+          "url": "https://ictv.global/report/chapter/hepadnaviridae/hepadnaviridae",
+          "year": null,
+          "scope": "病毒科、基因组、基本结构与受体"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hcv": {
+      "overview": [
+        "HCV已从难以治疗转为多数患者可治愈的感染，但疾病消除仍受漏诊、服务可及性和再感染影响。病毒学治愈与已形成肝硬化的逆转不是同一概念。",
+        "HCV has become curable for most treated patients, yet elimination is limited by underdiagnosis, access and reinfection. Virological cure is not equivalent to reversal of established cirrhosis."
+      ],
+      "established": [
+        "直接作用抗病毒药具有很高治愈率。感染后或治愈后的抗体阳性并不等于仍存在活动性感染，需要合适的检测解释。",
+        "Direct-acting antivirals achieve high cure rates. Antibody positivity after infection or cure does not itself establish active infection and requires appropriate diagnostic interpretation."
+      ],
+      "uncertainties": [
+        "如何发现尚未诊断的人群、减少诊疗流失及预防再感染，常比再次证明药物可抑制病毒更决定公共卫生效果。",
+        "Finding undiagnosed infections, retaining patients in care and preventing reinfection often determine public-health impact more than demonstrating antiviral activity again."
+      ],
+      "priorities": [
+        "优先研究简化检测、社区治疗与风险人群服务，并长期评估治愈后的肝癌风险及疫苗候选的临床价值。",
+        "Prioritize simplified diagnostics, community treatment and services for exposed populations, alongside residual cancer risk and clinical evaluation of vaccine candidates."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis C virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c",
+          "year": "2026-07-28",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Flaviviridae",
+          "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hdv": {
+      "overview": [
+        "HDV依赖HBV相关包膜蛋白传播，HBV/HDV共感染与在既有HBV基础上的HDV感染不能完全等同。研究必须报告HBV背景和肝病阶段。",
+        "HDV depends on HBV-associated envelope proteins for transmission. Simultaneous infection and HDV acquisition in an existing HBV infection are not equivalent; studies must describe HBV status and liver-disease stage."
+      ],
+      "established": [
+        "HBV疫苗可通过预防HBV来预防HDV，但不能作为已感染HBV者的HDV保护措施。治疗与可用药物随地区批准和个体情况而异。",
+        "HBV vaccination prevents HDV by preventing HBV, but does not provide that protection in people already infected with HBV. Treatment availability varies by jurisdiction and patient context."
+      ],
+      "uncertainties": [
+        "病毒学应答能否转化为持久的肝硬化和死亡风险下降，需要长期随访；短期指标不能替代这些结局。",
+        "Whether virological response translates into durable reductions in cirrhosis and death requires long follow-up; short-term markers cannot replace these outcomes."
+      ],
+      "priorities": [
+        "改善HBV人群中的HDV筛查，研究持久应答、治疗后复发与组合管理，并扩大确诊和专科服务。",
+        "Improve HDV screening in HBV populations, study durable response and post-treatment relapse, and expand diagnostic and specialist-care access."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis D virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-d",
+          "year": "2026-07-28",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Kolmioviridae",
+          "url": "https://ictv.global/report/chapter/kolmioviridae/kolmioviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hev": {
+      "overview": [
+        "HEV并非只有一种临床情境：饮水相关暴发、食源性暴露、妊娠及免疫抑制中的持续感染需要分别讨论。病毒类型和地区背景影响结论适用性。",
+        "HEV encompasses distinct contexts: waterborne outbreaks, food exposure, pregnancy and persistent infection during immunosuppression. Viral type and geography affect transferability of findings."
+      ],
+      "established": [
+        "安全饮水与食品安全是核心预防措施。部分患者特别是妊娠或免疫抑制背景下可发生严重疾病；疫苗可及性并非全球一致。",
+        "Safe water and food are central preventive measures. Severe disease can occur particularly in pregnancy or immunosuppression, and vaccine availability is not uniform worldwide."
+      ],
+      "uncertainties": [
+        "对特定人群的干预不能从一般成人研究直接外推；急性自限病程与免疫抑制患者的持续感染需要不同终点。",
+        "Interventions cannot be generalized from typical adults to every vulnerable group; self-limited acute disease and persistent infection require different endpoints."
+      ],
+      "priorities": [
+        "优先研究暴发环境中的母婴保护、食品相关预防、免疫抑制者持续感染管理及疫苗实施效果。",
+        "Prioritize maternal–infant protection in outbreaks, food-related prevention, persistent-infection management and vaccine implementation outcomes."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Hepatitis E virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-e",
+          "year": "2026-07-28",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Hepeviridae",
+          "url": "https://ictv.global/report/chapter/hepeviridae/hepeviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hiv": {
+      "overview": [
+        "HIV治疗、暴露前预防和治愈研究是不同领域。长期抗逆转录病毒治疗可控制感染，但病毒抑制不等于清除体内所有持续感染细胞。",
+        "HIV treatment, pre-exposure prevention and cure research are distinct fields. Long-term antiretroviral therapy controls infection, but suppression is not elimination of all persistently infected cells."
+      ],
+      "established": [
+        "PURPOSE-1随机试验支持长效lenacapavir预防HIV的临床价值；其预防结果不能直接当作治愈感染的证据。已有治疗达到持续病毒抑制可防止性传播。",
+        "The randomized PURPOSE-1 trial supports long-acting lenacapavir for HIV prevention, not cure. Sustained viral suppression with established treatment prevents sexual transmission."
+      ],
+      "uncertainties": [
+        "长效方案的真实效果受持续服务、检测和费用影响；试验疗效与全球可及性之间仍需分别评估。",
+        "Real-world impact of long-acting approaches depends on service continuity, testing and affordability; trial efficacy and worldwide access require separate assessment."
+      ],
+      "priorities": [
+        "重点研究公平可及的预防与治疗、长期安全性、诊疗连续性及可持续缓解；避免将极少数特殊治愈病例外推为普适方案。",
+        "Prioritize equitable prevention and treatment, long-term safety, continuity of care and durable remission, without generalizing exceptional cure cases into broadly applicable treatment."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human immunodeficiency viruses 1 and 2",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+          "year": "2026-07-27",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Retroviridae",
+          "url": "https://ictv.global/report/chapter/retroviridae/retroviridae",
+          "year": null,
+          "scope": "病毒科、基因组、基本结构与受体"
+        },
+        {
+          "title": "Bekker et al. · Twice-Yearly Lenacapavir or Daily F/TAF for HIV Prevention in Cisgender Women",
+          "url": "https://www.nejm.org/doi/10.1056/NEJMoa2407001",
+          "doi": "10.1056/NEJMoa2407001",
+          "year": "2024",
+          "scope": "PURPOSE-1随机试验：暴露前预防，不是HIV治愈研究",
+          "metadataVerified": "Crossref DOI metadata"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ],
+      "fieldUpdates": {
+        "progress": [
+          "PURPOSE-1等临床研究为长效暴露前预防提供证据；这是预防进展而不是治愈证据。抗逆转录病毒治疗、持续病毒抑制与服务可及性仍是临床和公共卫生重点。",
+          "Trials including PURPOSE-1 support long-acting pre-exposure prevention; this is prevention evidence, not cure evidence. Antiretroviral therapy, sustained suppression and service access remain central."
+        ]
+      }
+    },
+    "htlv1": {
+      "overview": [
+        "HTLV-1常长期无症状，但部分感染者发生成人T细胞白血病／淋巴瘤或相关脊髓病。感染率、疾病发生率与个体风险不能混为同一个指标。",
+        "HTLV-1 can remain asymptomatic for years, while some infected people develop adult T-cell leukaemia/lymphoma or associated myelopathy. Infection prevalence, disease incidence and individual risk are different measures."
+      ],
+      "established": [
+        "母婴、性接触和血液途径的预防具有公共卫生意义。已经发生肿瘤或神经系统疾病的患者需要针对疾病的专科管理。",
+        "Prevention of vertical, sexual and blood-borne transmission has public-health value. Established malignancy or neurological disease requires condition-specific specialist care."
+      ],
+      "uncertainties": [
+        "谁会从无症状携带进展为疾病、何时干预最有益以及长期监测的最佳方式仍不能由单次病毒检测回答。",
+        "A single test cannot establish who will progress, when intervention is most beneficial or the optimal long-term monitoring strategy."
+      ],
+      "priorities": [
+        "优先开展长期自然史队列、可验证风险分层、母婴预防和患者功能结局研究，同时改善低识别地区的诊断服务。",
+        "Prioritize natural-history cohorts, validated risk stratification, maternal–infant prevention and functional outcomes, alongside diagnosis in under-recognized settings."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Human T-lymphotropic virus 1",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1/",
+          "year": "2025-12-24",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Retroviridae",
+          "url": "https://ictv.global/report/chapter/retroviridae/retroviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "norovirus": {
+      "overview": [
+        "诺如病毒是急性胃肠炎的重要病原，疾病负担集中于脱水、照护机构暴发及脆弱人群。多种型别的存在使一次感染后的保护不能简单概括。",
+        "Noroviruses are major causes of acute gastroenteritis, with dehydration, institutional outbreaks and vulnerable populations central to burden. Diverse types complicate generalizations about protection after one infection."
+      ],
+      "established": [
+        "补液和感染防控是成熟措施。检测到病毒核酸并不总能证明全部症状由该病毒引起，也不能直接量化传播风险。",
+        "Rehydration and infection control are established measures. Viral nucleic-acid detection does not always attribute every symptom or directly quantify transmission risk."
+      ],
+      "uncertainties": [
+        "免疫持续时间、不同人群的保护指标及候选疫苗对临床疾病的广度需要前瞻性评价。",
+        "Immunity duration, correlates of protection and breadth of candidate vaccines against clinical disease require prospective assessment."
+      ],
+      "priorities": [
+        "重点研究疫苗临床终点、老年和免疫低下患者的结局，以及医疗机构中现实可执行的暴发控制措施。",
+        "Prioritize vaccine clinical outcomes, older and immunocompromised patients, and outbreak-control strategies that are feasible in healthcare settings."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Noroviruses",
+          "url": "https://www.cdc.gov/norovirus/about/index.html",
+          "year": "2024-04-24",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Caliciviridae",
+          "url": "https://ictv.global/report/chapter/caliciviridae/caliciviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "rotavirus": {
+      "overview": [
+        "轮状病毒的主要临床负担是婴幼儿严重胃肠炎及脱水。疫苗评价应关注住院和死亡，而不能仅比较是否仍有腹泻或病毒检出。",
+        "Rotavirus chiefly burdens young children through severe gastroenteritis and dehydration. Vaccine evaluation should emphasize hospitalization and death, not merely any diarrhoea or viral detection."
+      ],
+      "established": [
+        "疫苗与及时补液已显著改变防治。不同国家的疫苗表现受儿童健康、服务覆盖及流行背景影响，不能只看单项试验结果。",
+        "Vaccination and prompt rehydration have transformed prevention and care. Effectiveness varies with child health, coverage and epidemiological context rather than one trial result alone."
+      ],
+      "uncertainties": [
+        "如何在高疾病负担地区实现更稳定保护，以及共感染和其他腹泻病原如何影响观察效果，需要结合现场研究。",
+        "Achieving reliable protection in high-burden settings and separating coinfection or other diarrhoeal pathogens require field studies."
+      ],
+      "priorities": [
+        "优先提高及时接种和补液服务，持续开展安全与效果监测，并评价对重症结局的公平改善。",
+        "Prioritize timely vaccination and rehydration services, ongoing safety and effectiveness monitoring, and equitable improvements in severe outcomes."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Rotaviruses",
+          "url": "https://www.cdc.gov/rotavirus/about/index.html",
+          "year": "2024-04-22",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Sedoreoviridae",
+          "url": "https://ictv.global/report/chapter/sedoreoviridae/sedoreoviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "polio": {
+      "overview": [
+        "脊灰研究需要区分感染、临床瘫痪和群体传播。大多数感染不表现为瘫痪，因此仅监测可见病例不足以了解传播状况。",
+        "Polio research separates infection, clinical paralysis and community transmission. Most infections do not present as paralysis, so case surveillance alone cannot describe circulation."
+      ],
+      "established": [
+        "疫苗是根除工作的核心，急性弛缓性麻痹监测与环境监测提供互补信息。既往瘫痪的康复并不等同于治疗能够逆转神经损害。",
+        "Vaccination underpins eradication; acute-flaccid-paralysis and environmental surveillance are complementary. Rehabilitation after paralysis is not proof that therapy reverses established neuronal damage."
+      ],
+      "uncertainties": [
+        "不同疫苗策略、免疫缺口与停止传播的证据需要在具体公共卫生背景中评价；检测阴性不能单独证明完全无传播。",
+        "Vaccine strategies, immunity gaps and evidence of interruption require contextual assessment; negative sampling alone cannot prove complete absence of circulation."
+      ],
+      "priorities": [
+        "重点提升监测敏感性、边缘人群接种和长期康复服务，研究能够维持消除成果的实施策略。",
+        "Prioritize sensitive surveillance, vaccination of underserved populations, long-term rehabilitation and implementation strategies that sustain elimination."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Polioviruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis",
+          "year": "2025-04-02",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Picornaviridae",
+          "url": "https://ictv.global/report/chapter/picornaviridae/picornaviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "eva71": {
+      "overview": [
+        "EV-A71与其他引起手足口病的肠道病毒不同，部分感染可伴严重神经系统疾病。手足口病总数不能直接作为EV-A71负担。",
+        "EV-A71 differs from other enteroviruses causing hand, foot and mouth disease and may cause severe neurological illness. Total syndrome counts are not equivalent to EV-A71 burden."
+      ],
+      "established": [
+        "病原检测和临床严重度评估需结合使用。已有部分地区使用EV-A71疫苗，但其保护范围不能外推至所有手足口病病原。",
+        "Pathogen testing and severity assessment are complementary. EV-A71 vaccines used in some jurisdictions do not establish protection against every cause of hand, foot and mouth disease."
+      ],
+      "uncertainties": [
+        "如何更早识别少数进展为重症的儿童、疫苗保护持久性及不同地区的实际效果需要持续随访。",
+        "Earlier identification of children progressing to severe disease, durability and effectiveness across settings require continuing follow-up."
+      ],
+      "priorities": [
+        "优先开展分型监测、儿童神经发育结局与免疫策略研究，候选治疗须用临床结局而非单一实验室指标评价。",
+        "Prioritize typing surveillance, child neurodevelopmental outcomes and immunization strategies, evaluating treatments against clinical rather than laboratory-only endpoints."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Enterovirus A71",
+          "url": "https://www.cdc.gov/non-polio-enterovirus/about/about-enterovirus-a-71.html",
+          "year": "2024-04-23",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Picornaviridae",
+          "url": "https://ictv.global/report/chapter/picornaviridae/picornaviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        },
+        {
+          "title": "WHO · Enterovirus 71 vaccine standards",
+          "url": "https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/vaccine-standardization/enterovirus-71",
+          "year": null,
+          "scope": "疫苗标准与研究进展"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "dengue": {
+      "overview": [
+        "登革热的四个主要血清型及既往感染史会影响疾病与疫苗研究的解释。发热消退不一定意味着危险期结束，重症识别是临床重点。",
+        "Four major dengue serotypes and previous infection affect interpretation of disease and vaccine studies. Resolution of fever does not necessarily end risk; recognition of severe disease is central."
+      ],
+      "established": [
+        "支持治疗和及时监测可改善结局。疫苗适用性取决于具体产品、年龄、既往感染与当地政策，不能用“有疫苗”替代这些条件。",
+        "Supportive care and timely monitoring improve outcomes. Vaccine suitability depends on product, age, prior infection and local policy, not simply whether a vaccine exists."
+      ],
+      "uncertainties": [
+        "保护广度、不同既往免疫背景的安全性及预警指标的实际价值，需要在当地流行环境中评价。",
+        "Protection breadth, safety across prior-immunity backgrounds and practical predictive markers require evaluation in local epidemiological settings."
+      ],
+      "priorities": [
+        "重点研究可推广的重症预测、疫苗长期安全有效性和综合防蚊策略，采用住院、重症及死亡等结局。",
+        "Prioritize generalizable severity prediction, durable vaccine safety and effectiveness, and integrated vector prevention using hospitalization, severe disease and mortality outcomes."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Dengue viruses (types 1–4)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+          "year": "2025-08-21",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Flaviviridae",
+          "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "zika": {
+      "overview": [
+        "寨卡感染常较轻，但妊娠相关胎儿损伤使其公共卫生意义与一般发热疾病不同。母体症状轻微并不能排除胎儿风险。",
+        "Zika is often mild, yet fetal injury gives it a public-health significance beyond a febrile illness. Mild maternal symptoms do not exclude fetal risk."
+      ],
+      "established": [
+        "蚊媒、性传播及母婴风险需分别考虑。先天感染研究需要长期发育随访，不能只观察出生时是否存在明显异常。",
+        "Mosquito, sexual and vertical transmission require distinct consideration. Congenital-infection studies need developmental follow-up rather than birth findings alone."
+      ],
+      "uncertainties": [
+        "个体妊娠风险预测、长期发育谱及检测的交叉反应问题使单一检测或短期队列的解释受到限制。",
+        "Individual pregnancy-risk prediction, long-term developmental outcomes and diagnostic cross-reactivity limit interpretation of single tests or short cohorts."
+      ],
+      "priorities": [
+        "重点改进可区分相关虫媒病毒的诊断、孕期咨询证据、儿童长期照护以及候选预防工具的临床评价。",
+        "Improve differential diagnosis, evidence for pregnancy counselling, long-term child care and clinical evaluation of preventive tools."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Zika virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/zika-virus/",
+          "year": "2025-11-06",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Flaviviridae",
+          "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "chikungunya": {
+      "overview": [
+        "基孔肯雅热不只涉及急性发热；持续关节痛可显著影响活动能力和生活质量。不同研究随访时长会造成慢性负担估计差异。",
+        "Chikungunya is more than acute fever: persistent joint pain can impair function and quality of life. Follow-up duration strongly affects estimates of chronic burden."
+      ],
+      "established": [
+        "已有疫苗产品，但可用产品和适用人群随地区政策变化。疫苗研究与持续关节症状治疗研究回答的是不同问题。",
+        "Vaccine products exist, but availability and eligibility vary by jurisdiction. Vaccine studies and treatment studies for persistent joint symptoms address different questions."
+      ],
+      "uncertainties": [
+        "急性病毒学指标与长期关节恢复之间并非简单对应，合并关节病及年龄也可能影响观察结果。",
+        "Acute virological markers do not map simply onto joint recovery; age and pre-existing joint disease can influence outcomes."
+      ],
+      "priorities": [
+        "开展长期疼痛与功能随访、疫苗真实世界安全有效性研究，并比较可持续的康复与症状管理策略。",
+        "Study long-term pain and function, real-world vaccine safety and effectiveness, and sustainable rehabilitation and symptom-management strategies."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Chikungunya virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+          "year": "2025-04-14",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Togaviridae",
+          "url": "https://ictv.global/report/chapter/togaviridae/togaviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        },
+        {
+          "title": "CDC · Chikungunya vaccine",
+          "url": "https://www.cdc.gov/chikungunya/vaccines/index.html",
+          "year": "2026-01-23",
+          "scope": "疫苗供应与更新"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "jev": {
+      "overview": [
+        "日本脑炎感染多数无明显症状，但临床脑炎可造成死亡或长期神经功能障碍。感染率和脑炎发生率应分开报告。",
+        "Most Japanese encephalitis virus infections are not clinically apparent, yet encephalitis can cause death or lasting disability. Infection and encephalitis rates should be reported separately."
+      ],
+      "established": [
+        "疫苗是主要预防工具，重症管理依赖支持治疗和康复。人类病例是疾病负担信号，但不足以描述完整的动物与媒介生态。",
+        "Vaccination is the main preventive tool; severe illness requires supportive care and rehabilitation. Human cases indicate burden but do not describe the complete animal–vector ecology."
+      ],
+      "uncertainties": [
+        "低病例数可能反映有效免疫，也可能反映检测不足。幸存者的长期认知、功能和家庭照护负担常需进一步随访。",
+        "Low case counts may reflect effective immunization or inadequate diagnosis. Survivors need follow-up for cognition, function and family caregiving burden."
+      ],
+      "priorities": [
+        "优化免疫覆盖和脑炎监测，建立长期康复队列，并评估适合当地风险与资源的预防策略。",
+        "Improve immunization and encephalitis surveillance, establish rehabilitation cohorts, and evaluate prevention suited to local risk and resources."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Japanese encephalitis virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis",
+          "year": "2024-08-06",
+          "scope": "症状、传播、风险、预防、治疗与公共卫生进展"
+        },
+        {
+          "title": "ICTV · Flaviviridae",
+          "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+          "year": null,
+          "scope": "病毒科、基因组与基本结构"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "rabies": {
+      "overview": [
+        "狂犬病最关键的临床区分是暴露后尚未发病与已经出现神经系统症状。有效暴露后预防不应被误解为发病后能够可靠治愈的治疗。",
+        "The crucial distinction is exposure before illness versus symptomatic neurological disease. Effective post-exposure prevention should not be mistaken for a reliably curative treatment after symptoms appear."
+      ],
+      "established": [
+        "犬免疫、伤口处理及及时专业评估是预防人类死亡的成熟措施。出现症状后的预后极差，因此不应等待症状才寻求暴露后照护。",
+        "Dog vaccination, wound care and timely professional assessment are established prevention measures. Prognosis after symptoms is extremely poor, so exposure-related care must not wait for illness."
+      ],
+      "uncertainties": [
+        "很多地区的主要缺口是及时获得有效服务，而非是否存在疫苗。报告病例还受监测和诊断能力影响。",
+        "In many settings the key gap is timely access, not the existence of a vaccine. Reporting also depends on surveillance and diagnostic capacity."
+      ],
+      "priorities": [
+        "优先研究犬免疫覆盖、暴露后服务可及性、风险评估质量及患者与家庭照护，采用可预防死亡作为核心结局。",
+        "Prioritize dog coverage, access to post-exposure care, risk-assessment quality and patient and family care, with preventable deaths as the principal outcome."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Rabies virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+          "year": "2026-09-17",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Rhabdoviridae",
+          "url": "https://ictv.global/report/chapter/rhabdoviridae/rhabdoviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "ebola": {
+      "overview": [
+        "“埃博拉病”涵盖不同病毒导致的疾病，疫苗或药物对某一病毒的证据不能直接推广至整个病毒组。病例病死率还受就医时机和支持治疗能力影响。",
+        "Ebola disease includes illnesses caused by different viruses. Evidence for a vaccine or drug against one does not automatically transfer to the group; fatality also depends on timely care and supportive-care capacity."
+      ],
+      "established": [
+        "已有特异防治工具针对埃博拉病毒；强化支持治疗适用于病例管理。疫苗保护、药物疗效与感染防控各有独立证据，不能互相替代。",
+        "Specific medical tools exist for Ebola virus; intensive supportive care remains central. Vaccine protection, therapeutic efficacy and infection control answer separate evidence questions."
+      ],
+      "uncertainties": [
+        "少见且间歇发生的暴发给临床试验带来困难，幸存者长期健康结局也不能由急性期生存率充分描述。",
+        "Rare, intermittent outbreaks complicate clinical trials, while acute survival alone does not describe long-term survivor health."
+      ],
+      "priorities": [
+        "优先强化及时诊断与照护、预先设计的伦理临床研究、幸存者随访和资源公平分配，明确适用的具体病毒。",
+        "Prioritize timely diagnosis and care, ethically prepared clinical studies, survivor follow-up and equitable resources, specifying the exact virus covered."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Ebola disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/ebola-disease",
+          "year": "2025-04-24",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Filoviridae",
+          "url": "https://ictv.global/report/chapter/filoviridae/filoviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "marburg": {
+      "overview": [
+        "马尔堡病研究面对病例少、暴发间歇及医疗环境差异，单次暴发的生存率不能直接归因于某个候选药物。需关注支持治疗质量与病例严重度。",
+        "Marburg research faces small case numbers, intermittent outbreaks and variable healthcare settings. Survival in one outbreak cannot directly establish candidate-drug efficacy; severity and supportive-care quality matter."
+      ],
+      "established": [
+        "所引WHO资料强调早期强化支持治疗，并将候选疫苗和药物列为需要临床评价的工具。候选状态与获批有效治疗必须区分。",
+        "The cited WHO source emphasizes early intensive supportive care and clinical evaluation of candidate vaccines and drugs. Candidate status is distinct from an approved effective treatment."
+      ],
+      "uncertainties": [
+        "小样本、非随机接受治疗及不一致的入组时机可能导致疗效判断偏倚；急性获益与长期结局需分别研究。",
+        "Small samples, nonrandom treatment allocation and variable enrollment timing can bias efficacy assessment; acute benefit and long-term outcomes require separate study."
+      ],
+      "priorities": [
+        "优先建立可在暴发时启动的临床研究框架、统一结局定义、提高诊断可及性并加强幸存者照护。",
+        "Prioritize outbreak-ready clinical-study frameworks, consistent outcome definitions, accessible diagnosis and survivor care."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Marburg disease viruses",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease",
+          "year": "2025-01-20",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Filoviridae",
+          "url": "https://ictv.global/report/chapter/filoviridae/filoviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "nipah": {
+      "overview": [
+        "尼帕病毒感染可表现为神经系统或呼吸系统疾病。不同暴发的报告病例构成与发现方式不同，不能把某次暴发的病死率直接当作所有感染者风险。",
+        "Nipah infection may involve neurological or respiratory disease. Case ascertainment varies across outbreaks, so one outbreak fatality estimate is not the risk for every infected person."
+      ],
+      "established": [
+        "所引WHO资料强调支持治疗及候选防治产品研发。对脑炎及呼吸功能受损的及时识别有临床意义，但并不等于已有获批特异药物。",
+        "The cited WHO source emphasizes supportive care and candidate medical products. Prompt recognition of encephalitis and respiratory impairment matters, but does not establish an approved specific drug."
+      ],
+      "uncertainties": [
+        "有限病例数使疗效与长期神经结局评价困难；幸存者症状还可能被短期随访低估。",
+        "Limited case numbers complicate treatment and neurological-outcome assessment; brief follow-up may underestimate survivor symptoms."
+      ],
+      "priorities": [
+        "重点提高早诊与转诊能力、规范长期康复随访，并以透明设计评价候选疫苗和治疗产品的临床安全有效性。",
+        "Improve early diagnosis and referral, standardize rehabilitation follow-up, and transparently evaluate clinical safety and effectiveness of candidate vaccines and therapies."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Nipah virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus",
+          "year": "2026-01-29",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Paramyxoviridae",
+          "url": "https://ictv.global/report/chapter/paramyxoviridae/paramyxoviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "mpox": {
+      "overview": [
+        "猴痘研究必须说明病毒分支、免疫状态及疾病严重度。某药物在实验或动物研究中有活性，不等于在轻中度人类病例中已有临床获益。",
+        "Mpox studies must specify clade, immune status and severity. Laboratory or animal activity does not establish benefit in people with mild-to-moderate illness."
+      ],
+      "established": [
+        "STOMP随机试验未显示tecovirimat缩短所研究clade II病例的皮损消退或减轻疼痛。该结果反驳了对这类人群的普遍疗效假定。",
+        "The randomized STOMP trial found no evidence that tecovirimat shortened lesion resolution or reduced pain in the studied clade II population, challenging assumptions of routine benefit in that setting."
+      ],
+      "uncertainties": [
+        "高风险免疫抑制者、儿童和妊娠者未由同一随机比较充分代表，不能简单把证据边界解释为已证明对所有群体无效或有效。",
+        "Highly immunosuppressed patients, children and pregnant people were not fully represented by the same randomized comparison; the evidence does not settle effectiveness for every group."
+      ],
+      "priorities": [
+        "优先研究高风险群体的临床照护、疫苗持久保护和公平获取，严谨区分监管适应证、可获得性与临床疗效证据。",
+        "Prioritize high-risk care, durable vaccine protection and equitable access, carefully separating regulatory indications, availability and clinical efficacy evidence."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Monkeypox virus (mpox)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mpox",
+          "year": "2024-08-26",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Poxviridae",
+          "url": "https://ictv.global/report/chapter/poxviridae/poxviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        },
+        {
+          "title": "STOMP/A5418 · Tecovirimat for the Treatment of Mpox",
+          "url": "https://doi.org/10.1056/NEJMoa2506495",
+          "doi": "10.1056/NEJMoa2506495",
+          "year": "2026",
+          "scope": "随机试验：所研究clade II人群中的皮损消退和疼痛终点；不外推所有高风险群体",
+          "metadataVerified": "Crossref DOI metadata"
+        },
+        {
+          "title": "NIH · STOMP interim trial findings",
+          "url": "https://www.nih.gov/news-events/news-releases/nih-study-finds-tecovirimat-was-safe-did-not-improve-mpox-resolution-or-pain",
+          "year": "2024",
+          "scope": "试验资助机构对研究人群与临床终点的说明"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ],
+      "fieldUpdates": {
+        "progress": [
+          "STOMP随机试验未显示tecovirimat改善所研究clade II病例的皮损消退时间或疼痛；高风险群体的适用性须单独判断。候选药物活性、监管状态与临床获益不能混同。",
+          "STOMP found no evidence that tecovirimat improved lesion-resolution time or pain in the studied clade II population. Applicability to high-risk groups requires separate assessment; candidate activity, regulatory status and clinical benefit are distinct."
+        ]
+      }
+    },
+    "yellow-fever": {
+      "overview": [
+        "黄热病的主要防控优势来自成熟疫苗，但疫苗存在不代表所有地区均获得有效保护。疫情风险与人群免疫缺口及媒介生态共同相关。",
+        "Yellow fever control benefits from established vaccination, but vaccine existence does not ensure protection everywhere. Population immunity gaps and vector ecology jointly shape outbreak risk."
+      ],
+      "established": [
+        "所引2025年WHO资料将特定候选抗病毒疗法限定为研究环境；常规临床管理仍以支持治疗为主。黄疸和器官功能损伤提示严重病程。",
+        "WHO’s cited 2025 guidance limits specified candidate antivirals to research settings; routine care remains supportive. Jaundice and organ dysfunction indicate severe illness."
+      ],
+      "uncertainties": [
+        "如何及早识别进展至重症者、改善器官支持及评价罕见不良事件，需要超过单个病例报告的证据。",
+        "Earlier recognition of progression, better organ support and assessment of rare adverse events require evidence beyond individual case reports."
+      ],
+      "priorities": [
+        "重点填补接种空白、优化暴发应对与转诊，使用明确的临床终点评价研究性治疗，并加强特殊人群的风险收益研究。",
+        "Close vaccination gaps, improve outbreak response and referral, evaluate investigational therapy with clinical endpoints, and study benefits and risks in special populations."
+      ],
+      "sources": [
+        {
+          "title": "WHO · Yellow fever virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/yellow-fever",
+          "year": "2025-10-20",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Flaviviridae",
+          "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "west-nile": {
+      "overview": [
+        "西尼罗病毒的临床研究应区分无症状感染、一般发热和神经侵袭性疾病。少数重症的长期功能损害可能被只统计急性病例的监测忽略。",
+        "West Nile research distinguishes asymptomatic infection, febrile illness and neuroinvasive disease. Long-term disability in the smaller severe group can be missed by acute case counts."
+      ],
+      "established": [
+        "防蚊、媒介监测和支持治疗是所引资料中的核心措施。WHO该页面日期较早，应作为基础背景，不能代表2026年全部候选产品状态。",
+        "Mosquito prevention, vector surveillance and supportive care are central in the cited source. The older WHO page provides background, not a comprehensive 2026 product-status review."
+      ],
+      "uncertainties": [
+        "地域风险变化、早期预测神经并发症及长期康复需求，需要新的地区数据与纵向研究；不能仅靠既往疫情地图推断当前风险。",
+        "Changing regional risk, prediction of neurological complications and rehabilitation needs require current local data and longitudinal studies rather than historical outbreak maps alone."
+      ],
+      "priorities": [
+        "优先连接人群、蚊媒和动物监测，评价神经功能结局，并以临床试验验证人用预防及治疗候选工具。",
+        "Link human, mosquito and animal surveillance, assess neurological outcomes, and clinically evaluate candidate human prevention and treatment tools."
+      ],
+      "sources": [
+        {
+          "title": "WHO · West Nile virus",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/west-nile-virus",
+          "year": "2017-10-03",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Flaviviridae",
+          "url": "https://ictv.global/report/chapter/flaviviridae/flaviviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    },
+    "hantavirus": {
+      "overview": [
+        "人类致病汉坦病毒引起的肺综合征与肾综合征出血热不应视为完全相同疾病。具体病毒和地区影响临床谱、暴露背景与病例严重度。",
+        "Pulmonary syndrome and haemorrhagic fever with renal syndrome are not interchangeable. The specific hantavirus and region affect presentation, exposures and severity."
+      ],
+      "established": [
+        "支持治疗以及及时识别呼吸或肾功能恶化是临床核心。安第斯病毒已知可人际传播，不能把这一特点推广至所有汉坦病毒。",
+        "Supportive care and timely recognition of respiratory or renal deterioration are central. Documented person-to-person spread of Andes virus should not be generalized to all hantaviruses."
+      ],
+      "uncertainties": [
+        "小规模病例系列容易受到转诊偏倚影响；不同综合征中的干预效果和长期恢复过程需分别评估。",
+        "Small case series can suffer referral bias; intervention effects and recovery trajectories require separate evaluation across syndromes."
+      ],
+      "priorities": [
+        "重点研究重症早期识别、器官支持结局、幸存者恢复及减少啮齿动物暴露的实施措施，确保研究清楚标明病毒与疾病类型。",
+        "Prioritize early severity recognition, organ-support outcomes, survivor recovery and practical rodent-exposure prevention, with explicit virus and syndrome definitions."
+      ],
+      "sources": [
+        {
+          "title": "CDC · Human-pathogenic hantaviruses",
+          "url": "https://www.cdc.gov/hantavirus/about/index.html",
+          "year": "2024-05-13",
+          "scope": "症状、传播、临床风险与防治概述；进展限该来源日期"
+        },
+        {
+          "title": "ICTV · Hantaviridae",
+          "url": "https://ictv.global/report/chapter/hantaviridae/hantaviridae",
+          "year": "动态报告 / accessed 2026-11-20",
+          "scope": "科级基因组及结构背景；分组内物种不代表完全相同"
+        }
+      ],
+      "evidenceNote": [
+        "已建立知识与研究问题分列；研究重点为编辑综合。",
+        "Established knowledge and open questions are separated; priorities are editorial synthesis."
+      ]
+    }
+  }
+}

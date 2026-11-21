@@ -1,0 +1,92 @@
+{
+  "hoffmann2020": {
+    "doi": "10.1016/j.cell.2020.02.052",
+    "title": "SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor",
+    "authors": "Hoffmann M et al.",
+    "year": 2020,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32142651/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Crossref metadata; PubMed/Europe PMC metadata and abstract reviewed"
+  },
+  "shilts2021": {
+    "doi": "10.1038/s41598-020-80464-1",
+    "title": "No evidence for basigin/CD147 as a direct SARS-CoV-2 spike binding receptor",
+    "authors": "Shilts J et al.",
+    "year": 2021,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33432067/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Crossref metadata; PubMed/Europe PMC metadata and abstract reviewed"
+  },
+  "yan2012": {
+    "doi": "10.7554/elife.00049",
+    "title": "Sodium taurocholate cotransporting polypeptide is a functional receptor for human hepatitis B and D virus.",
+    "year": 2012,
+    "authors": "Yan H et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23150796/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Europe PMC/PubMed metadata and abstract"
+  },
+  "fingeroth1984": {
+    "doi": "10.1073/pnas.81.14.4510",
+    "title": "Epstein-Barr virus receptor of human B lymphocytes is the C3d receptor CR2.",
+    "year": 1984,
+    "authors": "Fingeroth JD et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6087328/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Europe PMC/PubMed metadata and abstract"
+  },
+  "greve1989": {
+    "doi": "10.1016/0092-8674(89)90688-0",
+    "title": "The major human rhinovirus receptor is ICAM-1.",
+    "year": 1989,
+    "authors": "Greve JM et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/2538243/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Europe PMC/PubMed metadata and abstract"
+  },
+  "dalgleish1984": {
+    "doi": "10.1038/312763a0",
+    "title": "The CD4 (T4) antigen is an essential component of the receptor for the AIDS retrovirus.",
+    "year": 1984,
+    "authors": "Dalgleish AG et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6096719/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Europe PMC/PubMed metadata and abstract"
+  },
+  "deng1996": {
+    "doi": "10.1038/381661a0",
+    "title": "Identification of a major co-receptor for primary isolates of HIV-1.",
+    "year": 1996,
+    "authors": "Deng H et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8649511/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Europe PMC/PubMed metadata and abstract"
+  },
+  "feng1996": {
+    "doi": "10.1126/science.272.5263.872",
+    "title": "HIV-1 entry cofactor: functional cDNA cloning of a seven-transmembrane, G protein-coupled receptor.",
+    "year": 1996,
+    "authors": "Feng Y et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8629022/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Europe PMC/PubMed metadata and abstract"
+  },
+  "geraghty1998": {
+    "doi": "10.1126/science.280.5369.1618",
+    "title": "Entry of alphaherpesviruses mediated by poliovirus receptor-related protein 1 and poliovirus receptor.",
+    "year": 1998,
+    "authors": "Geraghty RJ et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9616127/",
+    "checked": "2026-11-20",
+    "type": "primary-study",
+    "verification": "Europe PMC/PubMed metadata and abstract"
+  }
+}
