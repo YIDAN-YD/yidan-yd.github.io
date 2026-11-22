@@ -125,12 +125,11 @@ main {
   --column-gap: clamp(22px, 3vw, 36px);
   --page-columns: minmax(0, 37fr) minmax(0, 63fr);
 }
-main .body {
+main .hero-grid, main .body {
   width: min(var(--content-width), calc(100% - 48px));
 }
 main .hero-grid {
-  width: min(1120px, calc(100% - 48px));
-  gap: clamp(36px, 6vw, 78px);
+  gap: var(--column-gap);
 }
 .hero-portrait img {
   display: block;
@@ -152,18 +151,19 @@ main .hero-grid {
 .hero .profile-links { border: 0; padding: 0; margin-top: 8px; }
 @media (min-width: 761px) {
   main .hero-grid {
-    grid-template-columns: minmax(0, 33fr) minmax(0, 67fr);
+    grid-template-columns: var(--page-columns);
     align-items: stretch;
   }
   .hero-portrait { position: relative; }
   .hero-portrait img {
     position: absolute;
     inset: 0;
-    margin: auto;
+    margin: 0;
     height: 100%;
     width: auto;
     max-width: 100%;
     object-fit: contain;
+    object-position: left center;
   }
   main .row { grid-template-columns: var(--page-columns); gap: var(--column-gap); }
 }
@@ -214,7 +214,6 @@ main .hero-grid {
 </div></header>
 <main id="top">
 <section class="hero" aria-labelledby="name"><div class="wrap hero-grid">
-<div class="hero-portrait"><img src="portrait.png" width="1122" height="1402" alt="王义丹肖像" data-alt-en="Portrait of Yidan Wang" data-alt-zh="王义丹肖像"></div>
 <div class="hero-copy">
 <h1 id="name" data-zh="王义丹" data-en="Yidan Wang, PhD">王义丹</h1>
 <p class="role">
@@ -234,11 +233,13 @@ main .hero-grid {
 <li><a href="https://www.linkedin.com/in/yidan-wang-8b2312161/?locale=en-US">LinkedIn</a></li>
 <li><a href="https://www.xiaohongshu.com/user/profile/5af908796b58b74816990122" data-zh="小红书" data-en="RedNote">小红书</a></li>
 </ul></div>
-</div></div></section>
+</div>
+<div class="hero-portrait"><img src="portrait.png" width="1122" height="1402" alt="王义丹肖像" data-alt-en="Portrait of Yidan Wang" data-alt-zh="王义丹肖像"></div>
+</div></section>
 <div class="wrap body">
 <section id="research" class="row"><h2 data-zh="研究内容" data-en="Research">研究内容</h2><div class="details">
 <!-- 研究方向正文 / Research description -->
-<p class="research-focus" data-zh="我拟以流感病毒为切入点，系统研究疫苗诱导的免疫应答如何随病毒株、组织部位和时间尺度变化，为动态疫苗的抗原设计、免疫部位选择和保护持久性优化提供依据，进而为下一次呼吸道病毒威胁下的快速疫苗设计与防控准备提供支撑。" data-en="Starting with influenza viruses, I plan to study systematically how vaccine-induced immune responses vary across viral strains, tissue sites, and time scales. This work will inform antigen design, the choice of immunization sites, and strategies to improve the durability of protection offered by dynamic vaccines. It will also support rapid vaccine design and preparedness for future respiratory virus threats.">我拟以流感病毒为切入点，系统研究疫苗诱导的免疫应答如何随病毒株、组织部位和时间尺度变化，为动态疫苗的抗原设计、免疫部位选择和保护持久性优化提供依据，进而为下一次呼吸道病毒威胁下的快速疫苗设计与防控准备提供支撑。</p><div class="research-images">
+<p class="research-focus" data-zh="我拟以流感病毒为切入点，系统解析疫苗诱导的免疫应答在病毒株、组织部位和时间尺度上的异质性规律，建立跨株—组织—时间的整合比较框架，据此指导抗原设计、免疫途径选择与保护持久性提升，构建可快速调整的疫苗设计策略，为未来呼吸道新发病毒威胁下的快速疫苗设计与应急防控提供可迁移的设计原则和平台支撑。" data-en="Starting with influenza, I plan to investigate how vaccine-induced immune responses vary across viral strains, tissues, and timescales. I will develop an integrated framework for comparing these responses to guide antigen design, the choice of immunization routes, and efforts to extend protection. This work aims to establish an adaptable vaccine design strategy, with transferable design principles and a platform to support rapid vaccine development and emergency response to emerging respiratory viruses.">我拟以流感病毒为切入点，系统解析疫苗诱导的免疫应答在病毒株、组织部位和时间尺度上的异质性规律，建立跨株—组织—时间的整合比较框架，据此指导抗原设计、免疫途径选择与保护持久性提升，构建可快速调整的疫苗设计策略，为未来呼吸道新发病毒威胁下的快速疫苗设计与应急防控提供可迁移的设计原则和平台支撑。</p><div class="research-images">
   <figure>
     <img src="https://viralzone.expasy.org/resources/InfluenzaA-virion.png" width="532" height="331"
       alt="甲型流感病毒颗粒结构示意图" data-alt-zh="甲型流感病毒颗粒结构示意图"
@@ -251,10 +252,10 @@ main .hero-grid {
 </div></div></section>
 <section id="about" class="row"><h2 data-zh="个人简介" data-en="About">个人简介</h2><div class="details"><p data-zh="王义丹长期从事合成生物学与抗病毒免疫交叉研究，先后师从华东师范大学叶海峰教授和新加坡国立大学王林发院士。入选国家“博士后创新人才支持计划”和上海市“超级博士后”激励计划，主持国家自然科学基金青年项目等4项，参与申请专利2项。研究聚焦病毒识别、感染阻断与免疫精准调控，运用模块化设计与可编程调控策略解析病毒—宿主—免疫互作，开发合成免疫受体与免疫样细胞。成果发表于Nature Communications、Science Advances、Nature Chemical Biology、Science Translational Medicine、Molecular Therapy等期刊。未来拟以可控病毒载体与疫苗设计为方向，融合病毒学、合成生物学与计算生物学，构建模块化可调控载体平台，研究载体强度与持续时间对免疫保护的影响，寻找效力、持久性与安全性的平衡点。" data-en="Dr. Yidan Wang works at the interface of synthetic biology and antiviral immunity. She trained with Prof. Haifeng Ye at East China Normal University and Academician Linfa Wang at the National University of Singapore. She was selected for the National Postdoctoral Program for Innovative Talents and the Shanghai Super Postdoctoral Incentive Program. She has led four research projects, including an NSFC Young Scientists Fund project, and is a co-applicant on two patent applications. Her research focuses on viral recognition, infection blockade, and the control of immune responses. She uses modular design and programmable regulation to study interactions between viruses and host immunity and to develop synthetic immune receptors and immune-like cells. Her work has appeared in Nature Communications, Science Advances, Nature Chemical Biology, Science Translational Medicine, and Molecular Therapy. Her independent research will focus on controllable viral vectors and vaccine design. By combining virology, synthetic biology, and computational biology, she aims to build modular, tunable vector platforms and study how the strength and duration of vector activity shape immune protection, with the goal of balancing vaccine potency, durability, and safety.">王义丹长期从事合成生物学与抗病毒免疫交叉研究，先后师从华东师范大学叶海峰教授和新加坡国立大学王林发院士。入选国家“博士后创新人才支持计划”和上海市“超级博士后”激励计划，主持国家自然科学基金青年项目等4项，参与申请专利2项。研究聚焦病毒识别、感染阻断与免疫精准调控，运用模块化设计与可编程调控策略解析病毒—宿主—免疫互作，开发合成免疫受体与免疫样细胞。成果发表于Nature Communications、Science Advances、Nature Chemical Biology、Science Translational Medicine、Molecular Therapy等期刊。未来拟以可控病毒载体与疫苗设计为方向，融合病毒学、合成生物学与计算生物学，构建模块化可调控载体平台，研究载体强度与持续时间对免疫保护的影响，寻找效力、持久性与安全性的平衡点。</p></div></section>
 <section id="bio" class="row"><h2 data-zh="学术经历" data-en="Academic Background">学术经历</h2><div class="details">
-<h3 data-zh="教育背景" data-en="Education">教育背景</h3><ol class="timeline"><li><span data-zh="2010.09 – 2014.07" data-en="2010.09 – 2014.07">2010.09 – 2014.07</span><div><strong data-zh="中南大学" data-en="Central South University">中南大学</strong><p data-zh="生命科学学院 · 生物科学 · 学士" data-en="School of Life Sciences · Bachelor’s degree in Biological Sciences">生命科学学院 · 生物科学 · 学士</p><p data-zh="毕业设计导师：李家大教授" data-en="Thesis advisor: Prof. Jiada Li">毕业设计导师：李家大教授</p></div></li>
-<li><span data-zh="2014.09 – 2020.06" data-en="2014.09 – 2020.06">2014.09 – 2020.06</span><div><strong data-zh="华东师范大学" data-en="East China Normal University">华东师范大学</strong><p data-zh="生命科学学院 · 生物化学与分子生物学 · 硕博连读，获博士学位" data-en="School of Life Sciences · Integrated master’s and doctoral program in Biochemistry and Molecular Biology (PhD)">生命科学学院 · 生物化学与分子生物学 · 硕博连读，获博士学位</p><p data-zh="导师：叶海峰教授" data-en="Advisor: Prof. Haifeng Ye">导师：叶海峰教授</p></div></li></ol><h3 data-zh="工作背景" data-en="Research Appointments">工作背景</h3><ol class="timeline"><li><span data-zh="2020.06 – 2026.04" data-en="2020.06 – 2026.04">2020.06 – 2026.04</span><div><strong data-zh="华东师范大学" data-en="East China Normal University">华东师范大学</strong><p data-zh="生命科学学院 · 医学合成生物学 · 博士后" data-en="School of Life Sciences · Medical Synthetic Biology · Postdoctoral Fellow">生命科学学院 · 医学合成生物学 · 博士后</p><p data-zh="合作导师：叶海峰教授" data-en="Mentor: Prof. Haifeng Ye">合作导师：叶海峰教授</p></div></li>
-<li><span data-zh="2023.08 – 2026.05" data-en="2023.08 – 2026.05">2023.08 – 2026.05</span><div><strong data-zh="杜克–新加坡国立大学医学院" data-en="Duke-NUS Medical School">杜克–新加坡国立大学医学院</strong><p data-zh="新发传染病项目 · 访问博士后" data-en="Emerging Infectious Diseases Programme · Visiting Postdoctoral Fellow">新发传染病项目 · 访问博士后</p><p data-zh="合作导师：王林发教授、叶海峰教授" data-en="Mentors: Prof. Lin-Fa Wang and Prof. Haifeng Ye">合作导师：王林发教授、叶海峰教授</p></div></li>
-<li><span data-zh="2026.06 – 至今" data-en="2026.06 – Present">2026.06 – 至今</span><div><strong data-zh="新加坡国立大学" data-en="National University of Singapore">新加坡国立大学</strong><p data-zh="杨潞龄医学院 · 微生物与免疫学系 · 博士后" data-en="Yong Loo Lin School of Medicine · Department of Microbiology and Immunology · Postdoctoral Research Fellow">杨潞龄医学院 · 微生物与免疫学系 · 博士后</p><p data-zh="合作导师：王林发教授、Tan Chee Wah 助理教授" data-en="Mentors: Prof. Lin-Fa Wang and Asst. Prof. Chee Wah Tan">合作导师：王林发教授、Tan Chee Wah 助理教授</p></div></li></ol>
+<h3 data-zh="教育背景" data-en="Education">教育背景</h3><ol class="timeline"><li><span data-zh="2010.09 – 2014.07" data-en="2010.09 – 2014.07">2010.09 – 2014.07</span><div><strong data-zh="中南大学" data-en="Central South University">中南大学</strong><p data-zh="生命科学学院 · 生物科学 · 学士" data-en="School of Life Sciences · Bachelor’s degree in Biological Sciences">生命科学学院 · 生物科学 · 学士</p><p data-zh="毕业设计导师：李家大 教授" data-en="Thesis advisor: Prof. Jiada Li">毕业设计导师：李家大 教授</p></div></li>
+<li><span data-zh="2014.09 – 2020.06" data-en="2014.09 – 2020.06">2014.09 – 2020.06</span><div><strong data-zh="华东师范大学" data-en="East China Normal University">华东师范大学</strong><p data-zh="生命科学学院 · 生物化学与分子生物学 · 硕博连读，获博士学位" data-en="School of Life Sciences · Integrated master’s and doctoral program in Biochemistry and Molecular Biology (PhD)">生命科学学院 · 生物化学与分子生物学 · 硕博连读，获博士学位</p><p data-zh="导师：叶海峰 教授" data-en="Advisor: Prof. Haifeng Ye">导师：叶海峰 教授</p></div></li></ol><h3 data-zh="工作背景" data-en="Research Appointments">工作背景</h3><ol class="timeline"><li><span data-zh="2020.06 – 2026.04" data-en="2020.06 – 2026.04">2020.06 – 2026.04</span><div><strong data-zh="华东师范大学" data-en="East China Normal University">华东师范大学</strong><p data-zh="生命科学学院 · 医学合成生物学 · 博士后" data-en="School of Life Sciences · Medical Synthetic Biology · Postdoctoral Fellow">生命科学学院 · 医学合成生物学 · 博士后</p><p data-zh="合作导师：叶海峰 教授" data-en="Mentor: Prof. Haifeng Ye">合作导师：叶海峰 教授</p></div></li>
+<li><span data-zh="2023.08 – 2026.05" data-en="2023.08 – 2026.05">2023.08 – 2026.05</span><div><strong data-zh="杜克–新加坡国立大学医学院" data-en="Duke-NUS Medical School">杜克–新加坡国立大学医学院</strong><p data-zh="新发传染病项目 · 访问博士后" data-en="Emerging Infectious Diseases Programme · Visiting Postdoctoral Fellow">新发传染病项目 · 访问博士后</p><p data-zh="合作导师：王林发 教授、叶海峰 教授" data-en="Mentors: Prof. Lin-Fa Wang and Prof. Haifeng Ye">合作导师：王林发 教授、叶海峰 教授</p></div></li>
+<li><span data-zh="2026.06 – 至今" data-en="2026.06 – Present">2026.06 – 至今</span><div><strong data-zh="新加坡国立大学" data-en="National University of Singapore">新加坡国立大学</strong><p data-zh="杨潞龄医学院 · 微生物与免疫学系 · 博士后" data-en="Yong Loo Lin School of Medicine · Department of Microbiology and Immunology · Postdoctoral Research Fellow">杨潞龄医学院 · 微生物与免疫学系 · 博士后</p><p data-zh="合作导师：王林发 教授、Tan Chee Wah 助理教授" data-en="Mentors: Prof. Lin-Fa Wang and Asst. Prof. Chee Wah Tan">合作导师：王林发 教授、Tan Chee Wah 助理教授</p></div></li></ol>
 </div></section>
 <section id="publications" class="row"><h2 data-zh="已发表论文" data-en="Publications">已发表论文</h2><ol class="papers">
 <li><div class="paper-meta"><span>Wang Y, Xu Y, Tan CW, et al.</span><strong>Engineering antiviral immune-like systems for autonomous virus detection and inhibition in mice</strong><span><i>Nature Communications</i> · 2022, 13(1), 7629</span><span data-zh="第一作者" data-en="First author">第一作者</span><a href="https://doi.org/10.1038/s41467-022-35425-9" target="_blank" rel="noopener noreferrer">10.1038/s41467-022-35425-9</a></div><div class="paper-summary"><h4 data-zh="摘要概述" data-en="Abstract summary">摘要概述</h4><p data-zh="这项研究开发了一套可在感知病毒后启动抗病毒反应的工程化细胞系统。研究团队在小鼠单纯疱疹病毒性角膜炎模型中观察到感染受到抑制，验证了将病毒检测与按需干预相结合的可行性。" data-en="This study developed an engineered cellular system that activates antiviral responses upon detecting infection. The system suppressed infection in a mouse model of herpes simplex keratitis, providing proof of concept for coupling viral detection to on-demand intervention.">这项研究开发了一套可在感知病毒后启动抗病毒反应的工程化细胞系统。研究团队在小鼠单纯疱疹病毒性角膜炎模型中观察到感染受到抑制，验证了将病毒检测与按需干预相结合的可行性。</p></div></li>
