@@ -119,7 +119,7 @@ header{border-top:0}
 #honours .honours{padding-left:1.25rem;margin:0;color:var(--ink)}
 #honours li+li{margin-top:.6em}
 
-/* Align the portrait with the left column of the page. */
+/* Share the page margin while giving the introduction a wider column. */
 main {
   --content-width: 1000px;
   --column-gap: clamp(22px, 3vw, 36px);
@@ -139,7 +139,7 @@ main .hero-grid {
   box-shadow: 0 10px 30px #1c53451a;
 }
 .hero h1 { font-size: clamp(2.85rem, 6vw, 4.5rem); }
-.hero .intro { max-width: 60ch; }
+.hero .intro { max-width: 48ch; text-wrap: pretty; }
 .hero-copy { min-width: 0; overflow-wrap: anywhere; }
 .hero .role span { display: block; }
 .hero .contact {
@@ -151,19 +151,9 @@ main .hero-grid {
 .hero .profile-links { border: 0; padding: 0; margin-top: 8px; }
 @media (min-width: 761px) {
   main .hero-grid {
-    grid-template-columns: var(--page-columns);
-    align-items: stretch;
-  }
-  .hero-portrait { position: relative; }
-  .hero-portrait img {
-    position: absolute;
-    inset: 0;
-    margin: 0;
-    height: 100%;
-    width: auto;
-    max-width: 100%;
-    object-fit: contain;
-    object-position: left center;
+    grid-template-columns: minmax(0, 1fr) clamp(265px, 30vw, 340px);
+    gap: clamp(36px, 6vw, 80px);
+    align-items: center;
   }
   main .row { grid-template-columns: var(--page-columns); gap: var(--column-gap); }
 }
